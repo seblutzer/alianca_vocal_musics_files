@@ -1,0 +1,142 @@
+{
+  "lastUpdated": "2026-03-06T05:07:18Z",
+  "musics": {
+    "som_e_louvor_o_lirio_ressurgiu": {
+      "author": "Som e Louvor",
+      "xml": {
+        "size": 1150122,
+        "hash": "3e8aa51a08cf06aad9412c66d0b8bb69e6e5c19dad5c02dcc1e0eccb69ccadb2"
+      },
+      "audio": {
+        "size": 2375255,
+        "format": "opus",
+        "hash": "1e6cc9f21876516e6d491c8fd1cfbaf51461a6657959cd51fc7e2f3cd0703778"
+      },
+      "musicName": "O Lírio Ressurgiu",
+      "properties": {
+        "realDurationMin": "4.7",
+        "offsetSeconds": "2.9"
+      }
+    },
+    "toronto_coral_presente_la_do_ceu": {
+      "author": "Toronto Coral",
+      "xml": {
+        "size": 565279,
+        "hash": "5ab92afe3b2a0ea5b5fcd15ad4dd2ab06c3d375948e794b2cd13e34083205853"
+      },
+      "audio": {
+        "size": 1829994,
+        "format": "opus",
+        "hash": "3ebc8a28ae207bf6ac6b0e272e4cc236d09031b5223ef148b1386d77ceb48c90"
+      },
+      "musicName": "Presente Lá do Céu",
+      "properties": {
+        "realDurationMin": "3.408",
+        "offsetSeconds": "0.3"
+      }
+    },
+    "unknown_usa-me,_renova-me_com_tal_qual_estou": {
+      "author": "unknown",
+      "xml": {
+        "size": 307291,
+        "hash": "debc63ebe70ee21c1c64ddf0fcc3a4a04ac10aa5fe81c90416d40241c7a380f3"
+      },
+      "audio": {
+        "size": 1583921,
+        "format": "opus",
+        "hash": "64a86b5055b2bfd3289bc2d42cf96f4850b796e185c30016d737fbc048db5804"
+      },
+      "musicName": "Usa-me, Renova-me com Tal Qual Estou",
+      "properties": {
+        "realDurationMin": "2.96",
+        "offsetSeconds": "-0.2"
+      }
+    },
+    "coral_do_unasp_vinde_benditos": {
+      "author": "Coral do UNASP",
+      "xml": {
+        "size": 624976,
+        "hash": "8c8b78247a33539aac12876e1e82d8c273d42b1a2d1a7972da7567c6a339b3bd"
+      },
+      "audio": {
+        "size": 2068994,
+        "format": "opus",
+        "hash": "f9097d6c17efb3202a74e374034d3c9ff4b196627f04342b579a5bcf42d85f93"
+      },
+      "musicName": "Vinde Benditos",
+      "properties": {
+        "realDurationMin": "4.0115",
+        "offsetSeconds": "0.28"
+      }
+    },
+    "prisma_brasil_meu_lar": {
+      "author": "Prisma Brasil",
+      "xml": {
+        "size": 920740,
+        "hash": "354172dc94f3e1d4274369a15f7bebd9b4dbf602919c2a125e7a84416d673ee8"
+      },
+      "audio": {
+        "size": 2332508,
+        "format": "opus",
+        "hash": "8188c845d6b15fa4529de537344207d5791f025f39770ae90df5d62f36ace677"
+      },
+      "musicName": "Meu Lar",
+      "properties": {
+        "realDurationMin": "4.5920",
+        "offsetSeconds": "1.80"
+      }
+    },
+    "vocal_livre_quem_de_nos": {
+      "author": "Vocal Livre",
+      "xml": {
+        "size": 795402,
+        "hash": "fa668d99602af3608f2dfd8eb4f1425e4b7ed956bbc7c216a05b013c23f34d68"
+      },
+      "audio": {
+        "size": 2510171,
+        "format": "opus",
+        "hash": "5986230f83fc2fc0457bbee6d8c703b47529a98ac227f43d16e1584ba1ab7b9b"
+      },
+      "musicName": "Quem de Nós",
+      "properties": {
+        "realDurationMin": "4.8",
+        "offsetSeconds": "3.2"
+      }
+    },
+    "prisma_brasil_agradece_ao_pai": {
+      "author": "Prisma Brasil",
+      "xml": {
+        "size": 597300,
+        "hash": "928549e48d775e1c79ee0c84fe1a1c4f3bf2f3d655503015417db20592a516eb"
+      },
+      "audio": {
+        "size": 1822895,
+        "format": "opus",
+        "hash": "b0a96a291f1a075b87d706743d747fbd573c9359a41a592333ea34400fe477f0"
+      },
+      "musicName": "Agradece ao Pai",
+      "properties": {
+        "realDurationMin": "3.055",
+        "offsetSeconds": "13.00"
+      }
+    },
+    "nova_voz_digno_e_o_senhor": {
+      "author": "Nova Voz",
+      "xml": {
+        "size": 853555,
+        "hash": "07d450c19ada75f4b8b4415b171e0cc577284c514f60149eb42b39e4ff3aca28"
+      },
+      "audio": {
+        "size": 2652757,
+        "format": "opus",
+        "hash": "73e4879d9c4bc4f49d94a003341acd9c154ad40658aad09621284f5c44fac4be"
+      },
+      "musicName": "Digno é o Senhor",
+      "properties": {
+        "realDurationMin": "5.0620",
+        "offsetSeconds": "2.00"
+      }
+    }
+  },
+  "version": "1.0"
+}
