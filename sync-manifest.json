@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-03-07T07:23:06Z",
+  "lastUpdated": "2026-03-07T16:12:13Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
       "xml": {
-        "size": 1150122,
-        "hash": "3e8aa51a08cf06aad9412c66d0b8bb69e6e5c19dad5c02dcc1e0eccb69ccadb2"
+        "size": 1133376,
+        "hash": "210591b838d3b978e7b20da971a8bbc058601ca777b7d5ccd07345d91131890d"
       },
       "audio": {
         "size": 2375255,
@@ -14,8 +14,8 @@
       },
       "musicName": "O Lírio Ressurgiu",
       "properties": {
-        "realDurationMin": "4.7",
-        "offsetSeconds": "2.9"
+        "realDurationMin": "4.7000",
+        "offsetSeconds": "2.90"
       }
     },
     "toronto_coral_presente_la_do_ceu": {
