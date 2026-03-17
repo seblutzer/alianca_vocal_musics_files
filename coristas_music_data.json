@@ -13,7 +13,7 @@
         "range_min" : "G2",
         "range_max" : "C4",
         "voz_calculada" : "Baixo",
-        "voz_atribuida" : "Tenor",
+        "voz_atribuida" : "Baixo",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Tenor", "Barítono", "Baixo" ]
       },
@@ -37,7 +37,7 @@
         "range_min" : "F3",
         "range_max" : "F#4",
         "voz_calculada" : "Tenor",
-        "voz_atribuida" : "Contralto",
+        "voz_atribuida" : "Mezzo-soprano",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Contralto", "Tenor", "Barítono" ]
       },
@@ -77,7 +77,7 @@
         "range_min" : "E2",
         "range_max" : "A#4",
         "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Tenor",
+        "voz_atribuida" : "Barítono",
         "vozes_recomendadas" : [ "Barítono", "Tenor", "Baixo" ],
         "vozes_possiveis" : [ "Contralto" ]
       },
@@ -85,7 +85,7 @@
         "range_min" : "F3",
         "range_max" : "F5",
         "voz_calculada" : "Mezzo-soprano",
-        "voz_atribuida" : "Contralto",
+        "voz_atribuida" : "Mezzo-soprano",
         "vozes_recomendadas" : [ "Mezzo-soprano", "Contralto" ],
         "vozes_possiveis" : [ "Soprano", "Tenor" ]
       },
@@ -93,7 +93,7 @@
         "range_min" : "F3",
         "range_max" : "D#5",
         "voz_calculada" : "Contralto",
-        "voz_atribuida" : "Contralto",
+        "voz_atribuida" : "Mezzo-soprano",
         "vozes_recomendadas" : [ "Contralto" ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Tenor" ]
       }
@@ -409,6 +409,39 @@
       },
       "timestamp" : "2026-03-13 05:34:29"
     },
+    "Nova Voz - Digno é o Senhor" : {
+      "root" : "F#",
+      "mode" : "major",
+      "grupo" : "Aliança Vocal",
+      "ranges" : {
+        "Contralto" : {
+          "min" : "F3",
+          "max" : "A4"
+        },
+        "Soprano" : {
+          "min" : "F3",
+          "max" : "C5"
+        },
+        "Baixo" : {
+          "min" : "D3",
+          "max" : "D4"
+        },
+        "Tenor" : {
+          "min" : "D3",
+          "max" : "F4"
+        }
+      },
+      "solistas" : {
+        "Dalva Lutzer" : [ "F3", "C5" ]
+      },
+      "voices" : {
+        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
+        "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
+        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
+        "Baixo" : [ "João Pedro", "Willian Modro" ]
+      },
+      "timestamp" : "2026-03-17 15:24:51"
+    },
     "unknown - Usa-me, Renova-me com Tal Qual Estou" : {
       "root" : "Bb",
       "mode" : "major",
@@ -433,62 +466,12 @@
       },
       "solistas" : { },
       "voices" : {
+        "Soprano" : [ "Kátia Vanessa", "Paloma", "Dalva Lutzer" ],
         "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Elisângela Modro" ],
-        "Soprano" : [ "Dalva Lutzer", "Kátia Vanessa", "Paloma" ],
-        "Baixo" : [ "João Pedro", "Samuel Dorta", "Willian Modro" ],
-        "Tenor" : [ "Eduardo Lutzer", "Douglas Madoks" ]
+        "Tenor" : [ "Eduardo Lutzer", "Douglas Madoks" ],
+        "Baixo" : [ "João Pedro", "Willian Modro", "Samuel Dorta" ]
       },
-      "timestamp" : "2026-03-12 14:10:33"
-    },
-    "Nova Voz - Digno é o Senhor" : {
-      "root" : "E",
-      "mode" : "major",
-      "grupo" : "Aliança Vocal",
-      "ranges" : {
-        "Barítono" : {
-          "min" : "Eb3",
-          "max" : "F4"
-        },
-        "Contralto" : {
-          "min" : "C4",
-          "max" : "C5"
-        },
-        "Soprano" : {
-          "min" : "Eb4",
-          "max" : "D5"
-        },
-        "Mezzo-soprano" : {
-          "min" : "Eb4",
-          "max" : "C5"
-        },
-        "Baixo" : {
-          "min" : "G2",
-          "max" : "D4"
-        },
-        "Tenor" : {
-          "min" : "Eb3",
-          "max" : "F4"
-        }
-      },
-      "solistas" : { },
-      "voices" : {
-        "Barítono" : [ "Willian Modro" ],
-        "Contralto" : [ "Manu Laurindo", "Georgia" ],
-        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
-        "Mezzo-soprano" : [ "Taty", "Dalva Lutzer", "Elisângela Modro" ],
-        "Baixo" : [ "Samuel Dorta", "João Pedro" ],
-        "Tenor" : [ "Eduardo Lutzer", "Douglas Madoks" ]
-      },
-      "timestamp" : "2026-03-13 05:34:51"
-    },
-    "Fernando Iglesias - Será que o Céu Sabia_" : {
-      "root" : null,
-      "mode" : null,
-      "grupo" : "Eduardo e Dalva",
-      "ranges" : null,
-      "solistas" : null,
-      "voices" : null,
-      "timestamp" : "2026-03-13 02:47:13"
+      "timestamp" : "2026-03-16 17:31:59"
     }
   }
 }
