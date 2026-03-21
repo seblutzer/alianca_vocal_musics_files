@@ -13,7 +13,7 @@
         "range_min" : "G2",
         "range_max" : "C4",
         "voz_calculada" : "Baixo",
-        "voz_atribuida" : "Baixo",
+        "voz_atribuida" : "Tenor",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Tenor", "Barítono", "Baixo" ]
       },
@@ -37,7 +37,7 @@
         "range_min" : "F3",
         "range_max" : "F#4",
         "voz_calculada" : "Tenor",
-        "voz_atribuida" : "Mezzo-soprano",
+        "voz_atribuida" : "Contralto",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Contralto", "Tenor", "Barítono" ]
       },
@@ -57,14 +57,6 @@
         "vozes_recomendadas" : [ "Tenor" ],
         "vozes_possiveis" : [ "Barítono" ]
       },
-      "João Pedro" : {
-        "range_min" : "C2",
-        "range_max" : "C4",
-        "voz_calculada" : "Baixo",
-        "voz_atribuida" : "Baixo",
-        "vozes_recomendadas" : [ "Baixo" ],
-        "vozes_possiveis" : [ "Barítono" ]
-      },
       "Georgia" : {
         "range_min" : "E3",
         "range_max" : "A#4",
@@ -77,7 +69,7 @@
         "range_min" : "E2",
         "range_max" : "A#4",
         "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Barítono",
+        "voz_atribuida" : "Baixo",
         "vozes_recomendadas" : [ "Barítono", "Tenor", "Baixo" ],
         "vozes_possiveis" : [ "Contralto" ]
       },
@@ -85,7 +77,7 @@
         "range_min" : "F3",
         "range_max" : "F5",
         "voz_calculada" : "Mezzo-soprano",
-        "voz_atribuida" : "Mezzo-soprano",
+        "voz_atribuida" : "Contralto",
         "vozes_recomendadas" : [ "Mezzo-soprano", "Contralto" ],
         "vozes_possiveis" : [ "Soprano", "Tenor" ]
       },
@@ -93,7 +85,7 @@
         "range_min" : "F3",
         "range_max" : "D#5",
         "voz_calculada" : "Contralto",
-        "voz_atribuida" : "Mezzo-soprano",
+        "voz_atribuida" : "Contralto",
         "vozes_recomendadas" : [ "Contralto" ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Tenor" ]
       }
@@ -146,70 +138,12 @@
         "Dalva Lutzer" : [ "A3", "A4" ]
       },
       "voices" : {
-        "Barítono" : [ "Samuel Dorta", "João Pedro" ],
+        "Barítono" : [ "Samuel Dorta" ],
         "Contralto" : [ "Manu Laurindo", "Georgia", "Elisângela Modro" ],
         "Mezzo-soprano" : [ "Kátia Vanessa", "Paloma", "Taty", "Dalva Lutzer" ],
         "Tenor" : [ "Eduardo Lutzer", "Douglas Madoks", "Willian Modro" ]
       },
       "timestamp" : "2026-03-13 02:49:30"
-    },
-    "Fernando Iglesias - O Deus que eu Conheço" : {
-      "root" : "C",
-      "mode" : "maior",
-      "grupo" : "Eduardo e Dalva",
-      "ranges" : {
-        "Mezzo-soprano" : {
-          "min" : "C4",
-          "max" : "F5"
-        },
-        "Tenor" : {
-          "min" : "C3",
-          "max" : "F4"
-        }
-      },
-      "solistas" : { },
-      "voices" : {
-        "Tenor" : [ "Eduardo Lutzer" ],
-        "Mezzo-soprano" : [ "Dalva Lutzer" ]
-      },
-      "timestamp" : "2026-02-09 14:51:59"
-    },
-    "Fernando Iglesias - Será que o Céu Sabia?" : {
-      "root" : "G",
-      "mode" : "maior",
-      "grupo" : "Eduardo e Dalva",
-      "ranges" : {
-        "Soprano" : {
-          "min" : "",
-          "max" : ""
-        },
-        "Mezzo-soprano" : {
-          "min" : "G3",
-          "max" : "E5"
-        },
-        "Contralto" : {
-          "min" : "",
-          "max" : ""
-        },
-        "Tenor" : {
-          "min" : "G2",
-          "max" : "E4"
-        },
-        "Barítono" : {
-          "min" : "",
-          "max" : ""
-        },
-        "Baixo" : {
-          "min" : "",
-          "max" : ""
-        }
-      },
-      "solistas" : { },
-      "voices" : {
-        "Tenor" : [ "Eduardo Lutzer" ],
-        "Mezzo-soprano" : [ "Dalva Lutzer" ]
-      },
-      "timestamp" : "2026-02-07 08:16:13"
     },
     "Coral do UNASP - Vinde Benditos" : {
       "root" : "E",
@@ -247,7 +181,7 @@
         "Contralto" : [ "Manu Laurindo", "Georgia" ],
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Mezzo-soprano" : [ "Taty", "Dalva Lutzer", "Elisângela Modro" ],
-        "Baixo" : [ "Samuel Dorta", "João Pedro" ],
+        "Baixo" : [ "Samuel Dorta" ],
         "Tenor" : [ "Eduardo Lutzer", "Douglas Madoks" ]
       },
       "timestamp" : "2026-03-13 05:34:39"
@@ -278,7 +212,7 @@
       "voices" : {
         "Contralto" : [ "Manu Laurindo", "Elisângela Modro", "Georgia" ],
         "Tenor" : [ "Douglas Madoks", "Eduardo Lutzer" ],
-        "Baixo" : [ "João Pedro", "Samuel Dorta", "Willian Modro" ],
+        "Baixo" : [ "Samuel Dorta", "Willian Modro" ],
         "Mezzo-soprano" : [ "Taty", "Kátia Vanessa", "Paloma", "Dalva Lutzer" ]
       },
       "timestamp" : "2026-02-15 18:44:22"
@@ -311,7 +245,7 @@
       "voices" : {
         "Contralto" : [ "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
-        "Baixo" : [ "Samuel Dorta", "Douglas Madoks", "João Pedro" ],
+        "Baixo" : [ "Samuel Dorta", "Douglas Madoks" ],
         "Tenor" : [ "Eduardo Lutzer", "Taty", "Willian Modro" ]
       },
       "timestamp" : "2026-03-13 05:40:55"
@@ -342,7 +276,6 @@
       "voices" : {
         "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
-        "Baixo" : [ "João Pedro" ],
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks", "Willian Modro" ]
       },
       "timestamp" : "2026-03-14 03:36:26"
@@ -404,10 +337,41 @@
         "Contralto" : [ "Manu Laurindo", "Georgia" ],
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Mezzo-soprano" : [ "Taty", "Dalva Lutzer", "Elisângela Modro" ],
-        "Baixo" : [ "Samuel Dorta", "João Pedro" ],
+        "Baixo" : [ "Samuel Dorta" ],
         "Tenor" : [ "Eduardo Lutzer", "Douglas Madoks" ]
       },
       "timestamp" : "2026-03-13 05:34:29"
+    },
+    "unknown - Usa-me, Renova-me com Tal Qual Estou" : {
+      "root" : "Bb",
+      "mode" : "major",
+      "grupo" : "Aliança Vocal",
+      "ranges" : {
+        "Contralto" : {
+          "min" : "A3",
+          "max" : "A4"
+        },
+        "Soprano" : {
+          "min" : "D4",
+          "max" : "D5"
+        },
+        "Baixo" : {
+          "min" : "G2",
+          "max" : "G3"
+        },
+        "Tenor" : {
+          "min" : "E3",
+          "max" : "D4"
+        }
+      },
+      "solistas" : { },
+      "voices" : {
+        "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Elisângela Modro" ],
+        "Soprano" : [ "Dalva Lutzer", "Kátia Vanessa", "Paloma" ],
+        "Baixo" : [ "Samuel Dorta", "Willian Modro" ],
+        "Tenor" : [ "Eduardo Lutzer", "Douglas Madoks" ]
+      },
+      "timestamp" : "2026-03-12 14:10:33"
     },
     "Nova Voz - Digno é o Senhor" : {
       "root" : "F#",
@@ -435,43 +399,73 @@
         "Dalva Lutzer" : [ "F3", "C5" ]
       },
       "voices" : {
-        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
-        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
-        "Baixo" : [ "João Pedro", "Willian Modro" ]
+        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
+        "Baixo" : [ "Samuel Dorta" ],
+        "Tenor" : [ "Eduardo Lutzer", "Douglas Madoks", "Willian Modro" ]
       },
-      "timestamp" : "2026-03-17 15:24:51"
+      "timestamp" : "2026-03-15 07:47:05"
     },
-    "unknown - Usa-me, Renova-me com Tal Qual Estou" : {
-      "root" : "Bb",
-      "mode" : "major",
-      "grupo" : "Aliança Vocal",
+    "Fernando Iglesias - Será que o Céu Sabia?" : {
+      "root" : "G",
+      "mode" : "maior",
+      "grupo" : "Eduardo e Dalva",
       "ranges" : {
-        "Contralto" : {
-          "min" : "A3",
-          "max" : "A4"
-        },
-        "Soprano" : {
-          "min" : "D4",
-          "max" : "D5"
-        },
-        "Baixo" : {
-          "min" : "G2",
-          "max" : "G3"
+        "Mezzo-soprano" : {
+          "min" : "G3",
+          "max" : "E5"
         },
         "Tenor" : {
-          "min" : "E3",
-          "max" : "D4"
+          "min" : "G2",
+          "max" : "E4"
         }
       },
       "solistas" : { },
       "voices" : {
-        "Soprano" : [ "Kátia Vanessa", "Paloma", "Dalva Lutzer" ],
-        "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Elisângela Modro" ],
-        "Tenor" : [ "Eduardo Lutzer", "Douglas Madoks" ],
-        "Baixo" : [ "João Pedro", "Willian Modro", "Samuel Dorta" ]
+        "Mezzo-soprano" : [ "Dalva Lutzer" ],
+        "Tenor" : [ "Eduardo Lutzer" ]
       },
-      "timestamp" : "2026-03-16 17:31:59"
+      "timestamp" : "2026-03-14 13:57:55"
+    },
+    "Fernando Iglesias - Será que o Céu Sabia" : {
+      "root" : null,
+      "mode" : null,
+      "grupo" : "Eduardo e Dalva",
+      "ranges" : null,
+      "solistas" : null,
+      "voices" : null,
+      "timestamp" : "2026-03-14 13:57:58"
+    },
+    "Adoradores 4 - Levanto a Cruz" : {
+      "root" : "C#",
+      "mode" : "major",
+      "grupo" : "Aliança Vocal",
+      "ranges" : {
+        "Contralto" : {
+          "min" : "G3",
+          "max" : "A4"
+        },
+        "Soprano" : {
+          "min" : "A3",
+          "max" : "D5"
+        },
+        "Baixo" : {
+          "min" : "A2",
+          "max" : "F4"
+        },
+        "Tenor" : {
+          "min" : "A2",
+          "max" : "F4"
+        }
+      },
+      "solistas" : { },
+      "voices" : {
+        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
+        "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
+        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
+        "Baixo" : [ "Willian Modro" ]
+      },
+      "timestamp" : "2026-03-21 18:04:20"
     }
   }
 }
