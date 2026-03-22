@@ -465,7 +465,16 @@
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
         "Baixo" : [ "Willian Modro" ]
       },
-      "timestamp" : "2026-03-22 08:53:57"
+      "timestamp" : "2026-03-22 17:08:28"
+    },
+    "Fernando Iglesias - O Deus que eu Conheço" : {
+      "root" : null,
+      "mode" : null,
+      "grupo" : "Eduardo e Dalva",
+      "ranges" : null,
+      "solistas" : null,
+      "voices" : null,
+      "timestamp" : "2026-03-22 12:50:17"
     }
   }
 }
