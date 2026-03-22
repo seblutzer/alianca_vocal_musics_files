@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-22T08:46:17Z",
+  "lastUpdated": "2026-03-22T08:54:09Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -151,7 +151,7 @@
       "musicName": "Levanto a Cruz",
       "properties": {
         "realDurationMin": "4.7980",
-        "offsetSeconds": "1.40"
+        "offsetSeconds": "1.30"
       }
     }
   },
