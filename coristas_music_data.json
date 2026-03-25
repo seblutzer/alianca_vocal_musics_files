@@ -274,11 +274,12 @@
       },
       "solistas" : { },
       "voices" : {
-        "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
-        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks", "Willian Modro" ]
+        "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
+        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
+        "Baixo" : [ "Willian Modro" ]
       },
-      "timestamp" : "2026-03-14 03:36:26"
+      "timestamp" : "2026-03-25 03:45:16"
     },
     "Keroline Oliveira - Vem Pra Mim" : {
       "root" : "C",
