@@ -986,6 +986,14 @@
    <attributes>
     <staff-details number="1" print-object="yes"/>
    </attributes>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>66.1</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note color="#000000" default-x="85">
     <pitch>
      <step>G</step>
@@ -1004,6 +1012,14 @@
   </measure>
   <!--============== Part: P1, Measure: 13 ==============-->
   <measure number="13" width="459">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>65.0</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note default-x="15">
     <rest/>
     <duration>128</duration>
@@ -1219,6 +1235,14 @@
   </measure>
   <!--============== Part: P1, Measure: 14 ==============-->
   <measure number="14" width="336">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>64.1</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note color="#000000" default-x="15" default-y="-5">
     <pitch>
      <step>F</step>
@@ -1379,6 +1403,14 @@
    <attributes>
     <staff-details number="1" print-object="yes"/>
    </attributes>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>65.0</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note default-x="85">
     <rest/>
     <duration>192</duration>
@@ -1598,6 +1630,14 @@
   </measure>
   <!--============== Part: P1, Measure: 16 ==============-->
   <measure number="16" width="197">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>66.7</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note color="#000000" default-x="15" default-y="-5">
     <pitch>
      <step>E</step>
@@ -1626,6 +1666,14 @@
   </measure>
   <!--============== Part: P1, Measure: 17 ==============-->
   <measure number="17" width="345">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>65.0</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note default-x="15">
     <rest/>
     <duration>512</duration>
@@ -2599,7 +2647,7 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>68.6</per-minute>
+      <per-minute>67.0</per-minute>
      </metronome>
     </direction-type>
    </direction>
@@ -3944,7 +3992,7 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>64.6</per-minute>
+      <per-minute>63.9</per-minute>
      </metronome>
     </direction-type>
    </direction>
@@ -4510,7 +4558,7 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>62.1</per-minute>
+      <per-minute>63.3</per-minute>
      </metronome>
     </direction-type>
    </direction>
@@ -5393,7 +5441,7 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>63.5</per-minute>
+      <per-minute>62.4</per-minute>
      </metronome>
     </direction-type>
    </direction>
@@ -5510,7 +5558,7 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>65.0</per-minute>
+      <per-minute>63.4</per-minute>
      </metronome>
     </direction-type>
    </direction>
@@ -5611,7 +5659,7 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>62.8</per-minute>
+      <per-minute>65.2</per-minute>
      </metronome>
     </direction-type>
    </direction>
