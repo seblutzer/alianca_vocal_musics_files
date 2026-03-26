@@ -6302,7 +6302,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part1verse1">
      <syllabic>end</syllabic>
-     <text>to</text>
+     <text>to,</text>
     </lyric>
    </note>
   </measure>
@@ -6350,7 +6350,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part1verse1">
      <syllabic>end</syllabic>
-     <text>to</text>
+     <text>to,</text>
     </lyric>
    </note>
   </measure>
@@ -6430,7 +6430,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part1verse1">
      <syllabic>single</syllabic>
-     <text>Deus</text>
+     <text>Deus!</text>
     </lyric>
    </note>
    <note default-x="139">
@@ -13591,7 +13591,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-95" number="part2verse1">
      <syllabic>end</syllabic>
-     <text>to</text>
+     <text>to,</text>
     </lyric>
    </note>
   </measure>
@@ -13639,7 +13639,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-95" number="part2verse1">
      <syllabic>end</syllabic>
-     <text>to</text>
+     <text>to,</text>
     </lyric>
    </note>
   </measure>
@@ -13721,7 +13721,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part2verse1">
      <syllabic>single</syllabic>
-     <text>Deus</text>
+     <text>Deus!</text>
     </lyric>
    </note>
    <note default-x="139">
@@ -21126,7 +21126,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part3verse1">
      <syllabic>end</syllabic>
-     <text>to</text>
+     <text>to,</text>
     </lyric>
    </note>
   </measure>
@@ -21174,7 +21174,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part3verse1">
      <syllabic>end</syllabic>
-     <text>to</text>
+     <text>to,</text>
     </lyric>
    </note>
   </measure>
@@ -21256,7 +21256,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part3verse1">
      <syllabic>single</syllabic>
-     <text>Deus</text>
+     <text>Deus!</text>
     </lyric>
    </note>
    <note default-x="139">
@@ -28287,7 +28287,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part4verse1">
      <syllabic>end</syllabic>
-     <text>to</text>
+     <text>to,</text>
     </lyric>
    </note>
   </measure>
@@ -28335,7 +28335,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part4verse1">
      <syllabic>end</syllabic>
-     <text>to</text>
+     <text>to,</text>
     </lyric>
    </note>
   </measure>
@@ -28417,7 +28417,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part4verse1">
      <syllabic>single</syllabic>
-     <text>Deus</text>
+     <text>Deus!</text>
     </lyric>
    </note>
    <note default-x="139">
