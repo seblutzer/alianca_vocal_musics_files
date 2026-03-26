@@ -341,7 +341,7 @@
     <beam number="1">begin</beam>
     <lyric color="#000000" default-y="-81" number="part1verse1">
      <syllabic>begin</syllabic>
-     <text>dia</text>
+     <text>di</text>
     </lyric>
    </note>
    <note color="#000000" default-x="182">
@@ -472,6 +472,14 @@
   </measure>
   <!--============== Part: P1, Measure: 8 ==============-->
   <measure number="8" width="196">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>65.8</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note color="#000000" default-x="15" default-y="-20">
     <pitch>
      <step>B</step>
@@ -512,6 +520,14 @@
    <attributes>
     <staff-details number="1" print-object="yes"/>
    </attributes>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>65.0</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note default-x="85">
     <rest/>
     <duration>128</duration>
@@ -671,6 +687,14 @@
   </measure>
   <!--============== Part: P1, Measure: 10 ==============-->
   <measure number="10" width="275">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>66.1</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note color="#000000" default-x="15">
     <pitch>
      <step>F</step>
@@ -798,6 +822,14 @@
   </measure>
   <!--============== Part: P1, Measure: 11 ==============-->
   <measure number="11" width="354">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>65.0</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note default-x="15">
     <rest/>
     <duration>128</duration>
@@ -990,7 +1022,7 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>66.1</per-minute>
+      <per-minute>65.3</per-minute>
      </metronome>
     </direction-type>
    </direction>
@@ -1006,7 +1038,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part1verse1">
      <syllabic>single</syllabic>
-     <text>céu</text>
+     <text>céu.</text>
     </lyric>
    </note>
   </measure>
@@ -1713,7 +1745,7 @@
     <beam number="2">begin</beam>
     <lyric color="#000000" default-y="-80" number="part1verse1">
      <syllabic>single</syllabic>
-     <text>Lhe</text>
+     <text>lhe</text>
     </lyric>
    </note>
    <note color="#000000" default-x="323">
@@ -1803,7 +1835,7 @@
     </notations>
     <lyric color="#000000" default-y="-80" number="part1verse1">
      <syllabic>begin</syllabic>
-     <text>con</text>
+     <text>com</text>
     </lyric>
    </note>
    <note color="#000000" default-x="161" default-y="-5">
@@ -1935,7 +1967,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part1verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
     </lyric>
    </note>
    <note default-x="49">
@@ -2152,6 +2184,14 @@
    <attributes>
     <staff-details number="1" print-object="yes"/>
    </attributes>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>64.4</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note default-x="70">
     <rest/>
     <duration>1024</duration>
@@ -2163,6 +2203,14 @@
   </measure>
   <!--============== Part: P1, Measure: 24 ==============-->
   <measure number="24" width="423">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>65.0</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note default-x="15">
     <rest/>
     <duration>1024</duration>
@@ -2366,7 +2414,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric color="#000000" default-y="-91" number="part1verse1">
-     <syllabic>begin</syllabic>
+     <syllabic>single</syllabic>
      <text>sem</text>
     </lyric>
    </note>
@@ -2398,7 +2446,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
     <lyric color="#000000" default-y="-91" number="part1verse1">
-     <syllabic>middle</syllabic>
+     <syllabic>begin</syllabic>
      <text>men</text>
     </lyric>
    </note>
@@ -2956,7 +3004,7 @@
     </notations>
     <lyric color="#000000" default-y="-80" number="part1verse1">
      <syllabic>end</syllabic>
-     <text>viu</text>
+     <text>viu.</text>
     </lyric>
    </note>
   </measure>
@@ -3761,7 +3809,7 @@
     <beam number="2">begin</beam>
     <lyric color="#000000" default-y="-81" number="part1verse1">
      <syllabic>single</syllabic>
-     <text>Lhe</text>
+     <text>lhe</text>
     </lyric>
    </note>
    <note color="#000000" default-x="354">
@@ -3847,7 +3895,7 @@
     </notations>
     <lyric color="#000000" default-y="-81" number="part1verse1">
      <syllabic>begin</syllabic>
-     <text>con</text>
+     <text>com</text>
     </lyric>
    </note>
    <note color="#000000" default-x="68" default-y="2">
@@ -3982,7 +4030,7 @@
     </notations>
     <lyric color="#000000" default-y="-81" number="part1verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
     </lyric>
    </note>
   </measure>
@@ -4101,7 +4149,7 @@
     </notations>
     <lyric color="#000000" default-y="-81" number="part1verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
     </lyric>
    </note>
   </measure>
@@ -4226,7 +4274,7 @@
     </notations>
     <lyric color="#000000" default-y="-80" number="part1verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
      <extend/>
     </lyric>
    </note>
@@ -5228,7 +5276,7 @@
     <beam number="2">begin</beam>
     <lyric color="#000000" default-y="-88" number="part1verse1">
      <syllabic>single</syllabic>
-     <text>Lhe</text>
+     <text>lhe</text>
     </lyric>
    </note>
    <note color="#000000" default-x="401">
@@ -5314,7 +5362,7 @@
     </notations>
     <lyric color="#000000" default-y="-88" number="part1verse1">
      <syllabic>begin</syllabic>
-     <text>con</text>
+     <text>com</text>
     </lyric>
    </note>
    <note color="#000000" default-x="92" default-y="-5">
@@ -5365,7 +5413,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-88" number="part1verse1">
      <syllabic>end</syllabic>
-     <text>der</text>
+     <text>der.</text>
     </lyric>
    </note>
    <note default-x="210">
@@ -5463,7 +5511,7 @@
     </notations>
     <lyric color="#000000" default-y="-88" number="part1verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
     </lyric>
    </note>
    <note default-x="62">
@@ -5576,7 +5624,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part1verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
     </lyric>
    </note>
    <note default-x="130">
@@ -5676,7 +5724,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part1verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
     </lyric>
    </note>
    <note color="#000000" default-x="71" default-y="5">
@@ -6093,7 +6141,7 @@
     <beam number="1">begin</beam>
     <lyric color="#000000" default-y="-81" number="part2verse1">
      <syllabic>begin</syllabic>
-     <text>dia</text>
+     <text>di</text>
     </lyric>
    </note>
    <note color="#000000" default-x="182">
@@ -6754,7 +6802,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part2verse1">
      <syllabic>single</syllabic>
-     <text>céu</text>
+     <text>céu.</text>
     </lyric>
    </note>
   </measure>
@@ -7423,7 +7471,7 @@
     <beam number="2">begin</beam>
     <lyric color="#000000" default-y="-80" number="part2verse1">
      <syllabic>single</syllabic>
-     <text>Lhe</text>
+     <text>lhe</text>
     </lyric>
    </note>
    <note color="#000000" default-x="323">
@@ -7515,7 +7563,7 @@
     </notations>
     <lyric color="#000000" default-y="-80" number="part2verse1">
      <syllabic>begin</syllabic>
-     <text>con</text>
+     <text>com</text>
     </lyric>
    </note>
    <note color="#000000" default-x="161" default-y="-5">
@@ -7647,7 +7695,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part2verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
     </lyric>
    </note>
    <note default-x="49">
@@ -8082,7 +8130,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric color="#000000" default-y="-91" number="part2verse1">
-     <syllabic>begin</syllabic>
+     <syllabic>single</syllabic>
      <text>sem</text>
     </lyric>
    </note>
@@ -8114,7 +8162,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
     <lyric color="#000000" default-y="-91" number="part2verse1">
-     <syllabic>middle</syllabic>
+     <syllabic>begin</syllabic>
      <text>men</text>
     </lyric>
    </note>
@@ -8658,7 +8706,7 @@
     </notations>
     <lyric color="#000000" default-y="-80" number="part2verse1">
      <syllabic>end</syllabic>
-     <text>viu</text>
+     <text>viu.</text>
     </lyric>
    </note>
   </measure>
@@ -9421,7 +9469,7 @@
     <beam number="2">begin</beam>
     <lyric color="#000000" default-y="-81" number="part2verse1">
      <syllabic>single</syllabic>
-     <text>Lhe</text>
+     <text>lhe</text>
     </lyric>
    </note>
    <note color="#000000" default-x="354">
@@ -9499,7 +9547,7 @@
     </notations>
     <lyric color="#000000" default-y="-81" number="part2verse1">
      <syllabic>begin</syllabic>
-     <text>con</text>
+     <text>com</text>
     </lyric>
    </note>
    <note color="#000000" default-x="68" default-y="2">
@@ -9634,7 +9682,7 @@
     </notations>
     <lyric color="#000000" default-y="-81" number="part2verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
     </lyric>
    </note>
   </measure>
@@ -9745,7 +9793,7 @@
     </notations>
     <lyric color="#000000" default-y="-81" number="part2verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
     </lyric>
    </note>
   </measure>
@@ -9864,7 +9912,7 @@
     </notations>
     <lyric color="#000000" default-y="-80" number="part2verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
      <extend/>
     </lyric>
    </note>
@@ -10824,7 +10872,7 @@
     <beam number="2">begin</beam>
     <lyric color="#000000" default-y="-88" number="part2verse1">
      <syllabic>single</syllabic>
-     <text>Lhe</text>
+     <text>lhe</text>
     </lyric>
    </note>
    <note color="#000000" default-x="401">
@@ -10902,7 +10950,7 @@
     </notations>
     <lyric color="#000000" default-y="-88" number="part2verse1">
      <syllabic>begin</syllabic>
-     <text>con</text>
+     <text>com</text>
     </lyric>
    </note>
    <note color="#000000" default-x="92" default-y="-5">
@@ -10953,7 +11001,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-88" number="part2verse1">
      <syllabic>end</syllabic>
-     <text>der</text>
+     <text>der.</text>
     </lyric>
    </note>
    <note default-x="210">
@@ -11043,7 +11091,7 @@
     </notations>
     <lyric color="#000000" default-y="-88" number="part2verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
     </lyric>
    </note>
    <note default-x="62">
@@ -11150,7 +11198,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part2verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
     </lyric>
    </note>
    <note default-x="130">
@@ -11243,7 +11291,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part2verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
     </lyric>
    </note>
   </measure>
@@ -12366,7 +12414,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part3verse1">
      <syllabic>single</syllabic>
-     <text>céu</text>
+     <text>céu.</text>
     </lyric>
    </note>
   </measure>
@@ -13359,7 +13407,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part3verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
     </lyric>
    </note>
    <note default-x="49">
@@ -14432,7 +14480,7 @@
     </notations>
     <lyric color="#000000" default-y="-80" number="part3verse1">
      <syllabic>end</syllabic>
-     <text>viu</text>
+     <text>viu.</text>
     </lyric>
    </note>
   </measure>
@@ -15505,7 +15553,7 @@
     </notations>
     <lyric color="#000000" default-y="-80" number="part3verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
     </lyric>
    </note>
   </measure>
@@ -15616,7 +15664,7 @@
     </notations>
     <lyric color="#000000" default-y="-80" number="part3verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
     </lyric>
    </note>
   </measure>
@@ -15735,7 +15783,7 @@
     </notations>
     <lyric color="#000000" default-y="-80" number="part3verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
      <extend/>
     </lyric>
    </note>
@@ -16419,86 +16467,79 @@
   </measure>
   <!--============== Part: P3, Measure: 45 ==============-->
   <measure number="45" width="238">
-   <note color="#000000" default-x="15" default-y="-40">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>70.0</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
+   <note color="#000000" default-x="15" default-y="-5">
     <pitch>
-     <step>G</step>
+     <step>E</step>
+     <alter>-1</alter>
      <octave>3</octave>
     </pitch>
     <duration>512</duration>
     <tie type="stop"/>
-    <instrument id="P3-I1"/>
+    <instrument id="P1-I1"/>
     <voice>1</voice>
     <type>half</type>
-    <stem>down</stem>
+    <stem>up</stem>
     <staff>1</staff>
     <notations>
-     <tied orientation="over" type="stop"/>
+     <tied orientation="under" type="stop"/>
     </notations>
    </note>
    <note default-x="90">
     <rest/>
     <duration>256</duration>
-    <instrument id="P3-I1"/>
+    <instrument id="P1-I1"/>
     <voice>1</voice>
     <type>quarter</type>
     <staff>1</staff>
    </note>
    <note default-x="134">
     <rest/>
-    <duration>64</duration>
-    <instrument id="P3-I1"/>
+    <duration>128</duration>
+    <instrument id="P1-I1"/>
     <voice>1</voice>
-    <type>16th</type>
+    <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="160" default-y="-42">
-    <pitch>
-     <step>F</step>
-     <octave>3</octave>
-    </pitch>
-    <duration>64</duration>
-    <instrument id="P3-I1"/>
-    <voice>1</voice>
-    <type>16th</type>
-    <accidental>natural</accidental>
-    <stem>down</stem>
-    <staff>1</staff>
-    <beam number="1">begin</beam>
-    <beam number="2">begin</beam>
-    <lyric color="#000000" default-y="-80" number="part3verse1">
-     <syllabic>single</syllabic>
-     <text>Se</text>
-     <extend/>
-    </lyric>
-   </note>
-   <note color="#000000" default-x="185" default-y="-42">
+   <note color="#000000" default-x="185" default-y="9">
     <pitch>
      <step>G</step>
      <octave>3</octave>
     </pitch>
     <duration>64</duration>
-    <instrument id="P3-I1"/>
+    <instrument id="P1-I1"/>
     <voice>1</voice>
     <type>16th</type>
-    <stem>down</stem>
+    <stem>up</stem>
     <staff>1</staff>
-    <beam number="1">continue</beam>
-    <beam number="2">continue</beam>
+    <beam number="1">begin</beam>
+    <beam number="2">begin</beam>
+    <lyric color="#000000" default-y="-80" number="part1verse1">
+     <syllabic>single</syllabic>
+     <text>Se</text>
+    </lyric>
    </note>
-   <note color="#000000" default-x="213" default-y="-42">
+   <note color="#000000" default-x="213" default-y="9">
     <pitch>
      <step>A</step>
      <octave>3</octave>
     </pitch>
     <duration>64</duration>
-    <instrument id="P3-I1"/>
+    <instrument id="P1-I1"/>
     <voice>1</voice>
     <type>16th</type>
-    <stem>down</stem>
+    <stem>up</stem>
     <staff>1</staff>
     <beam number="1">end</beam>
     <beam number="2">end</beam>
-    <lyric color="#000000" default-y="-80" number="part3verse1">
+    <lyric color="#000000" default-y="-80" number="part1verse1">
      <syllabic>begin</syllabic>
      <text>al</text>
     </lyric>
@@ -16635,7 +16676,7 @@
      <tied orientation="over" type="start"/>
     </notations>
     <lyric color="#000000" default-y="-81" number="part3verse1">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>a</text>
      <extend/>
     </lyric>
@@ -16685,7 +16726,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
     <lyric color="#000000" default-y="-81" number="part3verse1">
-     <syllabic>single</syllabic>
+     <syllabic>end</syllabic>
      <text>ma</text>
     </lyric>
    </note>
@@ -16712,7 +16753,7 @@
     <beam number="2">begin</beam>
     <lyric color="#000000" default-y="-81" number="part3verse1">
      <syllabic>single</syllabic>
-     <text>Lhe</text>
+     <text>lhe</text>
     </lyric>
    </note>
    <note color="#000000" default-x="401" default-y="-52">
@@ -16790,7 +16831,7 @@
     </notations>
     <lyric color="#000000" default-y="-81" number="part3verse1">
      <syllabic>begin</syllabic>
-     <text>con</text>
+     <text>com</text>
     </lyric>
    </note>
    <note color="#000000" default-x="92" default-y="-49">
@@ -16841,7 +16882,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-81" number="part3verse1">
      <syllabic>end</syllabic>
-     <text>der</text>
+     <text>der.</text>
     </lyric>
    </note>
    <note default-x="210">
@@ -16930,7 +16971,7 @@
     </notations>
     <lyric color="#000000" default-y="-81" number="part3verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
     </lyric>
    </note>
    <note default-x="88">
@@ -17037,7 +17078,7 @@
     </notations>
     <lyric color="#000000" default-y="-80" number="part3verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
      <extend/>
     </lyric>
    </note>
@@ -17136,7 +17177,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part3verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
     </lyric>
    </note>
   </measure>
@@ -18265,7 +18306,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part4verse1">
      <syllabic>single</syllabic>
-     <text>céu</text>
+     <text>céu.</text>
     </lyric>
    </note>
   </measure>
@@ -19258,7 +19299,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part4verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
     </lyric>
    </note>
    <note default-x="49">
@@ -20331,7 +20372,7 @@
     </notations>
     <lyric color="#000000" default-y="-80" number="part4verse1">
      <syllabic>end</syllabic>
-     <text>viu</text>
+     <text>viu.</text>
     </lyric>
    </note>
   </measure>
@@ -21404,7 +21445,7 @@
     </notations>
     <lyric color="#000000" default-y="-80" number="part4verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
     </lyric>
    </note>
   </measure>
@@ -21515,7 +21556,7 @@
     </notations>
     <lyric color="#000000" default-y="-80" number="part4verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
     </lyric>
    </note>
   </measure>
@@ -21634,7 +21675,7 @@
     </notations>
     <lyric color="#000000" default-y="-80" number="part4verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
      <extend/>
     </lyric>
    </note>
@@ -22318,86 +22359,79 @@
   </measure>
   <!--============== Part: P4, Measure: 45 ==============-->
   <measure number="45" width="238">
-   <note color="#000000" default-x="15" default-y="-40">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>70.0</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
+   <note color="#000000" default-x="15" default-y="-5">
     <pitch>
-     <step>G</step>
+     <step>E</step>
+     <alter>-1</alter>
      <octave>3</octave>
     </pitch>
     <duration>512</duration>
     <tie type="stop"/>
-    <instrument id="P4-I1"/>
+    <instrument id="P1-I1"/>
     <voice>1</voice>
     <type>half</type>
-    <stem>down</stem>
+    <stem>up</stem>
     <staff>1</staff>
     <notations>
-     <tied orientation="over" type="stop"/>
+     <tied orientation="under" type="stop"/>
     </notations>
    </note>
    <note default-x="90">
     <rest/>
     <duration>256</duration>
-    <instrument id="P4-I1"/>
+    <instrument id="P1-I1"/>
     <voice>1</voice>
     <type>quarter</type>
     <staff>1</staff>
    </note>
    <note default-x="134">
     <rest/>
-    <duration>64</duration>
-    <instrument id="P4-I1"/>
+    <duration>128</duration>
+    <instrument id="P1-I1"/>
     <voice>1</voice>
-    <type>16th</type>
+    <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="160" default-y="-42">
-    <pitch>
-     <step>F</step>
-     <octave>3</octave>
-    </pitch>
-    <duration>64</duration>
-    <instrument id="P4-I1"/>
-    <voice>1</voice>
-    <type>16th</type>
-    <accidental>natural</accidental>
-    <stem>down</stem>
-    <staff>1</staff>
-    <beam number="1">begin</beam>
-    <beam number="2">begin</beam>
-    <lyric color="#000000" default-y="-80" number="part4verse1">
-     <syllabic>single</syllabic>
-     <text>Se</text>
-     <extend/>
-    </lyric>
-   </note>
-   <note color="#000000" default-x="185" default-y="-42">
+   <note color="#000000" default-x="185" default-y="9">
     <pitch>
      <step>G</step>
      <octave>3</octave>
     </pitch>
     <duration>64</duration>
-    <instrument id="P4-I1"/>
+    <instrument id="P1-I1"/>
     <voice>1</voice>
     <type>16th</type>
-    <stem>down</stem>
+    <stem>up</stem>
     <staff>1</staff>
-    <beam number="1">continue</beam>
-    <beam number="2">continue</beam>
+    <beam number="1">begin</beam>
+    <beam number="2">begin</beam>
+    <lyric color="#000000" default-y="-80" number="part1verse1">
+     <syllabic>single</syllabic>
+     <text>Se</text>
+    </lyric>
    </note>
-   <note color="#000000" default-x="213" default-y="-42">
+   <note color="#000000" default-x="213" default-y="9">
     <pitch>
      <step>A</step>
      <octave>3</octave>
     </pitch>
     <duration>64</duration>
-    <instrument id="P4-I1"/>
+    <instrument id="P1-I1"/>
     <voice>1</voice>
     <type>16th</type>
-    <stem>down</stem>
+    <stem>up</stem>
     <staff>1</staff>
     <beam number="1">end</beam>
     <beam number="2">end</beam>
-    <lyric color="#000000" default-y="-80" number="part4verse1">
+    <lyric color="#000000" default-y="-80" number="part1verse1">
      <syllabic>begin</syllabic>
      <text>al</text>
     </lyric>
@@ -22534,7 +22568,7 @@
      <tied orientation="over" type="start"/>
     </notations>
     <lyric color="#000000" default-y="-81" number="part4verse1">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>a</text>
      <extend/>
     </lyric>
@@ -22584,7 +22618,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
     <lyric color="#000000" default-y="-81" number="part4verse1">
-     <syllabic>single</syllabic>
+     <syllabic>end</syllabic>
      <text>ma</text>
     </lyric>
    </note>
@@ -22611,7 +22645,7 @@
     <beam number="2">begin</beam>
     <lyric color="#000000" default-y="-81" number="part4verse1">
      <syllabic>single</syllabic>
-     <text>Lhe</text>
+     <text>lhe</text>
     </lyric>
    </note>
    <note color="#000000" default-x="401" default-y="-52">
@@ -22689,7 +22723,7 @@
     </notations>
     <lyric color="#000000" default-y="-81" number="part4verse1">
      <syllabic>begin</syllabic>
-     <text>con</text>
+     <text>com</text>
     </lyric>
    </note>
    <note color="#000000" default-x="92" default-y="-49">
@@ -22740,7 +22774,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-81" number="part4verse1">
      <syllabic>end</syllabic>
-     <text>der</text>
+     <text>der.</text>
     </lyric>
    </note>
    <note default-x="210">
@@ -22829,7 +22863,7 @@
     </notations>
     <lyric color="#000000" default-y="-81" number="part4verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
     </lyric>
    </note>
    <note default-x="88">
@@ -22936,7 +22970,7 @@
     </notations>
     <lyric color="#000000" default-y="-80" number="part4verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
      <extend/>
     </lyric>
    </note>
@@ -23035,7 +23069,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part4verse1">
      <syllabic>end</syllabic>
-     <text>ça</text>
+     <text>ça,</text>
     </lyric>
    </note>
   </measure>
