@@ -3194,10 +3194,6 @@
     <notations>
      <tied type="stop" orientation="under" />
     </notations>
-    <lyric default-y="-80" number="part1verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>.</text>
-    </lyric>
    </note>
    <note default-x="120">
     <rest />
