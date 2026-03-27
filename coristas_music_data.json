@@ -13,7 +13,7 @@
         "range_min" : "G2",
         "range_max" : "C4",
         "voz_calculada" : "Baixo",
-        "voz_atribuida" : "Baixo",
+        "voz_atribuida" : "Tenor",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Tenor", "Barítono", "Baixo" ]
       },
@@ -69,7 +69,7 @@
         "range_min" : "E2",
         "range_max" : "A#4",
         "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Tenor",
+        "voz_atribuida" : "Baixo",
         "vozes_recomendadas" : [ "Barítono", "Tenor", "Baixo" ],
         "vozes_possiveis" : [ "Contralto" ]
       },
@@ -367,12 +367,12 @@
       },
       "solistas" : { },
       "voices" : {
-        "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Elisângela Modro" ],
-        "Soprano" : [ "Dalva Lutzer", "Kátia Vanessa", "Paloma" ],
-        "Baixo" : [ "Samuel Dorta", "Willian Modro" ],
-        "Tenor" : [ "Eduardo Lutzer", "Douglas Madoks" ]
+        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
+        "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
+        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
+        "Baixo" : [ "Willian Modro" ]
       },
-      "timestamp" : "2026-03-12 14:10:33"
+      "timestamp" : "2026-03-27 08:04:28"
     },
     "Nova Voz - Digno é o Senhor" : {
       "root" : "F#",
