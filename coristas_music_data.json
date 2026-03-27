@@ -5,7 +5,7 @@
         "range_min" : "F3",
         "range_max" : "B5",
         "voz_calculada" : "Mezzo-soprano",
-        "voz_atribuida" : "Mezzo-soprano",
+        "voz_atribuida" : "Soprano",
         "vozes_recomendadas" : [ "Mezzo-soprano", "Soprano", "Contralto" ],
         "vozes_possiveis" : [ "Tenor" ]
       },
@@ -13,7 +13,7 @@
         "range_min" : "G2",
         "range_max" : "C4",
         "voz_calculada" : "Baixo",
-        "voz_atribuida" : "Barítono",
+        "voz_atribuida" : "Tenor",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Tenor", "Barítono", "Baixo" ]
       },
@@ -29,7 +29,7 @@
         "range_min" : "F3",
         "range_max" : "A5",
         "voz_calculada" : "Mezzo-soprano",
-        "voz_atribuida" : "Mezzo-soprano",
+        "voz_atribuida" : "Soprano",
         "vozes_recomendadas" : [ "Mezzo-soprano", "Soprano", "Contralto" ],
         "vozes_possiveis" : [ "Tenor" ]
       },
@@ -37,7 +37,7 @@
         "range_min" : "F3",
         "range_max" : "F#4",
         "voz_calculada" : "Tenor",
-        "voz_atribuida" : "Mezzo-soprano",
+        "voz_atribuida" : "Contralto",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Contralto", "Tenor", "Barítono" ]
       },
@@ -69,7 +69,7 @@
         "range_min" : "E2",
         "range_max" : "A#4",
         "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Tenor",
+        "voz_atribuida" : "Baixo",
         "vozes_recomendadas" : [ "Barítono", "Tenor", "Baixo" ],
         "vozes_possiveis" : [ "Contralto" ]
       },
@@ -77,7 +77,7 @@
         "range_min" : "F3",
         "range_max" : "F5",
         "voz_calculada" : "Mezzo-soprano",
-        "voz_atribuida" : "Mezzo-soprano",
+        "voz_atribuida" : "Contralto",
         "vozes_recomendadas" : [ "Mezzo-soprano", "Contralto" ],
         "vozes_possiveis" : [ "Soprano", "Tenor" ]
       },
@@ -112,7 +112,7 @@
   "musicas" : {
     "Vocal Livre - Quem de Nós" : {
       "root" : "Eb",
-      "mode" : "major",
+      "mode" : "maior",
       "grupo" : "Aliança Vocal",
       "ranges" : {
         "Contralto" : {
@@ -132,16 +132,14 @@
           "max" : "E4"
         }
       },
-      "solistas" : {
-        "Douglas Madoks" : [ "E3", "F#4" ]
-      },
+      "solistas" : { },
       "voices" : {
-        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
-        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
-        "Baixo" : [ "Willian Modro" ]
+        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
+        "Baixo" : [ "Willian Modro" ],
+        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ]
       },
-      "timestamp" : "2026-03-27 16:54:44"
+      "timestamp" : "2026-03-27 16:55:56"
     },
     "Coral do UNASP - Vinde Benditos" : {
       "root" : "E",
@@ -185,35 +183,35 @@
       "timestamp" : "2026-03-13 05:34:39"
     },
     "Prisma Brasil - Meu Lar" : {
-      "root" : "C",
-      "mode" : "maior",
+      "root" : "C#",
+      "mode" : "major",
       "grupo" : "Aliança Vocal",
       "ranges" : {
-        "Mezzo-soprano" : {
-          "min" : "C4",
-          "max" : "F5"
-        },
         "Contralto" : {
-          "min" : "A3",
-          "max" : "A4"
+          "min" : "B3",
+          "max" : "D5"
+        },
+        "Soprano" : {
+          "min" : "C4",
+          "max" : "F#5"
+        },
+        "Baixo" : {
+          "min" : "B2",
+          "max" : "D4"
         },
         "Tenor" : {
           "min" : "C3",
-          "max" : "E4"
-        },
-        "Baixo" : {
-          "min" : "A2",
-          "max" : "A3"
+          "max" : "F#4"
         }
       },
       "solistas" : { },
       "voices" : {
-        "Contralto" : [ "Manu Laurindo", "Elisângela Modro", "Georgia" ],
-        "Tenor" : [ "Douglas Madoks", "Eduardo Lutzer" ],
-        "Baixo" : [ "Samuel Dorta", "Willian Modro" ],
-        "Mezzo-soprano" : [ "Taty", "Kátia Vanessa", "Paloma", "Dalva Lutzer" ]
+        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
+        "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
+        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
+        "Baixo" : [ "Willian Modro" ]
       },
-      "timestamp" : "2026-02-15 18:44:22"
+      "timestamp" : "2026-03-27 16:56:23"
     },
     "Toronto Coral - Presente Lá do Céu" : {
       "root" : "D",
