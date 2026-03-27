@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T09:21:45Z",
+  "lastUpdated": "2026-03-27T10:41:16Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -123,8 +123,8 @@
     "nova_voz_digno_e_o_senhor": {
       "author": "Nova Voz",
       "xml": {
-        "size": 853529,
-        "hash": "7bf98ab0bc3adc9d9784f8be7aaa4c1a070d565120d0282ecac40d1805bc3970"
+        "size": 853400,
+        "hash": "aaf67906e2c5790f8eb89ef873bac14c832d093ea4057b5984e2f1b2a50edafb"
       },
       "audio": {
         "size": 2652757,
