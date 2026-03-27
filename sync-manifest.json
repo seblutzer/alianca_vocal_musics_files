@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T16:55:05Z",
+  "lastUpdated": "2026-03-27T16:56:36Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -72,8 +72,8 @@
     "prisma_brasil_meu_lar": {
       "author": "Prisma Brasil",
       "xml": {
-        "size": 920740,
-        "hash": "354172dc94f3e1d4274369a15f7bebd9b4dbf602919c2a125e7a84416d673ee8"
+        "size": 920736,
+        "hash": "d1589729bdd05ddb12963175944ad9a41912e9edda04663340fa611b865536d7"
       },
       "audio": {
         "size": 2332508,
@@ -89,8 +89,8 @@
     "vocal_livre_quem_de_nos": {
       "author": "Vocal Livre",
       "xml": {
-        "size": 746317,
-        "hash": "e45f8f6c249c511a2898583fce44884d3bea0ba6b07c8fcd15fe59f53a371f35"
+        "size": 795402,
+        "hash": "fa668d99602af3608f2dfd8eb4f1425e4b7ed956bbc7c216a05b013c23f34d68"
       },
       "audio": {
         "size": 2510171,
@@ -99,8 +99,8 @@
       },
       "musicName": "Quem de Nós",
       "properties": {
-        "realDurationMin": "4.8000",
-        "offsetSeconds": "3.20"
+        "realDurationMin": "4.8",
+        "offsetSeconds": "3.2"
       }
     },
     "prisma_brasil_agradece_ao_pai": {
