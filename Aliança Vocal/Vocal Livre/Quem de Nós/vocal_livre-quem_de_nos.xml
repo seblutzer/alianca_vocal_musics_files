@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding='UTF-8' standalone='no' ?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<?xml version='1.0' encoding='utf-8'?>
 <score-partwise version="3.0">
  <work>
   <work-title />
@@ -314,7 +313,7 @@
   </part-group>
  </part-list>
  <part id="P1">
-  <!--============== Part: P1, Measure: 1 ==============-->
+
   <measure number="1" width="261">
    <print new-page="yes">
     <system-layout>
@@ -361,7 +360,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 2 ==============-->
+
   <measure number="2" width="137">
    <note>
     <rest />
@@ -372,7 +371,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 3 ==============-->
+
   <measure number="3" width="137">
    <note>
     <rest />
@@ -383,7 +382,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 4 ==============-->
+
   <measure number="4" width="137">
    <note>
     <rest />
@@ -394,7 +393,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 5 ==============-->
+
   <measure number="5" width="330">
    <note default-x="15">
     <rest />
@@ -437,7 +436,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-107" number="part1verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>end</syllabic>
      <text>ga</text>
     </lyric>
    </note>
@@ -460,7 +459,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-107" number="part1verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>begin</syllabic>
      <text>fal</text>
     </lyric>
    </note>
@@ -536,7 +535,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 6 ==============-->
+
   <measure number="6" width="550">
    <print new-page="yes">
     <system-layout>
@@ -692,7 +691,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 7 ==============-->
+
   <measure number="7" width="510">
    <note default-x="15">
     <rest />
@@ -821,7 +820,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-107" number="part1verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>end</syllabic>
      <text>ta</text>
     </lyric>
    </note>
@@ -837,12 +836,12 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-107" number="part1verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>begin</syllabic>
      <text>pre</text>
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 8 ==============-->
+
   <measure number="8" width="548">
    <print new-page="yes">
     <system-layout>
@@ -1046,7 +1045,7 @@
     <beam number="1">begin</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-97" number="part1verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>end</syllabic>
      <text>so</text>
     </lyric>
    </note>
@@ -1079,12 +1078,12 @@
     <staff>1</staff>
     <beam number="1">end</beam>
     <lyric default-y="-97" number="part1verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>single</syllabic>
      <text>dar.</text>
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 9 ==============-->
+
   <measure number="9" width="511">
    <note default-x="15">
     <rest />
@@ -1342,7 +1341,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 10 ==============-->
+
   <measure number="10" width="573">
    <print new-page="yes">
     <system-layout>
@@ -1588,7 +1587,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 11 ==============-->
+
   <measure number="11" width="486">
    <note color="#000000" default-x="15" default-y="-17">
     <pitch>
@@ -1782,7 +1781,7 @@
     <beam number="2">begin</beam>
     <lyric default-y="-91" number="part1verse1" color="#000000">
      <syllabic>middle</syllabic>
-     <text>beu</text>
+     <text>bel</text>
     </lyric>
    </note>
    <note color="#000000" default-x="457" default-y="-17">
@@ -1809,7 +1808,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 12 ==============-->
+
   <measure number="12" width="431">
    <print new-page="yes">
     <system-layout>
@@ -2028,7 +2027,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 13 ==============-->
+
   <measure number="13" width="211">
    <note color="#000000" default-x="15" default-y="-10">
     <pitch>
@@ -2103,7 +2102,7 @@
     </notations>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 14 ==============-->
+
   <measure number="14" width="212">
    <note color="#000000" default-x="15" default-y="-10">
     <pitch>
@@ -2186,7 +2185,7 @@
     </notations>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 15 ==============-->
+
   <measure number="15" width="204">
    <note color="#000000" default-x="15">
     <pitch>
@@ -2274,7 +2273,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 16 ==============-->
+
   <measure number="16" width="235">
    <print new-page="yes">
     <system-layout>
@@ -2297,7 +2296,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 17 ==============-->
+
   <measure number="17" width="506">
    <note default-x="15">
     <rest />
@@ -2308,7 +2307,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 18 ==============-->
+
   <measure number="18" width="318">
    <note default-x="15">
     <rest />
@@ -2319,7 +2318,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 19 ==============-->
+
   <measure number="19" width="562">
    <print new-page="yes">
     <system-layout>
@@ -2342,7 +2341,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 20 ==============-->
+
   <measure number="20" width="249">
    <note default-x="15">
     <rest />
@@ -2353,7 +2352,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 21 ==============-->
+
   <measure number="21" width="249">
    <note default-x="15">
     <rest />
@@ -2364,7 +2363,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 22 ==============-->
+
   <measure number="22" width="303">
    <print new-page="yes">
     <system-layout>
@@ -2387,7 +2386,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 23 ==============-->
+
   <measure number="23" width="205">
    <note default-x="15">
     <rest />
@@ -2398,7 +2397,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 24 ==============-->
+
   <measure number="24" width="235">
    <note default-x="15">
     <rest />
@@ -2409,7 +2408,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 25 ==============-->
+
   <measure number="25" width="316">
    <note default-x="15">
     <rest />
@@ -2420,7 +2419,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 26 ==============-->
+
   <measure number="26" width="431">
    <print new-page="yes">
     <system-layout>
@@ -2443,7 +2442,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 27 ==============-->
+
   <measure number="27" width="427">
    <note default-x="15">
     <rest />
@@ -2454,7 +2453,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 28 ==============-->
+
   <measure number="28" width="201">
    <note default-x="15">
     <rest />
@@ -2465,7 +2464,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 29 ==============-->
+
   <measure number="29" width="583">
    <print new-page="yes">
     <system-layout>
@@ -2695,7 +2694,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 30 ==============-->
+
   <measure number="30" width="477">
    <note default-x="15">
     <rest />
@@ -2811,7 +2810,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
     <lyric default-y="-112" number="part1verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>end</syllabic>
      <text>do_em</text>
     </lyric>
    </note>
@@ -2829,12 +2828,12 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-112" number="part1verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>single</syllabic>
      <text>vão?</text>
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 31 ==============-->
+
   <measure number="31" width="551">
    <print new-page="yes">
     <system-layout>
@@ -2857,7 +2856,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 32 ==============-->
+
   <measure number="32" width="209">
    <note default-x="15">
     <rest />
@@ -2868,7 +2867,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 33 ==============-->
+
   <measure number="33" width="300">
    <note default-x="15">
     <rest />
@@ -2879,7 +2878,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 34 ==============-->
+
   <measure number="34" width="569">
    <print new-page="yes">
     <system-layout>
@@ -2902,7 +2901,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 35 ==============-->
+
   <measure number="35" width="490">
    <note default-x="15">
     <rest />
@@ -2913,7 +2912,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 36 ==============-->
+
   <measure number="36" width="559">
    <print new-page="yes">
     <system-layout>
@@ -2936,7 +2935,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 37 ==============-->
+
   <measure number="37" width="500">
    <note default-x="15">
     <rest />
@@ -2947,7 +2946,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 38 ==============-->
+
   <measure number="38" width="541">
    <print new-page="yes">
     <system-layout>
@@ -2970,7 +2969,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 39 ==============-->
+
   <measure number="39" width="519">
    <note default-x="15">
     <rest />
@@ -2981,7 +2980,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 40 ==============-->
+
   <measure number="40" width="502">
    <print new-page="yes">
     <system-layout>
@@ -3004,7 +3003,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 41 ==============-->
+
   <measure number="41" width="253">
    <note default-x="15">
     <rest />
@@ -3015,7 +3014,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 42 ==============-->
+
   <measure number="42" width="304">
    <note default-x="15">
     <rest />
@@ -3026,7 +3025,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 43 ==============-->
+
   <measure number="43" width="302">
    <print new-page="yes">
     <system-layout>
@@ -3049,7 +3048,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 44 ==============-->
+
   <measure number="44" width="300">
    <note default-x="15">
     <rest />
@@ -3060,7 +3059,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 45 ==============-->
+
   <measure number="45" width="230">
    <note default-x="15">
     <rest />
@@ -3116,7 +3115,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 46 ==============-->
+
   <measure number="46" width="226">
    <note color="#000000" default-x="15" default-y="-20">
     <pitch>
@@ -3174,7 +3173,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-97" number="part1verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>de_ou</text>
     </lyric>
    </note>
@@ -3191,12 +3190,12 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-97" number="part1verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>end</syllabic>
      <text>tra</text>
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 47 ==============-->
+
   <measure number="47" width="388">
    <print new-page="yes">
     <system-layout>
@@ -3223,7 +3222,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-97" number="part1verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>begin</syllabic>
      <text>chan</text>
     </lyric>
    </note>
@@ -3287,7 +3286,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 48 ==============-->
+
   <measure number="48" width="216">
    <note color="#000000" default-x="15" default-y="-20">
     <pitch>
@@ -3324,7 +3323,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 49 ==============-->
+
   <measure number="49" width="455">
    <note color="#000000" default-x="15" default-y="-20">
     <pitch>
@@ -3460,7 +3459,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 50 ==============-->
+
   <measure number="50" width="493">
    <print new-page="yes">
     <system-layout>
@@ -3611,12 +3610,12 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-104" number="part1verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>begin</syllabic>
      <text>mor</text>
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 51 ==============-->
+
   <measure number="51" width="567">
    <note color="#000000" default-x="15" default-y="-10">
     <pitch>
@@ -3878,7 +3877,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 52 ==============-->
+
   <measure number="52" width="350">
    <print new-page="yes">
     <system-layout>
@@ -3940,7 +3939,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-104" number="part1verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>tei</text>
     </lyric>
    </note>
@@ -3958,11 +3957,11 @@
     <staff>1</staff>
     <lyric default-y="-104" number="part1verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>ro_Eu</text>
+     <text>ro,_Eu</text>
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 53 ==============-->
+
   <measure number="53" width="341">
    <note color="#000000" default-x="15" default-y="-20">
     <pitch>
@@ -4020,7 +4019,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-104" number="part1verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>end</syllabic>
      <text>a</text>
     </lyric>
    </note>
@@ -4042,7 +4041,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-104" number="part1verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>begin</syllabic>
      <text>ú</text>
     </lyric>
    </note>
@@ -4098,7 +4097,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 54 ==============-->
+
   <measure number="54" width="369">
    <note color="#000000" default-x="15" default-y="-20">
     <pitch>
@@ -4131,7 +4130,7 @@
     <staff>1</staff>
     <lyric default-y="-104" number="part1verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>ce_Eu</text>
+     <text>ce,_Eu</text>
     </lyric>
    </note>
    <note color="#000000" default-x="117" default-y="-20">
@@ -4242,7 +4241,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 55 ==============-->
+
   <measure number="55" width="599">
    <print new-page="yes">
     <system-layout>
@@ -4304,7 +4303,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-90" number="part1verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>ca</text>
     </lyric>
    </note>
@@ -4326,7 +4325,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-90" number="part1verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>mi</text>
     </lyric>
    </note>
@@ -4530,7 +4529,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 56 ==============-->
+
   <measure number="56" width="234">
    <note color="#000000" default-x="15" default-y="-20">
     <pitch>
@@ -4584,7 +4583,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 57 ==============-->
+
   <measure number="57" width="226">
    <note default-x="15">
     <rest />
@@ -4595,7 +4594,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 58 ==============-->
+
   <measure number="58" width="337">
    <print new-page="yes">
     <system-layout>
@@ -4695,7 +4694,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 59 ==============-->
+
   <measure number="59" width="461">
    <note color="#000000" default-x="15">
     <pitch>
@@ -4748,7 +4747,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-80" number="part1verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>ca</text>
     </lyric>
    </note>
@@ -4771,7 +4770,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-80" number="part1verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>mi</text>
     </lyric>
    </note>
@@ -4983,7 +4982,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 60 ==============-->
+
   <measure number="60" width="148">
    <note color="#000000" default-x="15" default-y="-15">
     <pitch>
@@ -5021,7 +5020,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P1, Measure: 61 ==============-->
+
   <measure number="61" width="113">
    <note>
     <rest />
@@ -5037,7 +5036,7 @@
   </measure>
  </part>
  <part id="P2">
-  <!--============== Part: P2, Measure: 1 ==============-->
+
   <measure number="1" width="261">
    <print new-page="yes">
     <system-layout>
@@ -5076,7 +5075,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 2 ==============-->
+
   <measure number="2" width="137">
    <note>
     <rest />
@@ -5087,7 +5086,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 3 ==============-->
+
   <measure number="3" width="137">
    <note>
     <rest />
@@ -5098,7 +5097,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 4 ==============-->
+
   <measure number="4" width="137">
    <note>
     <rest />
@@ -5109,7 +5108,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 5 ==============-->
+
   <measure number="5" width="330">
    <note default-x="15">
     <rest />
@@ -5120,7 +5119,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 6 ==============-->
+
   <measure number="6" width="550">
    <print new-page="yes">
     <system-layout>
@@ -5145,7 +5144,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 7 ==============-->
+
   <measure number="7" width="510">
    <note default-x="15">
     <rest />
@@ -5156,7 +5155,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 8 ==============-->
+
   <measure number="8" width="548">
    <print new-page="yes">
     <system-layout>
@@ -5181,7 +5180,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 9 ==============-->
+
   <measure number="9" width="511">
    <note default-x="15">
     <rest />
@@ -5192,7 +5191,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 10 ==============-->
+
   <measure number="10" width="573">
    <print new-page="yes">
     <system-layout>
@@ -5217,7 +5216,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 11 ==============-->
+
   <measure number="11" width="486">
    <note default-x="15">
     <rest />
@@ -5228,7 +5227,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 12 ==============-->
+
   <measure number="12" width="431">
    <print new-page="yes">
     <system-layout>
@@ -5253,7 +5252,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 13 ==============-->
+
   <measure number="13" width="211">
    <note default-x="15">
     <rest />
@@ -5264,7 +5263,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 14 ==============-->
+
   <measure number="14" width="212">
    <note default-x="15">
     <rest />
@@ -5275,7 +5274,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 15 ==============-->
+
   <measure number="15" width="204">
    <note default-x="15">
     <rest />
@@ -5286,7 +5285,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 16 ==============-->
+
   <measure number="16" width="235">
    <print new-page="yes">
     <system-layout>
@@ -5311,7 +5310,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 17 ==============-->
+
   <measure number="17" width="506">
    <note default-x="15">
     <rest />
@@ -5590,7 +5589,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 18 ==============-->
+
   <measure number="18" width="318">
    <note color="#000000" default-x="15" default-y="-10">
     <pitch>
@@ -5685,7 +5684,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 19 ==============-->
+
   <measure number="19" width="562">
    <print new-page="yes">
     <system-layout>
@@ -5845,7 +5844,7 @@
     </notations>
     <lyric default-y="-92" number="part2verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>gar</text>
+     <text>gar,</text>
      <extend />
     </lyric>
    </note>
@@ -5980,7 +5979,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 20 ==============-->
+
   <measure number="20" width="249">
    <note color="#000000" default-x="15" default-y="-10">
     <pitch>
@@ -6059,7 +6058,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 21 ==============-->
+
   <measure number="21" width="249">
    <note color="#000000" default-x="15" default-y="-20">
     <pitch>
@@ -6140,7 +6139,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 22 ==============-->
+
   <measure number="22" width="303">
    <print new-page="yes">
     <system-layout>
@@ -6234,7 +6233,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 23 ==============-->
+
   <measure number="23" width="205">
    <note color="#000000" default-x="15" default-y="-10">
     <pitch>
@@ -6306,7 +6305,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 24 ==============-->
+
   <measure number="24" width="235">
    <note color="#000000" default-x="15" default-y="-20">
     <pitch>
@@ -6353,7 +6352,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 25 ==============-->
+
   <measure number="25" width="316">
    <note default-x="15">
     <rest />
@@ -6364,7 +6363,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 26 ==============-->
+
   <measure number="26" width="431">
    <print new-page="yes">
     <system-layout>
@@ -6389,7 +6388,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 27 ==============-->
+
   <measure number="27" width="427">
    <note default-x="15">
     <rest />
@@ -6400,7 +6399,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 28 ==============-->
+
   <measure number="28" width="201">
    <note default-x="15">
     <rest />
@@ -6411,7 +6410,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 29 ==============-->
+
   <measure number="29" width="583">
    <print new-page="yes">
     <system-layout>
@@ -6637,7 +6636,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 30 ==============-->
+
   <measure number="30" width="477">
    <note default-x="15">
     <rest />
@@ -6757,7 +6756,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
     <lyric default-y="-102" number="part2verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>end</syllabic>
      <text>do_em</text>
     </lyric>
    </note>
@@ -6774,12 +6773,12 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-102" number="part2verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>single</syllabic>
      <text>vão?</text>
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 31 ==============-->
+
   <measure number="31" width="551">
    <print new-page="yes">
     <system-layout>
@@ -6804,7 +6803,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 32 ==============-->
+
   <measure number="32" width="209">
    <note default-x="15">
     <rest />
@@ -6815,7 +6814,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 33 ==============-->
+
   <measure number="33" width="300">
    <note default-x="15">
     <rest />
@@ -6826,7 +6825,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 34 ==============-->
+
   <measure number="34" width="569">
    <print new-page="yes">
     <system-layout>
@@ -6851,7 +6850,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 35 ==============-->
+
   <measure number="35" width="490">
    <note default-x="15">
     <rest />
@@ -6862,7 +6861,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 36 ==============-->
+
   <measure number="36" width="559">
    <print new-page="yes">
     <system-layout>
@@ -6887,7 +6886,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 37 ==============-->
+
   <measure number="37" width="500">
    <note default-x="15">
     <rest />
@@ -6898,7 +6897,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 38 ==============-->
+
   <measure number="38" width="541">
    <print new-page="yes">
     <system-layout>
@@ -6923,7 +6922,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 39 ==============-->
+
   <measure number="39" width="519">
    <note default-x="15">
     <rest />
@@ -6934,7 +6933,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 40 ==============-->
+
   <measure number="40" width="502">
    <print new-page="yes">
     <system-layout>
@@ -6959,7 +6958,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 41 ==============-->
+
   <measure number="41" width="253">
    <note default-x="15">
     <rest />
@@ -6970,7 +6969,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 42 ==============-->
+
   <measure number="42" width="304">
    <note default-x="15">
     <rest />
@@ -6981,7 +6980,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 43 ==============-->
+
   <measure number="43" width="302">
    <print new-page="yes">
     <system-layout>
@@ -7006,7 +7005,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 44 ==============-->
+
   <measure number="44" width="300">
    <note default-x="15">
     <rest />
@@ -7017,7 +7016,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 45 ==============-->
+
   <measure number="45" width="230">
    <note default-x="15">
     <rest />
@@ -7073,7 +7072,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 46 ==============-->
+
   <measure number="46" width="226">
    <note color="#000000" default-x="15" default-y="-20">
     <pitch>
@@ -7130,7 +7129,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-92" number="part2verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>de_ou</text>
     </lyric>
    </note>
@@ -7147,12 +7146,12 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-92" number="part2verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>end</syllabic>
      <text>tra</text>
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 47 ==============-->
+
   <measure number="47" width="388">
    <print new-page="yes">
     <system-layout>
@@ -7182,7 +7181,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-82" number="part2verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>begin</syllabic>
      <text>chan</text>
     </lyric>
    </note>
@@ -7246,7 +7245,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 48 ==============-->
+
   <measure number="48" width="216">
    <note color="#000000" default-x="15" default-y="-20">
     <pitch>
@@ -7284,7 +7283,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 49 ==============-->
+
   <measure number="49" width="455">
    <note color="#000000" default-x="15" default-y="-5">
     <pitch>
@@ -7421,7 +7420,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 50 ==============-->
+
   <measure number="50" width="493">
    <print new-page="yes">
     <system-layout>
@@ -7574,12 +7573,12 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-92" number="part2verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>begin</syllabic>
      <text>mor</text>
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 51 ==============-->
+
   <measure number="51" width="567">
    <note color="#000000" default-x="15" default-y="9">
     <pitch>
@@ -7845,7 +7844,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 52 ==============-->
+
   <measure number="52" width="350">
    <print new-page="yes">
     <system-layout>
@@ -7909,7 +7908,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-80" number="part2verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>tei</text>
     </lyric>
    </note>
@@ -7928,11 +7927,11 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part2verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>ro_Eu</text>
+     <text>ro,_Eu</text>
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 53 ==============-->
+
   <measure number="53" width="341">
    <note color="#000000" default-x="15">
     <pitch>
@@ -7993,7 +7992,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-80" number="part2verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>end</syllabic>
      <text>a</text>
     </lyric>
    </note>
@@ -8016,7 +8015,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-80" number="part2verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>begin</syllabic>
      <text>ú</text>
     </lyric>
    </note>
@@ -8073,7 +8072,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 54 ==============-->
+
   <measure number="54" width="369">
    <note color="#000000" default-x="15" default-y="-5">
     <pitch>
@@ -8104,7 +8103,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part2verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>ce_Eu</text>
+     <text>ce,_Eu</text>
     </lyric>
    </note>
    <note color="#000000" default-x="117" default-y="-5">
@@ -8213,7 +8212,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 55 ==============-->
+
   <measure number="55" width="599">
    <print new-page="yes">
     <system-layout>
@@ -8277,7 +8276,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-80" number="part2verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>ca</text>
     </lyric>
    </note>
@@ -8299,7 +8298,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-80" number="part2verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>mi</text>
     </lyric>
    </note>
@@ -8505,7 +8504,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 56 ==============-->
+
   <measure number="56" width="234">
    <note color="#000000" default-x="15" default-y="-5">
     <pitch>
@@ -8558,7 +8557,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 57 ==============-->
+
   <measure number="57" width="226">
    <note default-x="15">
     <rest />
@@ -8569,7 +8568,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 58 ==============-->
+
   <measure number="58" width="337">
    <print new-page="yes">
     <system-layout>
@@ -8671,7 +8670,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 59 ==============-->
+
   <measure number="59" width="461">
    <note color="#000000" default-x="15">
     <pitch>
@@ -8724,7 +8723,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-80" number="part2verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>ca</text>
     </lyric>
    </note>
@@ -8747,7 +8746,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-80" number="part2verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>mi</text>
     </lyric>
    </note>
@@ -8959,7 +8958,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 60 ==============-->
+
   <measure number="60" width="148">
    <note color="#000000" default-x="15" default-y="-15">
     <pitch>
@@ -8997,7 +8996,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P2, Measure: 61 ==============-->
+
   <measure number="61" width="113">
    <note>
     <rest />
@@ -9013,7 +9012,7 @@
   </measure>
  </part>
  <part id="P3">
-  <!--============== Part: P3, Measure: 1 ==============-->
+
   <measure number="1" width="261">
    <print new-page="yes">
     <system-layout>
@@ -9052,7 +9051,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 2 ==============-->
+
   <measure number="2" width="137">
    <note>
     <rest />
@@ -9063,7 +9062,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 3 ==============-->
+
   <measure number="3" width="137">
    <note>
     <rest />
@@ -9074,7 +9073,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 4 ==============-->
+
   <measure number="4" width="137">
    <note>
     <rest />
@@ -9085,7 +9084,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 5 ==============-->
+
   <measure number="5" width="330">
    <note default-x="15">
     <rest />
@@ -9096,7 +9095,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 6 ==============-->
+
   <measure number="6" width="550">
    <print new-page="yes">
     <system-layout>
@@ -9121,7 +9120,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 7 ==============-->
+
   <measure number="7" width="510">
    <note default-x="15">
     <rest />
@@ -9132,7 +9131,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 8 ==============-->
+
   <measure number="8" width="548">
    <print new-page="yes">
     <system-layout>
@@ -9157,7 +9156,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 9 ==============-->
+
   <measure number="9" width="511">
    <note default-x="15">
     <rest />
@@ -9168,7 +9167,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 10 ==============-->
+
   <measure number="10" width="573">
    <print new-page="yes">
     <system-layout>
@@ -9193,7 +9192,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 11 ==============-->
+
   <measure number="11" width="486">
    <note default-x="15">
     <rest />
@@ -9204,7 +9203,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 12 ==============-->
+
   <measure number="12" width="431">
    <print new-page="yes">
     <system-layout>
@@ -9229,7 +9228,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 13 ==============-->
+
   <measure number="13" width="211">
    <note default-x="15">
     <rest />
@@ -9240,7 +9239,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 14 ==============-->
+
   <measure number="14" width="212">
    <note default-x="15">
     <rest />
@@ -9251,7 +9250,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 15 ==============-->
+
   <measure number="15" width="204">
    <note default-x="15">
     <rest />
@@ -9262,7 +9261,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 16 ==============-->
+
   <measure number="16" width="235">
    <print new-page="yes">
     <system-layout>
@@ -9287,7 +9286,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 17 ==============-->
+
   <measure number="17" width="506">
    <note default-x="15">
     <rest />
@@ -9298,7 +9297,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 18 ==============-->
+
   <measure number="18" width="318">
    <note default-x="15">
     <rest />
@@ -9309,7 +9308,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 19 ==============-->
+
   <measure number="19" width="562">
    <print new-page="yes">
     <system-layout>
@@ -9334,7 +9333,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 20 ==============-->
+
   <measure number="20" width="249">
    <note default-x="15">
     <rest />
@@ -9345,7 +9344,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 21 ==============-->
+
   <measure number="21" width="249">
    <note default-x="15">
     <rest />
@@ -9356,7 +9355,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 22 ==============-->
+
   <measure number="22" width="303">
    <print new-page="yes">
     <system-layout>
@@ -9381,7 +9380,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 23 ==============-->
+
   <measure number="23" width="205">
    <note default-x="15">
     <rest />
@@ -9392,7 +9391,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 24 ==============-->
+
   <measure number="24" width="235">
    <note default-x="15">
     <rest />
@@ -9429,7 +9428,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-88" number="part3verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>single</syllabic>
      <text>Eu</text>
     </lyric>
    </note>
@@ -9488,13 +9487,13 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-88" number="part3verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>single</syllabic>
      <text>vou!</text>
      <extend />
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 25 ==============-->
+
   <measure number="25" width="316">
    <note color="#000000" default-x="15" default-y="-15">
     <pitch>
@@ -9536,7 +9535,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
     <lyric default-y="-88" number="part3verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>single</syllabic>
      <text>Não</text>
     </lyric>
    </note>
@@ -9555,7 +9554,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-88" number="part3verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>begin</syllabic>
      <text>im</text>
     </lyric>
    </note>
@@ -9630,12 +9629,12 @@
     <staff>1</staff>
     <beam number="1">end</beam>
     <lyric default-y="-88" number="part3verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>single</syllabic>
      <text>quão</text>
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 26 ==============-->
+
   <measure number="26" width="431">
    <print new-page="yes">
     <system-layout>
@@ -9664,7 +9663,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-92" number="part3verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>begin</syllabic>
      <text>lon</text>
     </lyric>
    </note>
@@ -9681,7 +9680,7 @@
     <staff>1</staff>
     <lyric default-y="-92" number="part3verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>ge_Eu</text>
+     <text>ge,_Eu</text>
     </lyric>
    </note>
    <note color="#000000" default-x="197" default-y="-5">
@@ -9791,7 +9790,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 27 ==============-->
+
   <measure number="27" width="427">
    <note color="#000000" default-x="15">
     <pitch>
@@ -10036,7 +10035,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
     <lyric default-y="-92" number="part3verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>end</syllabic>
      <text>les</text>
     </lyric>
    </note>
@@ -10054,12 +10053,12 @@
     <staff>1</staff>
     <beam number="1">end</beam>
     <lyric default-y="-92" number="part3verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>begin</syllabic>
      <text>me_in</text>
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 28 ==============-->
+
   <measure number="28" width="201">
    <note color="#000000" default-x="15" default-y="-15">
     <pitch>
@@ -10128,11 +10127,11 @@
     <staff>1</staff>
     <lyric default-y="-92" number="part3verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>ro_Eu</text>
+     <text>ro,_Eu</text>
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 29 ==============-->
+
   <measure number="29" width="583">
    <print new-page="yes">
     <system-layout>
@@ -10283,12 +10282,12 @@
     <staff>1</staff>
     <beam number="1">end</beam>
     <lyric default-y="-92" number="part3verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>end</syllabic>
      <text>ca</text>
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 30 ==============-->
+
   <measure number="30" width="477">
    <note color="#000000" default-x="15" default-y="-10">
     <pitch>
@@ -10302,7 +10301,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-92" number="part3verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>begin</syllabic>
      <text>chan</text>
     </lyric>
    </note>
@@ -10320,7 +10319,7 @@
     <staff>1</staff>
     <lyric default-y="-92" number="part3verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>ce_Eu</text>
+     <text>ce,_Eu</text>
     </lyric>
    </note>
    <note color="#000000" default-x="134" default-y="-15">
@@ -10432,7 +10431,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 31 ==============-->
+
   <measure number="31" width="551">
    <print new-page="yes">
     <system-layout>
@@ -10480,7 +10479,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
     <lyric default-y="-87" number="part3verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>end</syllabic>
      <text>tro</text>
     </lyric>
    </note>
@@ -10499,7 +10498,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-87" number="part3verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>begin</syllabic>
      <text>ca</text>
     </lyric>
    </note>
@@ -10735,7 +10734,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 32 ==============-->
+
   <measure number="32" width="209">
    <note color="#000000" default-x="15" default-y="-15">
     <pitch>
@@ -10768,7 +10767,7 @@
     <staff>1</staff>
     <lyric default-y="-87" number="part3verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>tos</text>
+     <text>tos,</text>
     </lyric>
    </note>
    <note default-x="130">
@@ -10797,7 +10796,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 33 ==============-->
+
   <measure number="33" width="300">
    <note color="#000000" default-x="15">
     <pitch>
@@ -10816,7 +10815,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 34 ==============-->
+
   <measure number="34" width="569">
    <print new-page="yes">
     <system-layout>
@@ -10841,7 +10840,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 35 ==============-->
+
   <measure number="35" width="490">
    <note default-x="15">
     <rest />
@@ -10852,7 +10851,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 36 ==============-->
+
   <measure number="36" width="559">
    <print new-page="yes">
     <system-layout>
@@ -10877,7 +10876,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 37 ==============-->
+
   <measure number="37" width="500">
    <note default-x="15">
     <rest />
@@ -10888,7 +10887,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 38 ==============-->
+
   <measure number="38" width="541">
    <print new-page="yes">
     <system-layout>
@@ -10913,7 +10912,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 39 ==============-->
+
   <measure number="39" width="519">
    <note default-x="15">
     <rest />
@@ -10924,7 +10923,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 40 ==============-->
+
   <measure number="40" width="502">
    <print new-page="yes">
     <system-layout>
@@ -10949,7 +10948,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 41 ==============-->
+
   <measure number="41" width="253">
    <note default-x="15">
     <rest />
@@ -10960,7 +10959,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 42 ==============-->
+
   <measure number="42" width="304">
    <note default-x="15">
     <rest />
@@ -10971,7 +10970,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 43 ==============-->
+
   <measure number="43" width="302">
    <print new-page="yes">
     <system-layout>
@@ -10996,7 +10995,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 44 ==============-->
+
   <measure number="44" width="300">
    <note default-x="15">
     <rest />
@@ -11113,7 +11112,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 45 ==============-->
+
   <measure number="45" width="230">
    <note color="#000000" default-x="15" default-y="-20">
     <pitch>
@@ -11194,7 +11193,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 46 ==============-->
+
   <measure number="46" width="226">
    <note color="#000000" default-x="15" default-y="-20">
     <pitch>
@@ -11251,7 +11250,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-92" number="part3verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>de_ou</text>
     </lyric>
    </note>
@@ -11269,12 +11268,12 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-92" number="part3verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>end</syllabic>
      <text>tra</text>
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 47 ==============-->
+
   <measure number="47" width="388">
    <print new-page="yes">
     <system-layout>
@@ -11303,7 +11302,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-87" number="part3verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>begin</syllabic>
      <text>chan</text>
     </lyric>
    </note>
@@ -11367,7 +11366,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 48 ==============-->
+
   <measure number="48" width="216">
    <note color="#000000" default-x="15" default-y="-20">
     <pitch>
@@ -11404,7 +11403,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 49 ==============-->
+
   <measure number="49" width="455">
    <note color="#000000" default-x="15" default-y="-15">
     <pitch>
@@ -11545,7 +11544,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 50 ==============-->
+
   <measure number="50" width="493">
    <print new-page="yes">
     <system-layout>
@@ -11696,12 +11695,12 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-92" number="part3verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>begin</syllabic>
      <text>mor</text>
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 51 ==============-->
+
   <measure number="51" width="567">
    <note color="#000000" default-x="15">
     <pitch>
@@ -11969,7 +11968,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 52 ==============-->
+
   <measure number="52" width="350">
    <print new-page="yes">
     <system-layout>
@@ -12033,7 +12032,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-89" number="part3verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>tei</text>
     </lyric>
    </note>
@@ -12052,11 +12051,11 @@
     <staff>1</staff>
     <lyric default-y="-89" number="part3verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>ro_Eu</text>
+     <text>ro,_Eu</text>
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 53 ==============-->
+
   <measure number="53" width="341">
    <note color="#000000" default-x="15" default-y="-15">
     <pitch>
@@ -12117,7 +12116,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-89" number="part3verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>end</syllabic>
      <text>a</text>
     </lyric>
    </note>
@@ -12140,7 +12139,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-89" number="part3verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>begin</syllabic>
      <text>ú</text>
     </lyric>
    </note>
@@ -12198,7 +12197,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 54 ==============-->
+
   <measure number="54" width="369">
    <note color="#000000" default-x="15" default-y="-10">
     <pitch>
@@ -12230,7 +12229,7 @@
     <staff>1</staff>
     <lyric default-y="-89" number="part3verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>ce_Eu</text>
+     <text>ce,_Eu</text>
     </lyric>
    </note>
    <note color="#000000" default-x="117" default-y="-15">
@@ -12342,7 +12341,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 55 ==============-->
+
   <measure number="55" width="599">
    <print new-page="yes">
     <system-layout>
@@ -12409,7 +12408,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-87" number="part3verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>ca</text>
     </lyric>
    </note>
@@ -12432,7 +12431,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-87" number="part3verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>mi</text>
     </lyric>
    </note>
@@ -12644,7 +12643,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 56 ==============-->
+
   <measure number="56" width="234">
    <note color="#000000" default-x="15" default-y="-15">
     <pitch>
@@ -12700,7 +12699,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-87" number="part3verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>single</syllabic>
      <text>Eu</text>
     </lyric>
    </note>
@@ -12718,7 +12717,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 57 ==============-->
+
   <measure number="57" width="226">
    <note color="#000000" default-x="15" default-y="-15">
     <pitch>
@@ -12756,7 +12755,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-87" number="part3verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>single</syllabic>
      <text>Sou!</text>
     </lyric>
    </note>
@@ -12799,7 +12798,7 @@
     </notations>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 58 ==============-->
+
   <measure number="58" width="337">
    <print new-page="yes">
     <system-layout>
@@ -12901,7 +12900,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 59 ==============-->
+
   <measure number="59" width="461">
    <note color="#000000" default-x="15">
     <pitch>
@@ -12954,7 +12953,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-80" number="part3verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>ca</text>
     </lyric>
    </note>
@@ -12977,7 +12976,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-80" number="part3verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>mi</text>
     </lyric>
    </note>
@@ -13189,7 +13188,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 60 ==============-->
+
   <measure number="60" width="148">
    <note color="#000000" default-x="15" default-y="-15">
     <pitch>
@@ -13227,7 +13226,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P3, Measure: 61 ==============-->
+
   <measure number="61" width="113">
    <note>
     <rest />
@@ -13243,7 +13242,7 @@
   </measure>
  </part>
  <part id="P4">
-  <!--============== Part: P4, Measure: 1 ==============-->
+
   <measure number="1" width="261">
    <print new-page="yes">
     <system-layout>
@@ -13282,7 +13281,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 2 ==============-->
+
   <measure number="2" width="137">
    <note>
     <rest />
@@ -13293,7 +13292,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 3 ==============-->
+
   <measure number="3" width="137">
    <note>
     <rest />
@@ -13304,7 +13303,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 4 ==============-->
+
   <measure number="4" width="137">
    <note>
     <rest />
@@ -13315,7 +13314,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 5 ==============-->
+
   <measure number="5" width="330">
    <note default-x="15">
     <rest />
@@ -13326,7 +13325,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 6 ==============-->
+
   <measure number="6" width="550">
    <print new-page="yes">
     <system-layout>
@@ -13351,7 +13350,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 7 ==============-->
+
   <measure number="7" width="510">
    <note default-x="15">
     <rest />
@@ -13362,7 +13361,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 8 ==============-->
+
   <measure number="8" width="548">
    <print new-page="yes">
     <system-layout>
@@ -13387,7 +13386,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 9 ==============-->
+
   <measure number="9" width="511">
    <note default-x="15">
     <rest />
@@ -13398,7 +13397,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 10 ==============-->
+
   <measure number="10" width="573">
    <print new-page="yes">
     <system-layout>
@@ -13423,7 +13422,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 11 ==============-->
+
   <measure number="11" width="486">
    <note default-x="15">
     <rest />
@@ -13434,7 +13433,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 12 ==============-->
+
   <measure number="12" width="431">
    <print new-page="yes">
     <system-layout>
@@ -13459,7 +13458,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 13 ==============-->
+
   <measure number="13" width="211">
    <note default-x="15">
     <rest />
@@ -13470,7 +13469,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 14 ==============-->
+
   <measure number="14" width="212">
    <note default-x="15">
     <rest />
@@ -13481,7 +13480,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 15 ==============-->
+
   <measure number="15" width="204">
    <note default-x="15">
     <rest />
@@ -13492,7 +13491,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 16 ==============-->
+
   <measure number="16" width="235">
    <print new-page="yes">
     <system-layout>
@@ -13517,7 +13516,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 17 ==============-->
+
   <measure number="17" width="506">
    <note default-x="15">
     <rest />
@@ -13528,7 +13527,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 18 ==============-->
+
   <measure number="18" width="318">
    <note default-x="15">
     <rest />
@@ -13539,7 +13538,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 19 ==============-->
+
   <measure number="19" width="562">
    <print new-page="yes">
     <system-layout>
@@ -13564,7 +13563,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 20 ==============-->
+
   <measure number="20" width="249">
    <note default-x="15">
     <rest />
@@ -13575,7 +13574,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 21 ==============-->
+
   <measure number="21" width="249">
    <note default-x="15">
     <rest />
@@ -13586,7 +13585,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 22 ==============-->
+
   <measure number="22" width="303">
    <print new-page="yes">
     <system-layout>
@@ -13611,7 +13610,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 23 ==============-->
+
   <measure number="23" width="205">
    <note default-x="15">
     <rest />
@@ -13622,7 +13621,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 24 ==============-->
+
   <measure number="24" width="235">
    <note default-x="15">
     <rest />
@@ -13633,7 +13632,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 25 ==============-->
+
   <measure number="25" width="316">
    <note default-x="15">
     <rest />
@@ -13644,7 +13643,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 26 ==============-->
+
   <measure number="26" width="431">
    <print new-page="yes">
     <system-layout>
@@ -13669,7 +13668,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 27 ==============-->
+
   <measure number="27" width="427">
    <note default-x="15">
     <rest />
@@ -13680,7 +13679,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 28 ==============-->
+
   <measure number="28" width="201">
    <note default-x="15">
     <rest />
@@ -13691,7 +13690,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 29 ==============-->
+
   <measure number="29" width="583">
    <print new-page="yes">
     <system-layout>
@@ -13716,7 +13715,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 30 ==============-->
+
   <measure number="30" width="477">
    <note default-x="15">
     <rest />
@@ -13727,7 +13726,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 31 ==============-->
+
   <measure number="31" width="551">
    <print new-page="yes">
     <system-layout>
@@ -13752,7 +13751,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 32 ==============-->
+
   <measure number="32" width="209">
    <note default-x="15">
     <rest />
@@ -13763,7 +13762,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 33 ==============-->
+
   <measure number="33" width="300">
    <note default-x="15">
     <rest />
@@ -13905,7 +13904,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 34 ==============-->
+
   <measure number="34" width="569">
    <print new-page="yes">
     <system-layout>
@@ -14130,7 +14129,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 35 ==============-->
+
   <measure number="35" width="490">
    <note color="#000000" default-x="15" default-y="-17">
     <pitch>
@@ -14346,7 +14345,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 36 ==============-->
+
   <measure number="36" width="559">
    <print new-page="yes">
     <system-layout>
@@ -14435,7 +14434,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-97" number="part4verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>end</syllabic>
      <text>rer</text>
     </lyric>
    </note>
@@ -14471,7 +14470,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
     <lyric default-y="-97" number="part4verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>single</syllabic>
      <text>em</text>
     </lyric>
    </note>
@@ -14544,7 +14543,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 37 ==============-->
+
   <measure number="37" width="500">
    <note default-x="15">
     <rest />
@@ -14720,7 +14719,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 38 ==============-->
+
   <measure number="38" width="541">
    <print new-page="yes">
     <system-layout>
@@ -14777,7 +14776,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>emd</syllabic>
      <text>do</text>
     </lyric>
    </note>
@@ -14800,7 +14799,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>single</syllabic>
      <text>o</text>
      <extend />
     </lyric>
@@ -14920,7 +14919,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 39 ==============-->
+
   <measure number="39" width="519">
    <note color="#000000" default-x="15">
     <pitch>
@@ -15160,7 +15159,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 40 ==============-->
+
   <measure number="40" width="502">
    <print new-page="yes">
     <system-layout>
@@ -15352,7 +15351,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 41 ==============-->
+
   <measure number="41" width="253">
    <note color="#000000" default-x="15">
     <pitch>
@@ -15401,7 +15400,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 42 ==============-->
+
   <measure number="42" width="304">
    <note color="#000000" default-x="15" default-y="10">
     <pitch>
@@ -15528,7 +15527,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 43 ==============-->
+
   <measure number="43" width="302">
    <print new-page="yes">
     <system-layout>
@@ -15627,7 +15626,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 44 ==============-->
+
   <measure number="44" width="300">
    <note color="#000000" default-x="15" default-y="-10">
     <pitch>
@@ -15707,7 +15706,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 45 ==============-->
+
   <measure number="45" width="230">
    <note default-x="15">
     <rest />
@@ -15718,7 +15717,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 46 ==============-->
+
   <measure number="46" width="226">
    <note default-x="15">
     <rest />
@@ -15729,7 +15728,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 47 ==============-->
+
   <measure number="47" width="388">
    <print new-page="yes">
     <system-layout>
@@ -15754,7 +15753,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 48 ==============-->
+
   <measure number="48" width="216">
    <note default-x="15">
     <rest />
@@ -15765,7 +15764,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 49 ==============-->
+
   <measure number="49" width="455">
    <note default-x="15">
     <rest />
@@ -15893,7 +15892,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 50 ==============-->
+
   <measure number="50" width="493">
    <print new-page="yes">
     <system-layout>
@@ -16024,12 +16023,12 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>begin</syllabic>
      <text>mor</text>
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 51 ==============-->
+
   <measure number="51" width="567">
    <note color="#000000" default-x="15" default-y="9">
     <pitch>
@@ -16286,7 +16285,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 52 ==============-->
+
   <measure number="52" width="350">
    <print new-page="yes">
     <system-layout>
@@ -16350,7 +16349,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>tei</text>
     </lyric>
    </note>
@@ -16368,7 +16367,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part4verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>ro_Eu</text>
+     <text>ro,_Eu</text>
     </lyric>
    </note>
    <note default-x="318">
@@ -16380,7 +16379,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 53 ==============-->
+
   <measure number="53" width="341">
    <note default-x="15">
     <rest />
@@ -16445,7 +16444,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 54 ==============-->
+
   <measure number="54" width="369">
    <note color="#000000" default-x="15" default-y="-15">
     <pitch>
@@ -16479,7 +16478,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part4verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>ce_Eu</text>
+     <text>ce,_Eu</text>
     </lyric>
    </note>
    <note color="#000000" default-x="176" default-y="-5">
@@ -16523,10 +16522,7 @@
      <syllabic>single</syllabic>
      <text>Não</text>
     </lyric>
-    <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>Não</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="307" default-y="7">
     <pitch>
@@ -16546,10 +16542,7 @@
      <syllabic>single</syllabic>
      <text>há</text>
     </lyric>
-    <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>há</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="334" default-y="7">
     <pitch>
@@ -16572,13 +16565,10 @@
      <syllabic>begin</syllabic>
      <text>ou</text>
     </lyric>
-    <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>ou</text>
-    </lyric>
+
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 55 ==============-->
+
   <measure number="55" width="599">
    <print new-page="yes">
     <system-layout>
@@ -16627,10 +16617,7 @@
      <syllabic>end</syllabic>
      <text>tro</text>
     </lyric>
-    <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>tro</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="162" default-y="9">
     <pitch>
@@ -16646,13 +16633,10 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>ca</text>
     </lyric>
-    <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>ca</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="186" default-y="9">
     <pitch>
@@ -16672,13 +16656,10 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>begin</syllabic>
-     <text>mi</text>
-    </lyric>
-    <lyric default-y="-80" number="part4verse1" color="#000000">
      <syllabic>middle</syllabic>
      <text>mi</text>
     </lyric>
+
    </note>
    <note color="#000000" default-x="215" default-y="9">
     <pitch>
@@ -16714,10 +16695,7 @@
      <syllabic>end</syllabic>
      <text>nho</text>
     </lyric>
-    <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>nho</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="289" default-y="9">
     <pitch>
@@ -16736,10 +16714,7 @@
      <syllabic>single</syllabic>
      <text>pra</text>
     </lyric>
-    <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>pra</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="320" default-y="9">
     <pitch>
@@ -16762,10 +16737,7 @@
      <syllabic>begin</syllabic>
      <text>to</text>
     </lyric>
-    <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>to</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="349" default-y="9">
     <pitch>
@@ -16800,10 +16772,7 @@
      <syllabic>end</syllabic>
      <text>do</text>
     </lyric>
-    <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>do</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="418" default-y="9">
     <pitch>
@@ -16822,10 +16791,7 @@
      <syllabic>single</syllabic>
      <text>que</text>
     </lyric>
-    <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>que</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="468" default-y="9">
     <pitch>
@@ -16848,10 +16814,7 @@
      <syllabic>single</syllabic>
      <text>quer</text>
     </lyric>
-    <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>quer</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="497" default-y="4">
     <pitch>
@@ -16891,10 +16854,7 @@
      <syllabic>single</syllabic>
      <text>ser</text>
     </lyric>
-    <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>ser</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="555" default-y="4">
     <pitch>
@@ -16918,10 +16878,7 @@
      <syllabic>begin</syllabic>
      <text>li</text>
     </lyric>
-    <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>li</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="577" default-y="4">
     <pitch>
@@ -16938,7 +16895,7 @@
     <beam number="2">end</beam>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 56 ==============-->
+
   <measure number="56" width="234">
    <note color="#000000" default-x="15" default-y="-5">
     <pitch>
@@ -16956,10 +16913,7 @@
      <syllabic>middle</syllabic>
      <text>ber</text>
     </lyric>
-    <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>ber</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="95" default-y="-5">
     <pitch>
@@ -16977,13 +16931,10 @@
      <syllabic>end</syllabic>
      <text>to</text>
     </lyric>
-    <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>to</text>
-    </lyric>
+
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 57 ==============-->
+
   <measure number="57" width="226">
    <note default-x="15">
     <rest />
@@ -16994,7 +16945,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 58 ==============-->
+
   <measure number="58" width="337">
    <print new-page="yes">
     <system-layout>
@@ -17096,7 +17047,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 59 ==============-->
+
   <measure number="59" width="461">
    <note color="#000000" default-x="15">
     <pitch>
@@ -17149,7 +17100,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>ca</text>
     </lyric>
    </note>
@@ -17172,7 +17123,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>mi</text>
     </lyric>
    </note>
@@ -17384,7 +17335,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 60 ==============-->
+
   <measure number="60" width="148">
    <note color="#000000" default-x="15" default-y="-15">
     <pitch>
@@ -17422,7 +17373,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P4, Measure: 61 ==============-->
+
   <measure number="61" width="113">
    <note>
     <rest />
@@ -17438,7 +17389,7 @@
   </measure>
  </part>
  <part id="P5">
-  <!--============== Part: P5, Measure: 1 ==============-->
+
   <measure number="1" width="261">
    <print new-page="yes">
     <system-layout>
@@ -17477,7 +17428,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 2 ==============-->
+
   <measure number="2" width="137">
    <note>
     <rest />
@@ -17488,7 +17439,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 3 ==============-->
+
   <measure number="3" width="137">
    <note>
     <rest />
@@ -17499,7 +17450,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 4 ==============-->
+
   <measure number="4" width="137">
    <note>
     <rest />
@@ -17510,7 +17461,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 5 ==============-->
+
   <measure number="5" width="330">
    <note default-x="15">
     <rest />
@@ -17521,7 +17472,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 6 ==============-->
+
   <measure number="6" width="550">
    <print new-page="yes">
     <system-layout>
@@ -17546,7 +17497,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 7 ==============-->
+
   <measure number="7" width="510">
    <note default-x="15">
     <rest />
@@ -17557,7 +17508,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 8 ==============-->
+
   <measure number="8" width="548">
    <print new-page="yes">
     <system-layout>
@@ -17582,7 +17533,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 9 ==============-->
+
   <measure number="9" width="511">
    <note default-x="15">
     <rest />
@@ -17593,7 +17544,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 10 ==============-->
+
   <measure number="10" width="573">
    <print new-page="yes">
     <system-layout>
@@ -17618,7 +17569,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 11 ==============-->
+
   <measure number="11" width="486">
    <note default-x="15">
     <rest />
@@ -17629,7 +17580,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 12 ==============-->
+
   <measure number="12" width="431">
    <print new-page="yes">
     <system-layout>
@@ -17654,7 +17605,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 13 ==============-->
+
   <measure number="13" width="211">
    <note default-x="15">
     <rest />
@@ -17665,7 +17616,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 14 ==============-->
+
   <measure number="14" width="212">
    <note default-x="15">
     <rest />
@@ -17676,7 +17627,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 15 ==============-->
+
   <measure number="15" width="204">
    <note default-x="15">
     <rest />
@@ -17687,7 +17638,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 16 ==============-->
+
   <measure number="16" width="235">
    <print new-page="yes">
     <system-layout>
@@ -17712,7 +17663,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 17 ==============-->
+
   <measure number="17" width="506">
    <note default-x="15">
     <rest />
@@ -17723,7 +17674,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 18 ==============-->
+
   <measure number="18" width="318">
    <note default-x="15">
     <rest />
@@ -17734,7 +17685,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 19 ==============-->
+
   <measure number="19" width="562">
    <print new-page="yes">
     <system-layout>
@@ -17759,7 +17710,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 20 ==============-->
+
   <measure number="20" width="249">
    <note default-x="15">
     <rest />
@@ -17770,7 +17721,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 21 ==============-->
+
   <measure number="21" width="249">
    <note default-x="15">
     <rest />
@@ -17781,7 +17732,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 22 ==============-->
+
   <measure number="22" width="303">
    <print new-page="yes">
     <system-layout>
@@ -17806,7 +17757,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 23 ==============-->
+
   <measure number="23" width="205">
    <note default-x="15">
     <rest />
@@ -17817,7 +17768,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 24 ==============-->
+
   <measure number="24" width="235">
    <note default-x="15">
     <rest />
@@ -17828,7 +17779,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 25 ==============-->
+
   <measure number="25" width="316">
    <note default-x="15">
     <rest />
@@ -17839,7 +17790,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 26 ==============-->
+
   <measure number="26" width="431">
    <print new-page="yes">
     <system-layout>
@@ -17864,7 +17815,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 27 ==============-->
+
   <measure number="27" width="427">
    <note default-x="15">
     <rest />
@@ -17875,7 +17826,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 28 ==============-->
+
   <measure number="28" width="201">
    <note default-x="15">
     <rest />
@@ -17886,7 +17837,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 29 ==============-->
+
   <measure number="29" width="583">
    <print new-page="yes">
     <system-layout>
@@ -17911,7 +17862,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 30 ==============-->
+
   <measure number="30" width="477">
    <note default-x="15">
     <rest />
@@ -17922,7 +17873,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 31 ==============-->
+
   <measure number="31" width="551">
    <print new-page="yes">
     <system-layout>
@@ -17947,7 +17898,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 32 ==============-->
+
   <measure number="32" width="209">
    <note default-x="15">
     <rest />
@@ -17958,7 +17909,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 33 ==============-->
+
   <measure number="33" width="300">
    <note default-x="15">
     <rest />
@@ -17985,10 +17936,6 @@
      <syllabic>begin</syllabic>
      <text>Che</text>
     </lyric>
-    <lyric default-y="-107" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>Che</text>
-    </lyric>
    </note>
    <note color="#000000" default-x="84" default-y="-20">
     <pitch>
@@ -18008,10 +17955,7 @@
      <syllabic>end</syllabic>
      <text>ga</text>
     </lyric>
-    <lyric default-y="-107" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>ga</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="110" default-y="-20">
     <pitch>
@@ -18035,10 +17979,7 @@
      <syllabic>begin</syllabic>
      <text>fal</text>
     </lyric>
-    <lyric default-y="-107" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>fal</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="139" default-y="-20">
     <pitch>
@@ -18075,10 +18016,7 @@
      <syllabic>end</syllabic>
      <text>tar</text>
     </lyric>
-    <lyric default-y="-107" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>tar</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="195" default-y="-20">
     <pitch>
@@ -18096,10 +18034,7 @@
      <syllabic>single</syllabic>
      <text>o</text>
     </lyric>
-    <lyric default-y="-107" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>o</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="222" default-y="-15">
     <pitch>
@@ -18118,13 +18053,10 @@
      <syllabic>single</syllabic>
      <text>ar,</text>
     </lyric>
-    <lyric default-y="-107" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>ar,</text>
-    </lyric>
+
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 34 ==============-->
+
   <measure number="34" width="569">
    <print new-page="yes">
     <system-layout>
@@ -18165,10 +18097,7 @@
      <syllabic>single</syllabic>
      <text>quem</text>
     </lyric>
-    <lyric default-y="-106" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>quem</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="187" default-y="-20">
     <pitch>
@@ -18188,10 +18117,7 @@
      <syllabic>single</syllabic>
      <text>de</text>
     </lyric>
-    <lyric default-y="-106" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>de</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="216" default-y="-20">
     <pitch>
@@ -18216,11 +18142,7 @@
      <text>nós</text>
      <extend />
     </lyric>
-    <lyric default-y="-106" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>nós</text>
-     <extend />
-    </lyric>
+
    </note>
    <note color="#000000" default-x="245" default-y="-10">
     <pitch>
@@ -18257,10 +18179,7 @@
      <syllabic>begin</syllabic>
      <text>es</text>
     </lyric>
-    <lyric default-y="-106" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>es</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="320" default-y="-10">
     <pitch>
@@ -18278,10 +18197,7 @@
      <syllabic>middle</syllabic>
      <text>pe</text>
     </lyric>
-    <lyric default-y="-106" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>pe</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="365" default-y="-15">
     <pitch>
@@ -18300,10 +18216,7 @@
      <syllabic>end</syllabic>
      <text>rou?</text>
     </lyric>
-    <lyric default-y="-106" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>rou?</text>
-    </lyric>
+
    </note>
    <note default-x="435">
     <rest />
@@ -18330,10 +18243,7 @@
      <syllabic>begin</syllabic>
      <text>Po</text>
     </lyric>
-    <lyric default-y="-106" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>Po</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="511" default-y="-17">
     <pitch>
@@ -18353,10 +18263,7 @@
      <syllabic>middle</syllabic>
      <text>de</text>
     </lyric>
-    <lyric default-y="-106" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>de</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="540" default-y="-17">
     <pitch>
@@ -18380,13 +18287,10 @@
      <syllabic>middle</syllabic>
      <text>ri</text>
     </lyric>
-    <lyric default-y="-106" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>ri</text>
-    </lyric>
+
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 35 ==============-->
+
   <measure number="35" width="490">
    <note color="#000000" default-x="15" default-y="-17">
     <pitch>
@@ -18422,10 +18326,7 @@
      <syllabic>end</syllabic>
      <text>a</text>
     </lyric>
-    <lyric default-y="-106" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>a</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="90" default-y="-17">
     <pitch>
@@ -18444,10 +18345,7 @@
      <syllabic>single</syllabic>
      <text>o</text>
     </lyric>
-    <lyric default-y="-106" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>o</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="119" default-y="-17">
     <pitch>
@@ -18470,10 +18368,7 @@
      <syllabic>begin</syllabic>
      <text>Fi</text>
     </lyric>
-    <lyric default-y="-106" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>Fi</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="148" default-y="-20">
     <pitch>
@@ -18509,10 +18404,7 @@
      <syllabic>end</syllabic>
      <text>lho</text>
     </lyric>
-    <lyric default-y="-106" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>lho</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="224" default-y="-20">
     <pitch>
@@ -18530,10 +18422,7 @@
      <syllabic>single</syllabic>
      <text>de</text>
     </lyric>
-    <lyric default-y="-106" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>de</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="270" default-y="-15">
     <pitch>
@@ -18552,10 +18441,7 @@
      <syllabic>single</syllabic>
      <text>Deus</text>
     </lyric>
-    <lyric default-y="-106" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>Deus</text>
-    </lyric>
+
    </note>
    <note default-x="341">
     <rest />
@@ -18582,10 +18468,7 @@
      <syllabic>begin</syllabic>
      <text>i</text>
     </lyric>
-    <lyric default-y="-106" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>i</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="417" default-y="-17">
     <pitch>
@@ -18605,10 +18488,7 @@
      <syllabic>middle</syllabic>
      <text>nos</text>
     </lyric>
-    <lyric default-y="-106" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>nos</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="461" default-y="-17">
     <pitch>
@@ -18632,13 +18512,10 @@
      <syllabic>middle</syllabic>
      <text>cen</text>
     </lyric>
-    <lyric default-y="-106" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>cen</text>
-    </lyric>
+
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 36 ==============-->
+
   <measure number="36" width="559">
    <print new-page="yes">
     <system-layout>
@@ -18689,10 +18566,7 @@
      <syllabic>end</syllabic>
      <text>te</text>
     </lyric>
-    <lyric default-y="-97" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>te</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="184" default-y="-20">
     <pitch>
@@ -18711,10 +18585,7 @@
      <syllabic>begin</syllabic>
      <text>mor</text>
     </lyric>
-    <lyric default-y="-97" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>mor</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="221" default-y="-20">
     <pitch>
@@ -18735,11 +18606,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-97" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>rer</text>
-    </lyric>
-    <lyric default-y="-97" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>end</syllabic>
      <text>rer</text>
     </lyric>
    </note>
@@ -18775,13 +18642,10 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
     <lyric default-y="-97" number="part5verse1" color="#000000">
-     <syllabic>end</syllabic>
-     <text>em</text>
-    </lyric>
-    <lyric default-y="-97" number="part5verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>em</text>
     </lyric>
+
    </note>
    <note color="#000000" default-x="338" default-y="-20">
     <pitch>
@@ -18799,10 +18663,7 @@
      <syllabic>begin</syllabic>
      <text>nos</text>
     </lyric>
-    <lyric default-y="-97" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>nos</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="380" default-y="-20">
     <pitch>
@@ -18820,10 +18681,7 @@
      <syllabic>end</syllabic>
      <text>so</text>
     </lyric>
-    <lyric default-y="-97" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>so</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="459" default-y="-15">
     <pitch>
@@ -18841,10 +18699,7 @@
      <syllabic>begin</syllabic>
      <text>lu</text>
     </lyric>
-    <lyric default-y="-97" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>lu</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="501" default-y="-15">
     <pitch>
@@ -18862,13 +18717,10 @@
      <syllabic>end</syllabic>
      <text>gar?</text>
     </lyric>
-    <lyric default-y="-97" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>gar?</text>
-    </lyric>
+
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 37 ==============-->
+
   <measure number="37" width="500">
    <note default-x="15">
     <rest />
@@ -18895,10 +18747,7 @@
      <syllabic>single</syllabic>
      <text>Por</text>
     </lyric>
-    <lyric default-y="-97" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>Por</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="110" default-y="-17">
     <pitch>
@@ -18918,10 +18767,7 @@
      <syllabic>begin</syllabic>
      <text>que_a</text>
     </lyric>
-    <lyric default-y="-97" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>que_a</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="153" default-y="-17">
     <pitch>
@@ -18945,10 +18791,7 @@
      <syllabic>middle</syllabic>
      <text>in</text>
     </lyric>
-    <lyric default-y="-97" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>in</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="185" default-y="-10">
     <pitch>
@@ -18985,10 +18828,7 @@
      <syllabic>end</syllabic>
      <text>da</text>
     </lyric>
-    <lyric default-y="-97" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>da</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="270" default-y="-10">
     <pitch>
@@ -19006,10 +18846,7 @@
      <syllabic>begin</syllabic>
      <text>pen</text>
     </lyric>
-    <lyric default-y="-97" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>pen</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="317">
     <pitch>
@@ -19028,10 +18865,7 @@
      <syllabic>end</syllabic>
      <text>sou</text>
     </lyric>
-    <lyric default-y="-97" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>sou</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="395" default-y="-5">
     <pitch>
@@ -19048,10 +18882,7 @@
      <syllabic>single</syllabic>
      <text>em</text>
     </lyric>
-    <lyric default-y="-97" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>em</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="442" default-y="-15">
     <pitch>
@@ -19069,13 +18900,10 @@
      <syllabic>single</syllabic>
      <text>nós?</text>
     </lyric>
-    <lyric default-y="-97" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>nós?</text>
-    </lyric>
+
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 38 ==============-->
+
   <measure number="38" width="541">
    <print new-page="yes">
     <system-layout>
@@ -19116,10 +18944,7 @@
      <syllabic>begin</syllabic>
      <text>Tu</text>
     </lyric>
-    <lyric default-y="-86" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>Tu</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="177" default-y="-17">
     <pitch>
@@ -19136,13 +18961,10 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-86" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>emd</syllabic>
      <text>do</text>
     </lyric>
-    <lyric default-y="-86" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>do</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="207" default-y="-17">
     <pitch>
@@ -19163,15 +18985,11 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-86" number="part5verse1" color="#000000">
-     <syllabic>end</syllabic>
-     <text>o</text>
-     <extend />
-    </lyric>
-    <lyric default-y="-86" number="part5verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>o</text>
      <extend />
     </lyric>
+
    </note>
    <note color="#000000" default-x="236" default-y="-10">
     <pitch>
@@ -19208,10 +19026,7 @@
      <syllabic>single</syllabic>
      <text>que</text>
     </lyric>
-    <lyric default-y="-86" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>que</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="314" default-y="-10">
     <pitch>
@@ -19229,10 +19044,7 @@
      <syllabic>begin</syllabic>
      <text>fa</text>
     </lyric>
-    <lyric default-y="-86" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>fa</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="353">
     <pitch>
@@ -19251,10 +19063,7 @@
      <syllabic>middle</syllabic>
      <text>ze</text>
     </lyric>
-    <lyric default-y="-86" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>ze</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="425" default-y="-7">
     <pitch>
@@ -19272,10 +19081,7 @@
      <syllabic>end</syllabic>
      <text>mos</text>
     </lyric>
-    <lyric default-y="-86" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>mos</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="464" default-y="-7">
     <pitch>
@@ -19293,10 +19099,7 @@
      <syllabic>single</syllabic>
      <text>é:</text>
     </lyric>
-    <lyric default-y="-86" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>é:</text>
-    </lyric>
+
    </note>
    <note default-x="502">
     <rest />
@@ -19307,7 +19110,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 39 ==============-->
+
   <measure number="39" width="519">
    <note color="#000000" default-x="15" default-y="-10">
     <pitch>
@@ -19325,10 +19128,7 @@
      <syllabic>begin</syllabic>
      <text>to</text>
     </lyric>
-    <lyric default-y="-86" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>to</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="53" default-y="-10">
     <pitch>
@@ -19346,10 +19146,7 @@
      <syllabic>end</syllabic>
      <text>dos</text>
     </lyric>
-    <lyric default-y="-86" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>dos</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="92" default-y="-10">
     <pitch>
@@ -19368,10 +19165,7 @@
      <syllabic>single</syllabic>
      <text>os</text>
     </lyric>
-    <lyric default-y="-86" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>os</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="121" default-y="-10">
     <pitch>
@@ -19394,10 +19188,7 @@
      <syllabic>begin</syllabic>
      <text>di</text>
     </lyric>
-    <lyric default-y="-86" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>di</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="151" default-y="-15">
     <pitch>
@@ -19433,10 +19224,7 @@
      <syllabic>end</syllabic>
      <text>as</text>
     </lyric>
-    <lyric default-y="-86" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>as</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="233" default-y="-15">
     <pitch>
@@ -19455,10 +19243,7 @@
      <syllabic>single</syllabic>
      <text>mais</text>
     </lyric>
-    <lyric default-y="-86" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>mais</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="277" default-y="-17">
     <pitch>
@@ -19477,10 +19262,7 @@
      <syllabic>begin</syllabic>
      <text>pe</text>
     </lyric>
-    <lyric default-y="-86" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>pe</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="321" default-y="-17">
     <pitch>
@@ -19498,10 +19280,7 @@
      <syllabic>end</syllabic>
      <text>dras</text>
     </lyric>
-    <lyric default-y="-86" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>dras</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="360" default-y="-17">
     <pitch>
@@ -19519,10 +19298,7 @@
      <syllabic>begin</syllabic>
      <text>jo</text>
     </lyric>
-    <lyric default-y="-86" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>jo</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="398" default-y="-17">
     <pitch>
@@ -19540,10 +19316,7 @@
      <syllabic>end</syllabic>
      <text>gar</text>
     </lyric>
-    <lyric default-y="-86" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>gar</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="437" default-y="-17">
     <pitch>
@@ -19562,10 +19335,7 @@
      <syllabic>single</syllabic>
      <text>na</text>
     </lyric>
-    <lyric default-y="-86" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>na</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="480" default-y="-17">
     <pitch>
@@ -19584,13 +19354,10 @@
      <syllabic>single</syllabic>
      <text>cruz</text>
     </lyric>
-    <lyric default-y="-86" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>cruz</text>
-    </lyric>
+
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 40 ==============-->
+
   <measure number="40" width="502">
    <print new-page="yes">
     <system-layout>
@@ -19631,10 +19398,7 @@
      <syllabic>begin</syllabic>
      <text>cra</text>
     </lyric>
-    <lyric default-y="-80" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>cra</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="164" default-y="-17">
     <pitch>
@@ -19653,10 +19417,7 @@
      <syllabic>end</syllabic>
      <text>var</text>
     </lyric>
-    <lyric default-y="-80" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>var</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="205" default-y="-17">
     <pitch>
@@ -19675,10 +19436,7 @@
      <syllabic>begin</syllabic>
      <text>ain</text>
     </lyric>
-    <lyric default-y="-80" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>ain</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="242" default-y="-17">
     <pitch>
@@ -19697,10 +19455,7 @@
      <syllabic>end</syllabic>
      <text>da</text>
     </lyric>
-    <lyric default-y="-80" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>da</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="287" default-y="-17">
     <pitch>
@@ -19719,10 +19474,7 @@
      <syllabic>single</syllabic>
      <text>mais</text>
     </lyric>
-    <lyric default-y="-80" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>mais</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="337" default-y="-10">
     <pitch>
@@ -19739,10 +19491,7 @@
      <syllabic>begin</syllabic>
      <text>fun</text>
     </lyric>
-    <lyric default-y="-80" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>fun</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="385" default-y="-15">
     <pitch>
@@ -19760,10 +19509,7 @@
      <syllabic>end</syllabic>
      <text>do_a</text>
     </lyric>
-    <lyric default-y="-80" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>do_a</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="428" default-y="-17">
     <pitch>
@@ -19782,10 +19528,7 @@
      <syllabic>begin</syllabic>
      <text>Su</text>
     </lyric>
-    <lyric default-y="-80" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>Su</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="456" default-y="-17">
     <pitch>
@@ -19804,10 +19547,7 @@
      <syllabic>end</syllabic>
      <text>a</text>
     </lyric>
-    <lyric default-y="-80" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>a</text>
-    </lyric>
+
    </note>
    <note default-x="479">
     <rest />
@@ -19818,7 +19558,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 41 ==============-->
+
   <measure number="41" width="253">
    <note color="#000000" default-x="15" default-y="-15">
     <pitch>
@@ -19838,11 +19578,7 @@
      <text>dor</text>
      <extend />
     </lyric>
-    <lyric default-y="-80" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>dor</text>
-     <extend />
-    </lyric>
+
    </note>
    <note color="#000000" default-x="59" default-y="-5">
     <pitch>
@@ -19909,7 +19645,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 42 ==============-->
+
   <measure number="42" width="304">
    <note color="#000000" default-x="15" default-y="5">
     <pitch>
@@ -19964,10 +19700,7 @@
      <syllabic>single</syllabic>
      <text>quem</text>
     </lyric>
-    <lyric default-y="-80" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>quem</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="172" default-y="-17">
     <pitch>
@@ -19986,10 +19719,7 @@
      <syllabic>single</syllabic>
      <text>de</text>
     </lyric>
-    <lyric default-y="-80" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>de</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="210" default-y="-10">
     <pitch>
@@ -20008,10 +19738,7 @@
      <syllabic>single</syllabic>
      <text>nós</text>
     </lyric>
-    <lyric default-y="-80" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>nós</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="246" default-y="-10">
     <pitch>
@@ -20030,10 +19757,7 @@
      <syllabic>begin</syllabic>
      <text>es</text>
     </lyric>
-    <lyric default-y="-80" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>es</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="279" default-y="-10">
     <pitch>
@@ -20051,13 +19775,10 @@
      <syllabic>middle</syllabic>
      <text>pe</text>
     </lyric>
-    <lyric default-y="-80" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>pe</text>
-    </lyric>
+
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 43 ==============-->
+
   <measure number="43" width="302">
    <print new-page="yes">
     <system-layout>
@@ -20094,11 +19815,7 @@
      <text>rou?</text>
      <extend />
     </lyric>
-    <lyric default-y="-94" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>rou?</text>
-     <extend />
-    </lyric>
+
    </note>
    <note color="#000000" default-x="126" default-y="-10">
     <pitch>
@@ -20175,7 +19892,7 @@
     </notations>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 44 ==============-->
+
   <measure number="44" width="300">
    <note color="#000000" default-x="15" default-y="-10">
     <pitch>
@@ -20193,10 +19910,7 @@
      <syllabic>single</syllabic>
      <text>oh</text>
     </lyric>
-    <lyric default-y="-94" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>oh</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="64" default-y="-15">
     <pitch>
@@ -20214,10 +19928,7 @@
      <syllabic>single</syllabic>
      <text>oh</text>
     </lyric>
-    <lyric default-y="-94" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>oh</text>
-    </lyric>
+
    </note>
    <note default-x="100">
     <rest />
@@ -20243,10 +19954,7 @@
      <syllabic>single</syllabic>
      <text>oh</text>
     </lyric>
-    <lyric default-y="-94" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>oh</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="220" default-y="-20">
     <pitch>
@@ -20265,13 +19973,10 @@
      <syllabic>single</syllabic>
      <text>oh</text>
     </lyric>
-    <lyric default-y="-94" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>oh</text>
-    </lyric>
+
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 45 ==============-->
+
   <measure number="45" width="230">
    <note default-x="15">
     <rest />
@@ -20282,7 +19987,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 46 ==============-->
+
   <measure number="46" width="226">
    <note default-x="15">
     <rest />
@@ -20293,7 +19998,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 47 ==============-->
+
   <measure number="47" width="388">
    <print new-page="yes">
     <system-layout>
@@ -20318,7 +20023,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 48 ==============-->
+
   <measure number="48" width="216">
    <note default-x="15">
     <rest />
@@ -20329,7 +20034,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 49 ==============-->
+
   <measure number="49" width="455">
    <note default-x="15">
     <rest />
@@ -20456,7 +20161,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 50 ==============-->
+
   <measure number="50" width="493">
    <print new-page="yes">
     <system-layout>
@@ -20587,12 +20292,12 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-89" number="part5verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>begin</syllabic>
      <text>mor</text>
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 51 ==============-->
+
   <measure number="51" width="567">
    <note color="#000000" default-x="15">
     <pitch>
@@ -20853,7 +20558,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 52 ==============-->
+
   <measure number="52" width="350">
    <print new-page="yes">
     <system-layout>
@@ -20917,7 +20622,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-99" number="part5verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>tei</text>
     </lyric>
    </note>
@@ -20935,7 +20640,7 @@
     <staff>1</staff>
     <lyric default-y="-99" number="part5verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>ro_Eu</text>
+     <text>ro,_Eu</text>
     </lyric>
    </note>
    <note default-x="318">
@@ -20947,7 +20652,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 53 ==============-->
+
   <measure number="53" width="341">
    <note default-x="15">
     <rest />
@@ -21012,7 +20717,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 54 ==============-->
+
   <measure number="54" width="369">
    <note color="#000000" default-x="15" default-y="-20">
     <pitch>
@@ -21046,7 +20751,7 @@
     <staff>1</staff>
     <lyric default-y="-99" number="part5verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>ce_Eu</text>
+     <text>ce,_Eu</text>
     </lyric>
    </note>
    <note color="#000000" default-x="176" default-y="-15">
@@ -21135,7 +20840,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 55 ==============-->
+
   <measure number="55" width="599">
    <print new-page="yes">
     <system-layout>
@@ -21202,7 +20907,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-80" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>ca</text>
     </lyric>
    </note>
@@ -21225,7 +20930,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-80" number="part5verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>mi</text>
     </lyric>
    </note>
@@ -21461,7 +21166,7 @@
     <beam number="2">end</beam>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 56 ==============-->
+
   <measure number="56" width="234">
    <note color="#000000" default-x="15" default-y="-15">
     <pitch>
@@ -21499,7 +21204,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 57 ==============-->
+
   <measure number="57" width="226">
    <note default-x="15">
     <rest />
@@ -21510,7 +21215,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 58 ==============-->
+
   <measure number="58" width="337">
    <print new-page="yes">
     <system-layout>
@@ -21612,7 +21317,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 59 ==============-->
+
   <measure number="59" width="461">
    <note color="#000000" default-x="15">
     <pitch>
@@ -21665,7 +21370,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-80" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>ca</text>
     </lyric>
    </note>
@@ -21688,7 +21393,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-80" number="part5verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>mi</text>
     </lyric>
    </note>
@@ -21900,7 +21605,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 60 ==============-->
+
   <measure number="60" width="148">
    <note color="#000000" default-x="15" default-y="-15">
     <pitch>
@@ -21938,7 +21643,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P5, Measure: 61 ==============-->
+
   <measure number="61" width="113">
    <note>
     <rest />
@@ -21954,7 +21659,7 @@
   </measure>
  </part>
  <part id="P6">
-  <!--============== Part: P6, Measure: 1 ==============-->
+
   <measure number="1" width="261">
    <print new-page="yes">
     <system-layout>
@@ -21993,7 +21698,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 2 ==============-->
+
   <measure number="2" width="137">
    <note>
     <rest />
@@ -22004,7 +21709,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 3 ==============-->
+
   <measure number="3" width="137">
    <note>
     <rest />
@@ -22015,7 +21720,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 4 ==============-->
+
   <measure number="4" width="137">
    <note>
     <rest />
@@ -22026,7 +21731,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 5 ==============-->
+
   <measure number="5" width="330">
    <note default-x="15">
     <rest />
@@ -22037,7 +21742,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 6 ==============-->
+
   <measure number="6" width="550">
    <print new-page="yes">
     <system-layout>
@@ -22062,7 +21767,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 7 ==============-->
+
   <measure number="7" width="510">
    <note default-x="15">
     <rest />
@@ -22073,7 +21778,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 8 ==============-->
+
   <measure number="8" width="548">
    <print new-page="yes">
     <system-layout>
@@ -22098,7 +21803,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 9 ==============-->
+
   <measure number="9" width="511">
    <note default-x="15">
     <rest />
@@ -22109,7 +21814,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 10 ==============-->
+
   <measure number="10" width="573">
    <print new-page="yes">
     <system-layout>
@@ -22134,7 +21839,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 11 ==============-->
+
   <measure number="11" width="486">
    <note default-x="15">
     <rest />
@@ -22145,7 +21850,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 12 ==============-->
+
   <measure number="12" width="431">
    <print new-page="yes">
     <system-layout>
@@ -22170,7 +21875,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 13 ==============-->
+
   <measure number="13" width="211">
    <note default-x="15">
     <rest />
@@ -22181,7 +21886,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 14 ==============-->
+
   <measure number="14" width="212">
    <note default-x="15">
     <rest />
@@ -22192,7 +21897,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 15 ==============-->
+
   <measure number="15" width="204">
    <note default-x="15">
     <rest />
@@ -22203,7 +21908,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 16 ==============-->
+
   <measure number="16" width="235">
    <print new-page="yes">
     <system-layout>
@@ -22228,7 +21933,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 17 ==============-->
+
   <measure number="17" width="506">
    <note default-x="15">
     <rest />
@@ -22239,7 +21944,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 18 ==============-->
+
   <measure number="18" width="318">
    <note default-x="15">
     <rest />
@@ -22250,7 +21955,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 19 ==============-->
+
   <measure number="19" width="562">
    <print new-page="yes">
     <system-layout>
@@ -22275,7 +21980,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 20 ==============-->
+
   <measure number="20" width="249">
    <note default-x="15">
     <rest />
@@ -22286,7 +21991,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 21 ==============-->
+
   <measure number="21" width="249">
    <note default-x="15">
     <rest />
@@ -22297,7 +22002,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 22 ==============-->
+
   <measure number="22" width="303">
    <print new-page="yes">
     <system-layout>
@@ -22322,7 +22027,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 23 ==============-->
+
   <measure number="23" width="205">
    <note default-x="15">
     <rest />
@@ -22333,7 +22038,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 24 ==============-->
+
   <measure number="24" width="235">
    <note default-x="15">
     <rest />
@@ -22344,7 +22049,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 25 ==============-->
+
   <measure number="25" width="316">
    <note default-x="15">
     <rest />
@@ -22355,7 +22060,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 26 ==============-->
+
   <measure number="26" width="431">
    <print new-page="yes">
     <system-layout>
@@ -22380,7 +22085,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 27 ==============-->
+
   <measure number="27" width="427">
    <note default-x="15">
     <rest />
@@ -22391,7 +22096,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 28 ==============-->
+
   <measure number="28" width="201">
    <note default-x="15">
     <rest />
@@ -22402,7 +22107,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 29 ==============-->
+
   <measure number="29" width="583">
    <print new-page="yes">
     <system-layout>
@@ -22427,7 +22132,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 30 ==============-->
+
   <measure number="30" width="477">
    <note default-x="15">
     <rest />
@@ -22438,7 +22143,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 31 ==============-->
+
   <measure number="31" width="551">
    <print new-page="yes">
     <system-layout>
@@ -22463,7 +22168,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 32 ==============-->
+
   <measure number="32" width="209">
    <note default-x="15">
     <rest />
@@ -22474,7 +22179,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 33 ==============-->
+
   <measure number="33" width="300">
    <note default-x="15">
     <rest />
@@ -22501,10 +22206,7 @@
      <syllabic>begin</syllabic>
      <text>Che</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>Che</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="84" default-y="-42">
     <pitch>
@@ -22524,10 +22226,7 @@
      <syllabic>end</syllabic>
      <text>ga</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>ga</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="110" default-y="-42">
     <pitch>
@@ -22551,10 +22250,7 @@
      <syllabic>begin</syllabic>
      <text>fal</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>fal</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="139" default-y="-42">
     <pitch>
@@ -22591,10 +22287,7 @@
      <syllabic>end</syllabic>
      <text>tar</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>tar</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="195" default-y="-42">
     <pitch>
@@ -22612,10 +22305,7 @@
      <syllabic>single</syllabic>
      <text>o</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>o</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="222" default-y="-25">
     <pitch>
@@ -22634,13 +22324,10 @@
      <syllabic>single</syllabic>
      <text>ar,</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>ar,</text>
-    </lyric>
+
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 34 ==============-->
+
   <measure number="34" width="569">
    <print new-page="yes">
     <system-layout>
@@ -22681,10 +22368,7 @@
      <syllabic>single</syllabic>
      <text>quem</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>quem</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="187" default-y="-42">
     <pitch>
@@ -22704,10 +22388,7 @@
      <syllabic>single</syllabic>
      <text>de</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>de</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="216" default-y="-42">
     <pitch>
@@ -22732,11 +22413,7 @@
      <text>nós</text>
      <extend />
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>nós</text>
-     <extend />
-    </lyric>
+
    </note>
    <note color="#000000" default-x="245" default-y="-42">
     <pitch>
@@ -22773,10 +22450,7 @@
      <syllabic>begin</syllabic>
      <text>es</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>es</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="320" default-y="-42">
     <pitch>
@@ -22794,10 +22468,7 @@
      <syllabic>middle</syllabic>
      <text>pe</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>pe</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="365" default-y="-25">
     <pitch>
@@ -22816,10 +22487,7 @@
      <syllabic>end</syllabic>
      <text>rou?</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>rou?</text>
-    </lyric>
+
    </note>
    <note default-x="435">
     <rest />
@@ -22846,10 +22514,7 @@
      <syllabic>begin</syllabic>
      <text>Po</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>Po</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="511" default-y="-22">
     <pitch>
@@ -22869,10 +22534,7 @@
      <syllabic>middle</syllabic>
      <text>de</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>de</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="540" default-y="-22">
     <pitch>
@@ -22896,13 +22558,10 @@
      <syllabic>middle</syllabic>
      <text>ri</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>ri</text>
-    </lyric>
+
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 35 ==============-->
+
   <measure number="35" width="490">
    <note color="#000000" default-x="15" default-y="-39">
     <pitch>
@@ -22938,10 +22597,7 @@
      <syllabic>end</syllabic>
      <text>a</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>a</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="90" default-y="-39">
     <pitch>
@@ -22960,10 +22616,7 @@
      <syllabic>single</syllabic>
      <text>o</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>o</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="119" default-y="-39">
     <pitch>
@@ -22986,10 +22639,7 @@
      <syllabic>begin</syllabic>
      <text>Fi</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>Fi</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="148" default-y="-42">
     <pitch>
@@ -23025,10 +22675,7 @@
      <syllabic>end</syllabic>
      <text>lho</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>lho</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="224" default-y="-42">
     <pitch>
@@ -23046,10 +22693,7 @@
      <syllabic>single</syllabic>
      <text>de</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>de</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="270" default-y="-25">
     <pitch>
@@ -23068,10 +22712,7 @@
      <syllabic>single</syllabic>
      <text>Deus</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>Deus</text>
-    </lyric>
+
    </note>
    <note default-x="341">
     <rest />
@@ -23098,10 +22739,7 @@
      <syllabic>begin</syllabic>
      <text>i</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>i</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="417" default-y="-39">
     <pitch>
@@ -23117,10 +22755,6 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>nos</text>
-    </lyric>
     <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>middle</syllabic>
      <text>nos</text>
@@ -23148,13 +22782,9 @@
      <syllabic>middle</syllabic>
      <text>cen</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>cen</text>
-    </lyric>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 36 ==============-->
+
   <measure number="36" width="559">
    <print new-page="yes">
     <system-layout>
@@ -23205,10 +22835,6 @@
      <syllabic>end</syllabic>
      <text>te</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>te</text>
-    </lyric>
    </note>
    <note color="#000000" default-x="184" default-y="-39">
     <pitch>
@@ -23225,10 +22851,6 @@
     <beam number="2">begin</beam>
     <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>begin</syllabic>
-     <text>mor</text>
-    </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
      <text>mor</text>
     </lyric>
    </note>
@@ -23251,11 +22873,7 @@
      <tied type="start" orientation="over" />
     </notations>
     <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>rer</text>
-    </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>end</syllabic>
      <text>rer</text>
     </lyric>
    </note>
@@ -23291,10 +22909,6 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
     <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>end</syllabic>
-     <text>em</text>
-    </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>em</text>
     </lyric>
@@ -23315,10 +22929,6 @@
      <syllabic>begin</syllabic>
      <text>nos</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>nos</text>
-    </lyric>
    </note>
    <note color="#000000" default-x="380" default-y="-30">
     <pitch>
@@ -23334,10 +22944,6 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>so</text>
-    </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
      <text>so</text>
     </lyric>
    </note>
@@ -23356,10 +22962,6 @@
      <syllabic>begin</syllabic>
      <text>lu</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>lu</text>
-    </lyric>
    </note>
    <note color="#000000" default-x="501" default-y="-35">
     <pitch>
@@ -23376,13 +22978,9 @@
      <syllabic>end</syllabic>
      <text>gar?</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>gar?</text>
-    </lyric>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 37 ==============-->
+
   <measure number="37" width="500">
    <note default-x="15">
     <rest />
@@ -23408,10 +23006,6 @@
      <syllabic>single</syllabic>
      <text>Por</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>Por</text>
-    </lyric>
    </note>
    <note color="#000000" default-x="110" default-y="-32">
     <pitch>
@@ -23428,10 +23022,6 @@
     <beam number="2">begin</beam>
     <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>begin</syllabic>
-     <text>que_a</text>
-    </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
      <text>que_a</text>
     </lyric>
    </note>
@@ -23452,10 +23042,6 @@
     <notations>
      <tied type="start" orientation="over" />
     </notations>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>in</text>
-    </lyric>
     <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>middle</syllabic>
      <text>in</text>
@@ -23494,10 +23080,6 @@
      <syllabic>end</syllabic>
      <text>da</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>da</text>
-    </lyric>
    </note>
    <note color="#000000" default-x="270" default-y="-32">
     <pitch>
@@ -23514,10 +23096,6 @@
     <beam number="1">end</beam>
     <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>begin</syllabic>
-     <text>pen</text>
-    </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
      <text>pen</text>
     </lyric>
    </note>
@@ -23538,10 +23116,6 @@
      <syllabic>end</syllabic>
      <text>sou</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>sou</text>
-    </lyric>
    </note>
    <note color="#000000" default-x="395" default-y="-35">
     <pitch>
@@ -23554,10 +23128,6 @@
     <type>eighth</type>
     <stem>down</stem>
     <staff>1</staff>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>em</text>
-    </lyric>
     <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>em</text>
@@ -23578,13 +23148,9 @@
      <syllabic>single</syllabic>
      <text>nós?</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>nós?</text>
-    </lyric>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 38 ==============-->
+
   <measure number="38" width="541">
    <print new-page="yes">
     <system-layout>
@@ -23624,10 +23190,6 @@
      <syllabic>begin</syllabic>
      <text>Tu</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>Tu</text>
-    </lyric>
    </note>
    <note color="#000000" default-x="177" default-y="-32">
     <pitch>
@@ -23643,11 +23205,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>do</text>
-    </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>emd</syllabic>
      <text>do</text>
     </lyric>
    </note>
@@ -23668,11 +23226,6 @@
     <notations>
      <tied type="start" orientation="over" />
     </notations>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>end</syllabic>
-     <text>o</text>
-     <extend />
-    </lyric>
     <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>o</text>
@@ -23712,10 +23265,6 @@
      <syllabic>single</syllabic>
      <text>que</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>que</text>
-    </lyric>
    </note>
    <note color="#000000" default-x="314" default-y="-32">
     <pitch>
@@ -23733,10 +23282,6 @@
      <syllabic>begin</syllabic>
      <text>fa</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>fa</text>
-    </lyric>
    </note>
    <note color="#000000" default-x="353" default-y="-25">
     <pitch>
@@ -23751,10 +23296,6 @@
     <dot />
     <stem>down</stem>
     <staff>1</staff>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>ze</text>
-    </lyric>
     <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>middle</syllabic>
      <text>ze</text>
@@ -23777,10 +23318,6 @@
      <syllabic>end</syllabic>
      <text>mos</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>mos</text>
-    </lyric>
    </note>
    <note color="#000000" default-x="464" default-y="-22">
     <pitch>
@@ -23799,10 +23336,6 @@
      <syllabic>single</syllabic>
      <text>é:</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>é:</text>
-    </lyric>
    </note>
    <note default-x="502">
     <rest />
@@ -23813,7 +23346,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 39 ==============-->
+
   <measure number="39" width="519">
    <note color="#000000" default-x="15" default-y="-32">
     <pitch>
@@ -23829,10 +23362,6 @@
     <beam number="1">begin</beam>
     <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>begin</syllabic>
-     <text>to</text>
-    </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
      <text>to</text>
     </lyric>
    </note>
@@ -23852,10 +23381,6 @@
      <syllabic>end</syllabic>
      <text>dos</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>dos</text>
-    </lyric>
    </note>
    <note color="#000000" default-x="92" default-y="-32">
     <pitch>
@@ -23870,10 +23395,6 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>os</text>
-    </lyric>
     <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>os</text>
@@ -23898,10 +23419,6 @@
     </notations>
     <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>begin</syllabic>
-     <text>di</text>
-    </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
      <text>di</text>
     </lyric>
    </note>
@@ -23938,10 +23455,6 @@
      <syllabic>end</syllabic>
      <text>as</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>as</text>
-    </lyric>
    </note>
    <note color="#000000" default-x="233" default-y="-32">
     <pitch>
@@ -23955,10 +23468,6 @@
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">end</beam>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>mais</text>
-    </lyric>
     <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>mais</text>
@@ -23980,10 +23489,6 @@
      <syllabic>begin</syllabic>
      <text>pe</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>pe</text>
-    </lyric>
    </note>
    <note color="#000000" default-x="321" default-y="-39">
     <pitch>
@@ -23999,10 +23504,6 @@
     <beam number="1">continue</beam>
     <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>dras</text>
-    </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
      <text>dras</text>
     </lyric>
    </note>
@@ -24023,10 +23524,6 @@
      <syllabic>begin</syllabic>
      <text>jo</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>jo</text>
-    </lyric>
    </note>
    <note color="#000000" default-x="398" default-y="-42">
     <pitch>
@@ -24045,10 +23542,6 @@
      <syllabic>end</syllabic>
      <text>gar</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>gar</text>
-    </lyric>
    </note>
    <note color="#000000" default-x="437" default-y="-42">
     <pitch>
@@ -24062,10 +23555,6 @@
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">continue</beam>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>na</text>
-    </lyric>
     <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>na</text>
@@ -24088,13 +23577,9 @@
      <syllabic>single</syllabic>
      <text>cruz</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>cruz</text>
-    </lyric>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 40 ==============-->
+
   <measure number="40" width="502">
    <print new-page="yes">
     <system-layout>
@@ -24135,10 +23620,6 @@
      <syllabic>begin</syllabic>
      <text>cra</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>cra</text>
-    </lyric>
    </note>
    <note color="#000000" default-x="164" default-y="-39">
     <pitch>
@@ -24155,10 +23636,6 @@
     <beam number="1">end</beam>
     <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>var</text>
-    </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
      <text>var</text>
     </lyric>
    </note>
@@ -24179,10 +23656,6 @@
      <syllabic>begin</syllabic>
      <text>ain</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>ain</text>
-    </lyric>
    </note>
    <note color="#000000" default-x="242" default-y="-42">
     <pitch>
@@ -24201,10 +23674,6 @@
      <syllabic>end</syllabic>
      <text>da</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>da</text>
-    </lyric>
    </note>
    <note color="#000000" default-x="287" default-y="-42">
     <pitch>
@@ -24218,10 +23687,6 @@
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">end</beam>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>mais</text>
-    </lyric>
     <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>mais</text>
@@ -24242,10 +23707,6 @@
      <syllabic>begin</syllabic>
      <text>fun</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>fun</text>
-    </lyric>
    </note>
    <note color="#000000" default-x="385" default-y="-40">
     <pitch>
@@ -24261,10 +23722,6 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>do_a</text>
-    </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
      <text>do_a</text>
     </lyric>
    </note>
@@ -24285,10 +23742,6 @@
      <syllabic>begin</syllabic>
      <text>Su</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>Su</text>
-    </lyric>
    </note>
    <note color="#000000" default-x="456" default-y="-34">
     <pitch>
@@ -24306,10 +23759,6 @@
      <syllabic>end</syllabic>
      <text>a</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>a</text>
-    </lyric>
    </note>
    <note default-x="479">
     <rest />
@@ -24320,7 +23769,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 41 ==============-->
+
   <measure number="41" width="253">
    <note color="#000000" default-x="15" default-y="-25">
     <pitch>
@@ -24335,11 +23784,6 @@
     <dot />
     <stem>down</stem>
     <staff>1</staff>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>dor</text>
-     <extend />
-    </lyric>
     <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>dor</text>
@@ -24434,7 +23878,7 @@
     <beam number="1">end</beam>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 42 ==============-->
+
   <measure number="42" width="304">
    <note color="#000000" default-x="15" default-y="-20">
     <pitch>
@@ -24486,26 +23930,17 @@
      <syllabic>single</syllabic>
      <text>quem</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>quem</text>
-    </lyric>
+
     <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>de</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>de</text>
-    </lyric>
+
     <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>single</syllabic>
      <text>nós</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>nós</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="246" default-y="-22">
     <pitch>
@@ -24524,10 +23959,7 @@
      <syllabic>begin</syllabic>
      <text>es</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>es</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="279" default-y="-22">
     <pitch>
@@ -24546,13 +23978,10 @@
      <syllabic>middle</syllabic>
      <text>pe</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
-     <text>pe</text>
-    </lyric>
+
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 43 ==============-->
+
   <measure number="43" width="302">
    <print new-page="yes">
     <system-layout>
@@ -24586,11 +24015,7 @@
      <text>rou?</text>
      <extend />
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>rou?</text>
-     <extend />
-    </lyric>
+
    </note>
    <note color="#000000" default-x="126" default-y="-32">
     <pitch>
@@ -24656,7 +24081,7 @@
     </notations>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 44 ==============-->
+
   <measure number="44" width="300">
    <note color="#000000" default-x="15" default-y="-35">
     <pitch>
@@ -24674,10 +24099,7 @@
      <syllabic>single</syllabic>
      <text>oh</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>oh</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="64" default-y="-40">
     <pitch>
@@ -24695,10 +24117,7 @@
      <syllabic>single</syllabic>
      <text>oh</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>oh</text>
-    </lyric>
+
    </note>
    <note default-x="100">
     <rest />
@@ -24724,10 +24143,7 @@
      <syllabic>single</syllabic>
      <text>oh</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>oh</text>
-    </lyric>
+
    </note>
    <note color="#000000" default-x="220" default-y="-40">
     <pitch>
@@ -24746,13 +24162,10 @@
      <syllabic>single</syllabic>
      <text>oh</text>
     </lyric>
-    <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
-     <text>oh</text>
-    </lyric>
+
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 45 ==============-->
+
   <measure number="45" width="230">
    <note default-x="15">
     <rest />
@@ -24763,7 +24176,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 46 ==============-->
+
   <measure number="46" width="226">
    <note default-x="15">
     <rest />
@@ -24774,7 +24187,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 47 ==============-->
+
   <measure number="47" width="388">
    <print new-page="yes">
     <system-layout>
@@ -24799,7 +24212,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 48 ==============-->
+
   <measure number="48" width="216">
    <note default-x="15">
     <rest />
@@ -24810,7 +24223,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 49 ==============-->
+
   <measure number="49" width="455">
    <note default-x="15">
     <rest />
@@ -24938,7 +24351,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 50 ==============-->
+
   <measure number="50" width="493">
    <print new-page="yes">
     <system-layout>
@@ -25069,12 +24482,12 @@
      <tied type="start" orientation="over" />
     </notations>
     <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>begin</syllabic>
      <text>mor</text>
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 51 ==============-->
+
   <measure number="51" width="567">
    <note color="#000000" default-x="15" default-y="-19">
     <pitch>
@@ -25336,7 +24749,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 52 ==============-->
+
   <measure number="52" width="350">
    <print new-page="yes">
     <system-layout>
@@ -25400,7 +24813,7 @@
     <stem>down</stem>
     <staff>1</staff>
     <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>tei</text>
     </lyric>
    </note>
@@ -25417,7 +24830,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>ro_Eu</text>
+     <text>ro,_Eu</text>
     </lyric>
    </note>
    <note default-x="318">
@@ -25429,7 +24842,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 53 ==============-->
+
   <measure number="53" width="341">
    <note default-x="15">
     <rest />
@@ -25494,7 +24907,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 54 ==============-->
+
   <measure number="54" width="369">
    <note color="#000000" default-x="15" default-y="-40">
     <pitch>
@@ -25528,7 +24941,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part6verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>ce_Eu</text>
+     <text>ce,_Eu</text>
     </lyric>
    </note>
    <note color="#000000" default-x="176" default-y="-30">
@@ -25615,7 +25028,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 55 ==============-->
+
   <measure number="55" width="599">
    <print new-page="yes">
     <system-layout>
@@ -25679,7 +25092,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>ca</text>
     </lyric>
    </note>
@@ -25701,7 +25114,7 @@
      <tied type="start" orientation="over" />
     </notations>
     <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>mi</text>
     </lyric>
    </note>
@@ -25928,7 +25341,7 @@
     <beam number="2">end</beam>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 56 ==============-->
+
   <measure number="56" width="234">
    <note color="#000000" default-x="15" default-y="-35">
     <pitch>
@@ -25966,7 +25379,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 57 ==============-->
+
   <measure number="57" width="226">
    <note default-x="15">
     <rest />
@@ -25977,7 +25390,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 58 ==============-->
+
   <measure number="58" width="337">
    <print new-page="yes">
     <system-layout>
@@ -26079,7 +25492,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 59 ==============-->
+
   <measure number="59" width="461">
    <note color="#000000" default-x="15" default-y="-42">
     <pitch>
@@ -26132,7 +25545,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>ca</text>
     </lyric>
    </note>
@@ -26155,7 +25568,7 @@
      <tied type="start" orientation="over" />
     </notations>
     <lyric default-y="-80" number="part6verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>mi</text>
     </lyric>
    </note>
@@ -26367,7 +25780,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 60 ==============-->
+
   <measure number="60" width="148">
    <note color="#000000" default-x="15" default-y="10">
     <pitch>
@@ -26405,7 +25818,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P6, Measure: 61 ==============-->
+
   <measure number="61" width="113">
    <note>
     <rest />
@@ -26421,7 +25834,7 @@
   </measure>
  </part>
  <part id="P7">
-  <!--============== Part: P7, Measure: 1 ==============-->
+
   <measure number="1" width="261">
    <print new-page="yes">
     <system-layout>
@@ -26470,7 +25883,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 2 ==============-->
+
   <measure number="2" width="137">
    <note>
     <rest />
@@ -26481,7 +25894,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 3 ==============-->
+
   <measure number="3" width="137">
    <note>
     <rest />
@@ -26492,7 +25905,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 4 ==============-->
+
   <measure number="4" width="137">
    <note>
     <rest />
@@ -26503,7 +25916,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 5 ==============-->
+
   <measure number="5" width="330">
    <note default-x="15">
     <rest />
@@ -26514,7 +25927,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 6 ==============-->
+
   <measure number="6" width="550">
    <print new-page="yes">
     <system-layout>
@@ -26539,7 +25952,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 7 ==============-->
+
   <measure number="7" width="510">
    <note default-x="15">
     <rest />
@@ -26550,7 +25963,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 8 ==============-->
+
   <measure number="8" width="548">
    <print new-page="yes">
     <system-layout>
@@ -26575,7 +25988,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 9 ==============-->
+
   <measure number="9" width="511">
    <note default-x="15">
     <rest />
@@ -26586,7 +25999,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 10 ==============-->
+
   <measure number="10" width="573">
    <print new-page="yes">
     <system-layout>
@@ -26611,7 +26024,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 11 ==============-->
+
   <measure number="11" width="486">
    <note default-x="15">
     <rest />
@@ -26622,7 +26035,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 12 ==============-->
+
   <measure number="12" width="431">
    <print new-page="yes">
     <system-layout>
@@ -26647,7 +26060,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 13 ==============-->
+
   <measure number="13" width="211">
    <note default-x="15">
     <rest />
@@ -26658,7 +26071,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 14 ==============-->
+
   <measure number="14" width="212">
    <note default-x="15">
     <rest />
@@ -26669,7 +26082,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 15 ==============-->
+
   <measure number="15" width="204">
    <note default-x="15">
     <rest />
@@ -26680,7 +26093,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 16 ==============-->
+
   <measure number="16" width="235">
    <print new-page="yes">
     <system-layout>
@@ -26705,7 +26118,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 17 ==============-->
+
   <measure number="17" width="506">
    <note default-x="15">
     <rest />
@@ -26716,7 +26129,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 18 ==============-->
+
   <measure number="18" width="318">
    <note default-x="15">
     <rest />
@@ -26727,7 +26140,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 19 ==============-->
+
   <measure number="19" width="562">
    <print new-page="yes">
     <system-layout>
@@ -26752,7 +26165,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 20 ==============-->
+
   <measure number="20" width="249">
    <note default-x="15">
     <rest />
@@ -26763,7 +26176,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 21 ==============-->
+
   <measure number="21" width="249">
    <note default-x="15">
     <rest />
@@ -26774,7 +26187,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 22 ==============-->
+
   <measure number="22" width="303">
    <print new-page="yes">
     <system-layout>
@@ -26799,7 +26212,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 23 ==============-->
+
   <measure number="23" width="205">
    <note default-x="15">
     <rest />
@@ -26810,7 +26223,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 24 ==============-->
+
   <measure number="24" width="235">
    <note default-x="15">
     <rest />
@@ -26821,7 +26234,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 25 ==============-->
+
   <measure number="25" width="316">
    <note default-x="15">
     <rest />
@@ -26832,7 +26245,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 26 ==============-->
+
   <measure number="26" width="431">
    <print new-page="yes">
     <system-layout>
@@ -26857,7 +26270,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 27 ==============-->
+
   <measure number="27" width="427">
    <note default-x="15">
     <rest />
@@ -26868,7 +26281,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 28 ==============-->
+
   <measure number="28" width="201">
    <note default-x="15">
     <rest />
@@ -26879,7 +26292,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 29 ==============-->
+
   <measure number="29" width="583">
    <print new-page="yes">
     <system-layout>
@@ -26904,7 +26317,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 30 ==============-->
+
   <measure number="30" width="477">
    <note default-x="15">
     <rest />
@@ -26915,7 +26328,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 31 ==============-->
+
   <measure number="31" width="551">
    <print new-page="yes">
     <system-layout>
@@ -26940,7 +26353,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 32 ==============-->
+
   <measure number="32" width="209">
    <note default-x="15">
     <rest />
@@ -26951,7 +26364,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 33 ==============-->
+
   <measure number="33" width="300">
    <note default-x="15">
     <rest />
@@ -27093,7 +26506,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 34 ==============-->
+
   <measure number="34" width="569">
    <print new-page="yes">
     <system-layout>
@@ -27318,7 +26731,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 35 ==============-->
+
   <measure number="35" width="490">
    <note color="#000000" default-x="15" default-y="-39">
     <pitch>
@@ -27534,7 +26947,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 36 ==============-->
+
   <measure number="36" width="559">
    <print new-page="yes">
     <system-layout>
@@ -27623,7 +27036,7 @@
      <tied type="start" orientation="over" />
     </notations>
     <lyric default-y="-80" number="part7verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>end</syllabic>
      <text>rer</text>
     </lyric>
    </note>
@@ -27659,7 +27072,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
     <lyric default-y="-80" number="part7verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>single</syllabic>
      <text>em</text>
     </lyric>
    </note>
@@ -27730,7 +27143,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 37 ==============-->
+
   <measure number="37" width="500">
    <note default-x="15">
     <rest />
@@ -27905,7 +27318,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 38 ==============-->
+
   <measure number="38" width="541">
    <print new-page="yes">
     <system-layout>
@@ -27962,7 +27375,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-80" number="part7verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>emd</syllabic>
      <text>do</text>
     </lyric>
    </note>
@@ -27985,7 +27398,7 @@
      <tied type="start" orientation="over" />
     </notations>
     <lyric default-y="-80" number="part7verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>single</syllabic>
      <text>o</text>
      <extend />
     </lyric>
@@ -28104,7 +27517,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 39 ==============-->
+
   <measure number="39" width="519">
    <note color="#000000" default-x="15" default-y="-52">
     <pitch>
@@ -28340,7 +27753,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 40 ==============-->
+
   <measure number="40" width="502">
    <print new-page="yes">
     <system-layout>
@@ -28530,7 +27943,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 41 ==============-->
+
   <measure number="41" width="253">
    <note color="#000000" default-x="15" default-y="-35">
     <pitch>
@@ -28641,7 +28054,7 @@
     <beam number="1">end</beam>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 42 ==============-->
+
   <measure number="42" width="304">
    <note color="#000000" default-x="15" default-y="-30">
     <pitch>
@@ -28739,7 +28152,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 43 ==============-->
+
   <measure number="43" width="302">
    <print new-page="yes">
     <system-layout>
@@ -28835,7 +28248,7 @@
     </notations>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 44 ==============-->
+
   <measure number="44" width="300">
    <note color="#000000" default-x="15" default-y="-35">
     <pitch>
@@ -28915,7 +28328,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 45 ==============-->
+
   <measure number="45" width="230">
    <note default-x="15">
     <rest />
@@ -28926,7 +28339,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 46 ==============-->
+
   <measure number="46" width="226">
    <note default-x="15">
     <rest />
@@ -28937,7 +28350,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 47 ==============-->
+
   <measure number="47" width="388">
    <print new-page="yes">
     <system-layout>
@@ -28962,7 +28375,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 48 ==============-->
+
   <measure number="48" width="216">
    <note default-x="15">
     <rest />
@@ -28973,7 +28386,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 49 ==============-->
+
   <measure number="49" width="455">
    <note default-x="15">
     <rest />
@@ -29101,7 +28514,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 50 ==============-->
+
   <measure number="50" width="493">
    <print new-page="yes">
     <system-layout>
@@ -29232,12 +28645,12 @@
      <tied type="start" orientation="over" />
     </notations>
     <lyric default-y="-80" number="part7verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>begin</syllabic>
      <text>mor</text>
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 51 ==============-->
+
   <measure number="51" width="567">
    <note color="#000000" default-x="15" default-y="-19">
     <pitch>
@@ -29499,7 +28912,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 52 ==============-->
+
   <measure number="52" width="350">
    <print new-page="yes">
     <system-layout>
@@ -29563,7 +28976,7 @@
     <stem>down</stem>
     <staff>1</staff>
     <lyric default-y="-80" number="part7verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>tei</text>
     </lyric>
    </note>
@@ -29580,7 +28993,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part7verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>ro_Eu</text>
+     <text>ro,_Eu</text>
     </lyric>
    </note>
    <note default-x="318">
@@ -29592,7 +29005,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 53 ==============-->
+
   <measure number="53" width="341">
    <note default-x="15">
     <rest />
@@ -29657,7 +29070,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 54 ==============-->
+
   <measure number="54" width="369">
    <note color="#000000" default-x="15" default-y="-50">
     <pitch>
@@ -29691,7 +29104,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part7verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>ce_Eu</text>
+     <text>ce,_Eu</text>
     </lyric>
    </note>
    <note color="#000000" default-x="176" default-y="-40">
@@ -29779,7 +29192,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 55 ==============-->
+
   <measure number="55" width="599">
    <print new-page="yes">
     <system-layout>
@@ -29843,7 +29256,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-80" number="part7verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>ca</text>
     </lyric>
    </note>
@@ -29865,7 +29278,7 @@
      <tied type="start" orientation="over" />
     </notations>
     <lyric default-y="-80" number="part7verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>mi</text>
     </lyric>
    </note>
@@ -30092,7 +29505,7 @@
     <beam number="2">end</beam>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 56 ==============-->
+
   <measure number="56" width="234">
    <note color="#000000" default-x="15" default-y="-35">
     <pitch>
@@ -30130,7 +29543,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 57 ==============-->
+
   <measure number="57" width="226">
    <note default-x="15">
     <rest />
@@ -30141,7 +29554,7 @@
     <staff>1</staff>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 58 ==============-->
+
   <measure number="58" width="337">
    <print new-page="yes">
     <system-layout>
@@ -30243,7 +29656,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 59 ==============-->
+
   <measure number="59" width="461">
    <note color="#000000" default-x="15" default-y="-42">
     <pitch>
@@ -30296,7 +29709,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-80" number="part7verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>ca</text>
     </lyric>
    </note>
@@ -30319,7 +29732,7 @@
      <tied type="start" orientation="over" />
     </notations>
     <lyric default-y="-80" number="part7verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>mi</text>
     </lyric>
    </note>
@@ -30531,7 +29944,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 60 ==============-->
+
   <measure number="60" width="148">
    <note color="#000000" default-x="15" default-y="10">
     <pitch>
@@ -30569,7 +29982,7 @@
     </lyric>
    </note>
   </measure>
-  <!--============== Part: P7, Measure: 61 ==============-->
+
   <measure number="61" width="113">
    <note>
     <rest />
