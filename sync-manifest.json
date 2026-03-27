@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T08:04:19Z",
+  "lastUpdated": "2026-03-27T08:04:40Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -38,8 +38,8 @@
     "unknown_usa-me,_renova-me_com_tal_qual_estou": {
       "author": "unknown",
       "xml": {
-        "size": 307291,
-        "hash": "debc63ebe70ee21c1c64ddf0fcc3a4a04ac10aa5fe81c90416d40241c7a380f3"
+        "size": 307334,
+        "hash": "88f19239fec49352b9786ebb7e27ae3be25319a82af4e09a053056cd013bf215"
       },
       "audio": {
         "size": 1583921,
@@ -48,8 +48,8 @@
       },
       "musicName": "Usa-me, Renova-me com Tal Qual Estou",
       "properties": {
-        "realDurationMin": "2.96",
-        "offsetSeconds": "-0.2"
+        "realDurationMin": "2.9600",
+        "offsetSeconds": "-0.20"
       }
     },
     "coral_do_unasp_vinde_benditos": {
@@ -123,8 +123,8 @@
     "nova_voz_digno_e_o_senhor": {
       "author": "Nova Voz",
       "xml": {
-        "size": 853517,
-        "hash": "9fe84f42c50670a7b35e1b4914dd470bba93399c0bb594292650e13c0648ac96"
+        "size": 853555,
+        "hash": "07d450c19ada75f4b8b4415b171e0cc577284c514f60149eb42b39e4ff3aca28"
       },
       "audio": {
         "size": 2652757,
