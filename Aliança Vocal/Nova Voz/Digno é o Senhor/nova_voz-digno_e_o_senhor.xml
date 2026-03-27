@@ -2986,7 +2986,7 @@
     </notations>
     <lyric default-y="-80" number="part1verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -3128,7 +3128,7 @@
     </notations>
     <lyric default-y="-80" number="part1verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -4243,7 +4243,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-87" number="part1verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>mos</text>
      <extend />
     </lyric>
@@ -4282,7 +4282,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-87" number="part1verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>end</syllabic>
      <text>trou,</text>
      <extend />
     </lyric>
@@ -5300,7 +5300,7 @@
     <beam number="1">begin</beam>
     <lyric default-y="-80" number="part1verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor.</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -5476,7 +5476,7 @@
     </notations>
     <lyric default-y="-80" number="part1verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor.</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -5694,7 +5694,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part1verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor.</text>
+     <text>nhor!</text>
     </lyric>
    </note>
   </measure>
@@ -5895,7 +5895,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part1verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor.</text>
+     <text>nhor!</text>
     </lyric>
    </note>
   </measure>
@@ -6160,7 +6160,7 @@
     <stem>down</stem>
     <staff>1</staff>
     <lyric default-y="-80" number="part1verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>middle</syllabic>
      <text>tá</text>
     </lyric>
    </note>
@@ -6176,7 +6176,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-80" number="part1verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>do_es</text>
     </lyric>
    </note>
@@ -6888,7 +6888,7 @@
     </notations>
     <lyric default-y="-80" number="part1verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor.</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -7042,7 +7042,7 @@
     </notations>
     <lyric default-y="-80" number="part1verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor.</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -7882,7 +7882,7 @@
     </notations>
     <lyric default-y="-80" number="part2verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor.</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -10002,7 +10002,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-80" number="part2verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>mos</text>
      <extend />
     </lyric>
@@ -10041,7 +10041,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-80" number="part2verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>end</syllabic>
      <text>trou,</text>
      <extend />
     </lyric>
@@ -10363,7 +10363,7 @@
     </notations>
     <lyric default-y="-80" number="part2verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor.</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -11648,7 +11648,7 @@
     </notations>
     <lyric default-y="-80" number="part2verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -11796,7 +11796,7 @@
     </notations>
     <lyric default-y="-80" number="part2verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -11962,7 +11962,7 @@
     </notations>
     <lyric default-y="-80" number="part2verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -12116,7 +12116,7 @@
     </notations>
     <lyric default-y="-80" number="part2verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -12296,7 +12296,7 @@
     </notations>
     <lyric default-y="-81" number="part2verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor.</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -14357,7 +14357,7 @@
     </notations>
     <lyric default-y="-82" number="part3verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor.</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -16497,7 +16497,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-80" number="part3verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>mos</text>
      <extend />
     </lyric>
@@ -16536,7 +16536,7 @@
      <tied type="start" orientation="under" />
     </notations>
     <lyric default-y="-80" number="part3verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>end</syllabic>
      <text>trou,</text>
      <extend />
     </lyric>
@@ -16855,7 +16855,7 @@
     </notations>
     <lyric default-y="-81" number="part3verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor.</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -18143,7 +18143,7 @@
     </notations>
     <lyric default-y="-80" number="part3verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -18291,7 +18291,7 @@
     </notations>
     <lyric default-y="-80" number="part3verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -18457,7 +18457,7 @@
     </notations>
     <lyric default-y="-80" number="part3verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -18609,7 +18609,7 @@
     </notations>
     <lyric default-y="-80" number="part3verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -18788,7 +18788,7 @@
     </notations>
     <lyric default-y="-91" number="part3verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor.</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -20838,7 +20838,7 @@
     </notations>
     <lyric default-y="-80" number="part4verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor.</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -22964,7 +22964,7 @@
      <tied type="start" orientation="over" />
     </notations>
     <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>mos</text>
      <extend />
     </lyric>
@@ -23004,7 +23004,7 @@
      <tied type="start" orientation="over" />
     </notations>
     <lyric default-y="-80" number="part4verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>end</syllabic>
      <text>trou,</text>
      <extend />
     </lyric>
@@ -23336,7 +23336,7 @@
     </notations>
     <lyric default-y="-80" number="part4verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor.</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -24647,7 +24647,7 @@
     </notations>
     <lyric default-y="-80" number="part4verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -24797,7 +24797,7 @@
     </notations>
     <lyric default-y="-80" number="part4verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -24972,7 +24972,7 @@
     </notations>
     <lyric default-y="-80" number="part4verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -25129,7 +25129,7 @@
     </notations>
     <lyric default-y="-80" number="part4verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -25319,7 +25319,7 @@
     </notations>
     <lyric default-y="-80" number="part4verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor.</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -27392,7 +27392,7 @@
     </notations>
     <lyric default-y="-80" number="part5verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor.</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -29517,7 +29517,7 @@
      <tied type="start" orientation="over" />
     </notations>
     <lyric default-y="-80" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>mos</text>
      <extend />
     </lyric>
@@ -29557,7 +29557,7 @@
      <tied type="start" orientation="over" />
     </notations>
     <lyric default-y="-80" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>end</syllabic>
      <text>trou,</text>
      <extend />
     </lyric>
@@ -29878,7 +29878,7 @@
     </notations>
     <lyric default-y="-80" number="part5verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor.</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -31184,7 +31184,7 @@
     </notations>
     <lyric default-y="-80" number="part5verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -31334,7 +31334,7 @@
     </notations>
     <lyric default-y="-80" number="part5verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -31509,7 +31509,7 @@
     </notations>
     <lyric default-y="-80" number="part5verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -31667,7 +31667,7 @@
     </notations>
     <lyric default-y="-80" number="part5verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
@@ -31846,7 +31846,7 @@
     </notations>
     <lyric default-y="-80" number="part5verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nhor.</text>
+     <text>nhor!</text>
      <extend />
     </lyric>
    </note>
