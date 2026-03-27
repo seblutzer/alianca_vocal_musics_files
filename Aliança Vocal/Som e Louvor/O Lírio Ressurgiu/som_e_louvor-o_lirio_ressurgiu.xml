@@ -911,7 +911,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part1verse1">
      <syllabic>end</syllabic>
-     <text>çou</text>
+     <text>sou</text>
     </lyric>
    </note>
   </measure>
@@ -1123,7 +1123,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part1verse1">
      <syllabic>end</syllabic>
-     <text>çou</text>
+     <text>sou</text>
     </lyric>
    </note>
   </measure>
@@ -3547,7 +3547,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part1verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
@@ -3997,7 +3997,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part1verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
@@ -4185,7 +4185,7 @@
      <tied orientation="under" type="start"/>
     </notations>
     <lyric color="#000000" default-y="-80" number="part1verse1">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>res</text>
      <extend/>
     </lyric>
@@ -4219,7 +4219,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
     <lyric color="#000000" default-y="-80" number="part1verse1">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>sur</text>
     </lyric>
    </note>
@@ -5419,7 +5419,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part1verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
@@ -6101,7 +6101,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part1verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
@@ -7054,7 +7054,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-81" number="part2verse1">
      <syllabic>end</syllabic>
-     <text>çou</text>
+     <text>sou</text>
     </lyric>
    </note>
   </measure>
@@ -7269,7 +7269,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-82" number="part2verse1">
      <syllabic>end</syllabic>
-     <text>çou</text>
+     <text>sou</text>
     </lyric>
    </note>
   </measure>
@@ -9713,7 +9713,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part2verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
@@ -10174,7 +10174,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part2verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
@@ -10364,7 +10364,7 @@
      <tied orientation="under" type="start"/>
     </notations>
     <lyric color="#000000" default-y="-80" number="part2verse1">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>res</text>
      <extend/>
     </lyric>
@@ -10398,7 +10398,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
     <lyric color="#000000" default-y="-80" number="part2verse1">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>sur</text>
     </lyric>
    </note>
@@ -11609,7 +11609,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part2verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
@@ -12298,7 +12298,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part2verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
@@ -13253,7 +13253,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-87" number="part3verse1">
      <syllabic>end</syllabic>
-     <text>çou</text>
+     <text>sou</text>
     </lyric>
    </note>
   </measure>
@@ -13468,7 +13468,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-92" number="part3verse1">
      <syllabic>end</syllabic>
-     <text>çou</text>
+     <text>sou</text>
     </lyric>
    </note>
   </measure>
@@ -15919,7 +15919,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-81" number="part3verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
@@ -16381,7 +16381,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-81" number="part3verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
@@ -16571,7 +16571,7 @@
      <tied orientation="under" type="start"/>
     </notations>
     <lyric color="#000000" default-y="-80" number="part3verse1">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>res</text>
      <extend/>
     </lyric>
@@ -16605,7 +16605,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
     <lyric color="#000000" default-y="-80" number="part3verse1">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>sur</text>
     </lyric>
    </note>
@@ -17820,7 +17820,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-81" number="part3verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
@@ -18515,7 +18515,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-81" number="part3verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
@@ -20069,7 +20069,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
     <lyric color="#000000" default-y="-80" number="part4verse1">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>e</text>
     </lyric>
    </note>
@@ -20086,7 +20086,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
     <lyric color="#000000" default-y="-80" number="part4verse1">
-     <syllabic>single</syllabic>
+     <syllabic>end</syllabic>
      <text>ra_o</text>
     </lyric>
    </note>
@@ -21790,7 +21790,7 @@
      <tied orientation="over" type="start"/>
     </notations>
     <lyric color="#000000" default-y="-80" number="part4verse1">
-     <syllabic>end</syllabic>
+     <syllabic>middle</syllabic>
      <text>ca</text>
      <extend/>
     </lyric>
@@ -21848,7 +21848,7 @@
      <tied orientation="over" type="start"/>
     </notations>
     <lyric color="#000000" default-y="-80" number="part4verse1">
-     <syllabic>single</syllabic>
+     <syllabic>end</syllabic>
      <text>vam,</text>
      <extend/>
     </lyric>
@@ -24635,7 +24635,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part4verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
@@ -25340,7 +25340,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part4verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
@@ -26452,7 +26452,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part4verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
@@ -27131,7 +27131,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part4verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
@@ -28650,7 +28650,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
     <lyric color="#000000" default-y="-80" number="part5verse1">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>e</text>
     </lyric>
    </note>
@@ -28667,7 +28667,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
     <lyric color="#000000" default-y="-80" number="part5verse1">
-     <syllabic>single</syllabic>
+     <syllabic>end</syllabic>
      <text>ra_o</text>
     </lyric>
    </note>
@@ -30370,7 +30370,7 @@
      <tied orientation="over" type="start"/>
     </notations>
     <lyric color="#000000" default-y="-80" number="part5verse1">
-     <syllabic>end</syllabic>
+     <syllabic>middle</syllabic>
      <text>ca</text>
      <extend/>
     </lyric>
@@ -30428,7 +30428,7 @@
      <tied orientation="over" type="start"/>
     </notations>
     <lyric color="#000000" default-y="-80" number="part5verse1">
-     <syllabic>single</syllabic>
+     <syllabic>end</syllabic>
      <text>vam,</text>
      <extend/>
     </lyric>
@@ -33220,7 +33220,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part5verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
@@ -33923,7 +33923,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part5verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
@@ -35034,7 +35034,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part5verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
@@ -35711,7 +35711,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part5verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
@@ -37235,7 +37235,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
     <lyric color="#000000" default-y="-80" number="part6verse1">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>e</text>
     </lyric>
    </note>
@@ -37252,7 +37252,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
     <lyric color="#000000" default-y="-80" number="part6verse1">
-     <syllabic>single</syllabic>
+     <syllabic>end</syllabic>
      <text>ra_o</text>
     </lyric>
    </note>
@@ -37464,7 +37464,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part6verse1">
      <syllabic>end</syllabic>
-     <text>çou</text>
+     <text>sou</text>
     </lyric>
    </note>
   </measure>
@@ -37677,7 +37677,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part6verse1">
      <syllabic>end</syllabic>
-     <text>çou</text>
+     <text>sou</text>
     </lyric>
    </note>
   </measure>
@@ -38303,7 +38303,7 @@
      <tied orientation="over" type="start"/>
     </notations>
     <lyric color="#000000" default-y="-80" number="part6verse1">
-     <syllabic>end</syllabic>
+     <syllabic>middle</syllabic>
      <text>ca</text>
      <extend/>
     </lyric>
@@ -38361,7 +38361,7 @@
      <tied orientation="over" type="start"/>
     </notations>
     <lyric color="#000000" default-y="-80" number="part6verse1">
-     <syllabic>single</syllabic>
+     <syllabic>end</syllabic>
      <text>vam,</text>
      <extend/>
     </lyric>
@@ -41154,7 +41154,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part6verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
@@ -41855,7 +41855,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part6verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
@@ -42969,7 +42969,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part6verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
@@ -43644,7 +43644,7 @@
     <staff>1</staff>
     <lyric color="#000000" default-y="-80" number="part6verse1">
      <syllabic>end</syllabic>
-     <text>Te</text>
+     <text>-Te</text>
     </lyric>
    </note>
   </measure>
