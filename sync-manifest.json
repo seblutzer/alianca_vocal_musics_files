@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-28T09:49:00Z",
+  "lastUpdated": "2026-03-28T09:50:55Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -140,8 +140,8 @@
     "adoradores_4_levanto_a_cruz": {
       "author": "Adoradores 4",
       "xml": {
-        "size": 750996,
-        "hash": "fda7c47be3e3973198cf888b0e68fa3754db9ee2fa96d356b2863cc2ff05ac45"
+        "size": 751196,
+        "hash": "74bd2efe7a92aa1513fe04347979343e72f834befbb1c11ddf96198952c223c6"
       },
       "audio": {
         "size": 2748926,
@@ -150,7 +150,7 @@
       },
       "musicName": "Levanto a Cruz",
       "properties": {
-        "realDurationMin": "5.0631",
+        "realDurationMin": "5.0646",
         "offsetSeconds": "1.30"
       }
     }
