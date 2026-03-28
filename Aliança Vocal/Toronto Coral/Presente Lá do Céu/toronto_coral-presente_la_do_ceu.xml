@@ -15476,7 +15476,7 @@
     <stem>down</stem>
     <staff>1</staff>
     <lyric default-y="-80" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>Cris</text>
     </lyric>
    </note>
@@ -15496,7 +15496,7 @@
     <stem>down</stem>
     <staff>1</staff>
     <lyric default-y="-80" number="part5verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>end</syllabic>
      <text>to</text>
     </lyric>
    </note>
