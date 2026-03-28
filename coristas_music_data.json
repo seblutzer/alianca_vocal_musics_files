@@ -13,7 +13,7 @@
         "range_min" : "G2",
         "range_max" : "C4",
         "voz_calculada" : "Baixo",
-        "voz_atribuida" : "Baixo",
+        "voz_atribuida" : "Tenor",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Tenor", "Barítono", "Baixo" ]
       },
@@ -37,7 +37,7 @@
         "range_min" : "F3",
         "range_max" : "F#4",
         "voz_calculada" : "Tenor",
-        "voz_atribuida" : "Tenor",
+        "voz_atribuida" : "Contralto",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Contralto", "Tenor", "Barítono" ]
       },
@@ -53,7 +53,7 @@
         "range_min" : "C3",
         "range_max" : "G4",
         "voz_calculada" : "Tenor",
-        "voz_atribuida" : "Baixo",
+        "voz_atribuida" : "Tenor",
         "vozes_recomendadas" : [ "Tenor" ],
         "vozes_possiveis" : [ "Barítono" ]
       },
@@ -69,7 +69,7 @@
         "range_min" : "E2",
         "range_max" : "A#4",
         "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Tenor",
+        "voz_atribuida" : "Baixo",
         "vozes_recomendadas" : [ "Barítono", "Tenor", "Baixo" ],
         "vozes_possiveis" : [ "Contralto" ]
       },
@@ -244,7 +244,7 @@
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
         "Baixo" : [ "Willian Modro" ]
       },
-      "timestamp" : "2026-03-28 08:51:15"
+      "timestamp" : "2026-03-28 09:00:38"
     },
     "Prisma Brasil - Agradece ao Pai" : {
       "root" : "B",
