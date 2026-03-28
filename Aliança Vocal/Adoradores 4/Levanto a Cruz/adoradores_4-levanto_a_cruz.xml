@@ -6974,6 +6974,14 @@
    <attributes>
     <staff-details number="1" print-object="yes"/>
    </attributes>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>64.2</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note default-x="42">
     <rest/>
     <duration>1024</duration>
@@ -6989,7 +6997,7 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>62.7</per-minute>
+      <per-minute>66.5</per-minute>
      </metronome>
     </direction-type>
    </direction>
