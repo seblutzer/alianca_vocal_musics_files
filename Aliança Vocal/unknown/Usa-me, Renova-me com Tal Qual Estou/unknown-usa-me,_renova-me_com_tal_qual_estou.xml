@@ -1713,7 +1713,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part1verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nho</text>
+     <text>nhos</text>
     </lyric>
    </note>
   </measure>
@@ -1830,7 +1830,7 @@
     <staff>1</staff>
     <lyric default-y="-81" number="part1verse1" color="#000000">
      <syllabic>single</syllabic>
-     <text>meu</text>
+     <text>meus</text>
      <extend />
     </lyric>
    </note>
@@ -4713,7 +4713,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part2verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nho</text>
+     <text>nhos</text>
     </lyric>
    </note>
   </measure>
@@ -4832,7 +4832,7 @@
     <staff>1</staff>
     <lyric default-y="-82" number="part2verse1" color="#000000">
      <syllabic>single</syllabic>
-     <text>meu</text>
+     <text>meus</text>
      <extend />
     </lyric>
    </note>
@@ -7569,7 +7569,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part3verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nho</text>
+     <text>nhos</text>
     </lyric>
    </note>
   </measure>
@@ -7674,7 +7674,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part3verse1" color="#000000">
      <syllabic>single</syllabic>
-     <text>meu</text>
+     <text>meus</text>
      <extend />
     </lyric>
    </note>
@@ -10251,7 +10251,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part4verse1" color="#000000">
      <syllabic>end</syllabic>
-     <text>nho</text>
+     <text>nhos</text>
     </lyric>
    </note>
   </measure>
@@ -10369,7 +10369,7 @@
     <staff>1</staff>
     <lyric default-y="-80" number="part4verse1" color="#000000">
      <syllabic>single</syllabic>
-     <text>meu</text>
+     <text>meus</text>
      <extend />
     </lyric>
    </note>
