@@ -4204,6 +4204,14 @@
   </measure>
   <!--============== Part: P1, Measure: 50 ==============-->
   <measure number="50" width="106">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>71.2</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note color="#000000" default-x="15">
     <pitch>
      <step>C</step>
@@ -4234,6 +4242,14 @@
    <attributes>
     <staff-details number="1" print-object="yes"/>
    </attributes>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>70.0</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note default-x="57">
     <rest/>
     <duration>512</duration>
@@ -6416,6 +6432,14 @@
    <attributes>
     <staff-details number="1" print-object="yes"/>
    </attributes>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>71.2</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note color="#000000" default-x="57" default-y="10">
     <pitch>
      <step>A</step>
@@ -6444,6 +6468,14 @@
   </measure>
   <!--============== Part: P1, Measure: 72 ==============-->
   <measure number="72" width="167">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>70.0</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note color="#000000" default-x="15" default-y="-50">
     <pitch>
      <step>C</step>
@@ -6772,6 +6804,14 @@
   </measure>
   <!--============== Part: P1, Measure: 79 ==============-->
   <measure number="79" width="119">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>70.5</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note color="#000000" default-x="15" default-y="10">
     <pitch>
      <step>A</step>
@@ -6800,6 +6840,14 @@
   </measure>
   <!--============== Part: P1, Measure: 80 ==============-->
   <measure number="80" width="150">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>70.0</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note color="#000000" default-x="15" default-y="-50">
     <pitch>
      <step>C</step>
