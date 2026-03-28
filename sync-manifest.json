@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-28T08:51:26Z",
+  "lastUpdated": "2026-03-28T09:00:49Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -21,8 +21,8 @@
     "toronto_coral_presente_la_do_ceu": {
       "author": "Toronto Coral",
       "xml": {
-        "size": 491808,
-        "hash": "68b47123a8a5d917672dc2d885d91313e320700fab4d6043f8992c8191a3e3cc"
+        "size": 491804,
+        "hash": "3739d5809bc111822629f564e165974477c4f51a7edcd7a9175450c81a7faa05"
       },
       "audio": {
         "size": 1829994,
