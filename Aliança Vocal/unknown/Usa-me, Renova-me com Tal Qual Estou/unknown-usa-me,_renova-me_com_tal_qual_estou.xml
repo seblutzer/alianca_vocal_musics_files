@@ -2064,7 +2064,7 @@
     <direction-type>
      <metronome color="#000000" default-y="15" font-family="Helsinki Text Std" font-size="13.0217" font-style="normal" font-weight="normal">
       <beat-unit>quarter</beat-unit>
-      <per-minute>88</per-minute>
+      <per-minute>91.1</per-minute>
      </metronome>
     </direction-type>
     <voice>1</voice>
@@ -2081,6 +2081,14 @@
   </measure>
   <!--============== Part: P1, Measure: 53 ==============-->
   <measure number="53" width="105">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>88.0</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note color="#000000" default-x="15" default-y="10">
     <pitch>
      <step>A</step>
@@ -2151,6 +2159,14 @@
   </measure>
   <!--============== Part: P1, Measure: 55 ==============-->
   <measure number="55" width="115">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>89.8</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note color="#000000" default-x="15" default-y="10">
     <pitch>
      <step>A</step>
@@ -2206,7 +2222,7 @@
     <direction-type>
      <metronome color="#000000" default-y="15" font-family="Helsinki Text Std" font-size="13.0217" font-style="normal" font-weight="normal">
       <beat-unit>quarter</beat-unit>
-      <per-minute>120</per-minute>
+      <per-minute>124.1</per-minute>
      </metronome>
     </direction-type>
     <voice>1</voice>
@@ -2227,7 +2243,7 @@
     <direction-type>
      <metronome color="#000000" default-y="15" font-family="Helsinki Text Std" font-size="13.0217" font-style="normal" font-weight="normal">
       <beat-unit>quarter</beat-unit>
-      <per-minute>90</per-minute>
+      <per-minute>90.0</per-minute>
      </metronome>
     </direction-type>
     <voice>1</voice>
@@ -2350,7 +2366,7 @@
     <direction-type>
      <metronome color="#000000" default-y="15" font-family="Helsinki Text Std" font-size="13.0217" font-style="normal" font-weight="normal">
       <beat-unit>quarter</beat-unit>
-      <per-minute>120.0</per-minute>
+      <per-minute>78.2</per-minute>
      </metronome>
     </direction-type>
     <voice>1</voice>
@@ -2400,7 +2416,7 @@
     <direction-type>
      <metronome color="#000000" default-y="15" font-family="Helsinki Text Std" font-size="13.0217" font-style="normal" font-weight="normal">
       <beat-unit>quarter</beat-unit>
-      <per-minute>71.5</per-minute>
+      <per-minute>98.9</per-minute>
      </metronome>
     </direction-type>
     <voice>1</voice>
@@ -2445,7 +2461,7 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>94.5</per-minute>
+      <per-minute>108.7</per-minute>
      </metronome>
     </direction-type>
    </direction>
@@ -2547,7 +2563,7 @@
     <direction-type>
      <metronome color="#000000" default-y="15" font-family="Helsinki Text Std" font-size="13.0217" font-style="normal" font-weight="normal">
       <beat-unit>quarter</beat-unit>
-      <per-minute>120.0</per-minute>
+      <per-minute>112.5</per-minute>
      </metronome>
     </direction-type>
     <voice>1</voice>
@@ -2568,7 +2584,7 @@
     <direction-type>
      <metronome color="#000000" default-y="15" font-family="Helsinki Text Std" font-size="13.0217" font-style="normal" font-weight="normal">
       <beat-unit>quarter</beat-unit>
-      <per-minute>85.5</per-minute>
+      <per-minute>69.6</per-minute>
      </metronome>
     </direction-type>
     <voice>1</voice>
@@ -2614,7 +2630,7 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>88.0</per-minute>
+      <per-minute>105.4</per-minute>
      </metronome>
     </direction-type>
    </direction>
@@ -2653,6 +2669,14 @@
   </measure>
   <!--============== Part: P1, Measure: 67 ==============-->
   <measure number="67" width="80">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>88.0</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note color="#000000" default-x="15" default-y="-10">
     <pitch>
      <step>D</step>
@@ -2900,7 +2924,7 @@
     <direction-type>
      <metronome color="#000000" default-y="15" font-family="Helsinki Text Std" font-size="13.0217" font-style="normal" font-weight="normal">
       <beat-unit>quarter</beat-unit>
-      <per-minute>87</per-minute>
+      <per-minute>80.4</per-minute>
      </metronome>
     </direction-type>
     <voice>1</voice>
@@ -2942,6 +2966,14 @@
   </measure>
   <!--============== Part: P1, Measure: 74 ==============-->
   <measure number="74" width="117">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>87.0</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note color="#000000" default-x="15" default-y="-10">
     <pitch>
      <step>D</step>
@@ -3103,7 +3135,7 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>90.5</per-minute>
+      <per-minute>93.8</per-minute>
      </metronome>
     </direction-type>
    </direction>
@@ -3146,7 +3178,7 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>84.6</per-minute>
+      <per-minute>80.5</per-minute>
      </metronome>
     </direction-type>
    </direction>
