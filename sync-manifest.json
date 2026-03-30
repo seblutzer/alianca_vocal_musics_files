@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T06:30:52Z",
+  "lastUpdated": "2026-03-30T10:02:58Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -38,8 +38,8 @@
     "unknown_usa-me,_renova-me_com_tal_qual_estou": {
       "author": "unknown",
       "xml": {
-        "size": 320757,
-        "hash": "1f6ec74182d3fa5214798fb4b387ab06798d8a4040b03b26a147fab31bc356ec"
+        "size": 324512,
+        "hash": "475e4eca469e3110fa566a48217dbab5afbb3fb2805917398b7874612b9c108c"
       },
       "audio": {
         "size": 1583921,
@@ -48,7 +48,7 @@
       },
       "musicName": "Usa-me, Renova-me com Tal Qual Estou",
       "properties": {
-        "realDurationMin": "2.9576",
+        "realDurationMin": "2.9190",
         "offsetSeconds": "-0.20"
       }
     },
