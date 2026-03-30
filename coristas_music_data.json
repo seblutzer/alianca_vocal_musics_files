@@ -354,7 +354,7 @@
         },
         "Baixo" : {
           "min" : "G2",
-          "max" : "G3"
+          "max" : "A3"
         },
         "Tenor" : {
           "min" : "E3",
@@ -368,7 +368,7 @@
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
         "Baixo" : [ "Willian Modro" ]
       },
-      "timestamp" : "2026-03-30 06:30:41"
+      "timestamp" : "2026-03-30 10:02:46"
     },
     "Nova Voz - Digno é o Senhor" : {
       "root" : "F#",
