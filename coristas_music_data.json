@@ -112,7 +112,7 @@
   "musicas" : {
     "Vocal Livre - Quem de Nós" : {
       "root" : "Eb",
-      "mode" : "maior",
+      "mode" : "major",
       "grupo" : "Aliança Vocal",
       "ranges" : {
         "Contralto" : {
@@ -132,14 +132,16 @@
           "max" : "E4"
         }
       },
-      "solistas" : { },
-      "voices" : {
-        "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
-        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
-        "Baixo" : [ "Willian Modro" ],
-        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ]
+      "solistas" : {
+        "Douglas Madoks" : [ "E3", "F#4" ]
       },
-      "timestamp" : "2026-03-27 16:55:56"
+      "voices" : {
+        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
+        "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
+        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
+        "Baixo" : [ "Willian Modro" ]
+      },
+      "timestamp" : "2026-03-31 06:09:59"
     },
     "Coral do UNASP - Vinde Benditos" : {
       "root" : "E",
