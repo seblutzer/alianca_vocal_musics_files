@@ -530,7 +530,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric default-y="-107" number="part1verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>single</syllabic>
      <text>ar,</text>
     </lyric>
    </note>
@@ -571,7 +571,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
     <lyric default-y="-107" number="part1verse1" color="#000000">
-     <syllabic>end</syllabic>
+     <syllabic>single</syllabic>
      <text>quem</text>
     </lyric>
    </note>
@@ -2219,7 +2219,7 @@
     <beam number="1">begin</beam>
     <beam number="2">begin</beam>
     <lyric default-y="-96" number="part1verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>end</syllabic>
      <text>o</text>
     </lyric>
    </note>
@@ -2500,7 +2500,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
     <lyric default-y="-112" number="part1verse1" color="#000000">
-     <syllabic>middle</syllabic>
+     <syllabic>begin</syllabic>
      <text>Se_e</text>
     </lyric>
    </note>
