@@ -133,7 +133,9 @@
         }
       },
       "solistas" : {
-        "Douglas Madoks" : [ "E3", "F#4" ]
+        "Eduardo Lutzer" : [ "F#3", "F#4" ],
+        "Douglas Madoks" : [ "E3", "F#4" ],
+        "Dalva Lutzer" : [ "F#3", "A4" ]
       },
       "voices" : {
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
@@ -141,7 +143,7 @@
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
         "Baixo" : [ "Willian Modro" ]
       },
-      "timestamp" : "2026-03-31 06:09:59"
+      "timestamp" : "2026-04-02 23:07:15"
     },
     "Coral do UNASP - Vinde Benditos" : {
       "root" : "E",
@@ -403,7 +405,7 @@
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
         "Baixo" : [ "Willian Modro" ]
       },
-      "timestamp" : "2026-03-28 07:04:30"
+      "timestamp" : "2026-04-03 05:20:59"
     },
     "Fernando Iglesias - Será que o Céu Sabia?" : {
       "root" : "G",
