@@ -2560,6 +2560,14 @@
    <attributes>
     <staff-details number="1" print-object="yes"/>
    </attributes>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>66.5</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note color="#000000" default-x="57" default-y="-42">
     <pitch>
      <step>D</step>
@@ -2738,6 +2746,14 @@
   </measure>
   <!--============== Part: P1, Measure: 29 ==============-->
   <measure number="29" width="522">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>67.0</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note color="#000000" default-x="15" default-y="12">
     <pitch>
      <step>C</step>
@@ -5603,6 +5619,14 @@
    <attributes>
     <staff-details number="1" print-object="yes"/>
    </attributes>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>66.8</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note color="#000000" default-x="57" default-y="-42">
     <pitch>
      <step>D</step>
@@ -5781,6 +5805,14 @@
   </measure>
   <!--============== Part: P1, Measure: 56 ==============-->
   <measure number="56" width="520">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>66.6</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note color="#000000" default-x="15" default-y="12">
     <pitch>
      <step>C</step>
@@ -6023,6 +6055,14 @@
    <attributes>
     <staff-details number="1" print-object="yes"/>
    </attributes>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>67.0</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note color="#000000" default-x="57" default-y="12">
     <pitch>
      <step>C</step>
@@ -6347,7 +6387,7 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>66.3</per-minute>
+      <per-minute>65.9</per-minute>
      </metronome>
     </direction-type>
    </direction>
@@ -6912,7 +6952,7 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>67.0</per-minute>
+      <per-minute>68.2</per-minute>
      </metronome>
     </direction-type>
    </direction>
@@ -6950,6 +6990,14 @@
      <mode>major</mode>
     </key>
    </attributes>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>67.0</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note color="#000000" default-x="15" default-y="-45">
     <pitch>
      <step>D</step>
