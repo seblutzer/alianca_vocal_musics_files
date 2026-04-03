@@ -2188,7 +2188,7 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>64.4</per-minute>
+      <per-minute>63.5</per-minute>
      </metronome>
     </direction-type>
    </direction>
@@ -4762,7 +4762,7 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>66.7</per-minute>
+      <per-minute>66.5</per-minute>
      </metronome>
     </direction-type>
    </direction>
@@ -4989,7 +4989,7 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>66.9</per-minute>
+      <per-minute>67.1</per-minute>
      </metronome>
     </direction-type>
    </direction>
