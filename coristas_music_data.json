@@ -41,14 +41,6 @@
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Contralto", "Tenor", "Barítono" ]
       },
-      "Manu Laurindo" : {
-        "range_min" : "D3",
-        "range_max" : "D5",
-        "voz_calculada" : "Contralto",
-        "voz_atribuida" : "Contralto",
-        "vozes_recomendadas" : [ "Contralto" ],
-        "vozes_possiveis" : [ "Mezzo-soprano", "Tenor" ]
-      },
       "Douglas Madoks" : {
         "range_min" : "C3",
         "range_max" : "G4",
@@ -116,7 +108,7 @@
       },
       "solistas" : { },
       "voices" : {
-        "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
+        "Contralto" : [ "Taty", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Baixo" : [ "Willian Modro" ],
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ]
@@ -149,7 +141,7 @@
         "Paloma" : [ "Gb3", "Ab4" ]
       },
       "voices" : {
-        "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
+        "Contralto" : [ "Taty", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Baixo" : [ "Willian Modro" ],
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ]
@@ -180,7 +172,7 @@
       },
       "solistas" : { },
       "voices" : {
-        "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
+        "Contralto" : [ "Taty", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Baixo" : [ "Willian Modro" ],
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ]
@@ -212,7 +204,7 @@
       "solistas" : { },
       "voices" : {
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
-        "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
+        "Contralto" : [ "Taty", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
         "Baixo" : [ "Willian Modro" ]
       },
@@ -251,7 +243,7 @@
       "solistas" : { },
       "voices" : {
         "Barítono" : [ "Willian Modro" ],
-        "Contralto" : [ "Manu Laurindo", "Georgia" ],
+        "Contralto" : [ "Georgia" ],
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Mezzo-soprano" : [ "Taty", "Dalva Lutzer", "Elisângela Modro" ],
         "Baixo" : [ "Samuel Dorta" ],
@@ -283,7 +275,7 @@
       },
       "solistas" : { },
       "voices" : {
-        "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
+        "Contralto" : [ "Taty", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Baixo" : [ "Willian Modro" ],
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ]
@@ -316,7 +308,7 @@
         "Dalva Lutzer" : [ "F3", "C5" ]
       },
       "voices" : {
-        "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
+        "Contralto" : [ "Taty", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Baixo" : [ "Willian Modro" ],
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ]
@@ -356,7 +348,7 @@
       "solistas" : { },
       "voices" : {
         "Barítono" : [ "Eduardo Lutzer" ],
-        "Contralto" : [ "Manu Laurindo", "Georgia", "Elisângela Modro" ],
+        "Contralto" : [ "Georgia", "Elisângela Modro" ],
         "Soprano" : [ "Kátia Vanessa" ],
         "Mezzo-soprano" : [ "Taty", "Paloma", "Dalva Lutzer" ],
         "Baixo" : [ "Willian Modro" ],
@@ -392,7 +384,7 @@
         "Dalva Lutzer" : [ "F#3", "A4" ]
       },
       "voices" : {
-        "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
+        "Contralto" : [ "Taty", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Baixo" : [ "Willian Modro" ],
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ]
