@@ -69,7 +69,7 @@
         "range_min" : "F3",
         "range_max" : "F5",
         "voz_calculada" : "Mezzo-soprano",
-        "voz_atribuida" : "Contralto",
+        "voz_atribuida" : "Soprano",
         "vozes_recomendadas" : [ "Mezzo-soprano", "Contralto" ],
         "vozes_possiveis" : [ "Soprano", "Tenor" ]
       },
@@ -384,8 +384,8 @@
       },
       "solistas" : { },
       "voices" : {
-        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
-        "Contralto" : [ "Taty", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
+        "Soprano" : [ "Kátia Vanessa", "Paloma", "Dalva Lutzer" ],
+        "Contralto" : [ "Taty", "Georgia", "Elisângela Modro" ],
         "Tenor" : [ "Eduardo Lutzer", "Douglas Madoks" ],
         "Baixo" : [ "Willian Modro", "Samuel Dorta" ]
       },
