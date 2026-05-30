@@ -13,7 +13,7 @@
         "range_min" : "G2",
         "range_max" : "C4",
         "voz_calculada" : "Baixo",
-        "voz_atribuida" : "Tenor",
+        "voz_atribuida" : "Baixo",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Tenor", "Barítono", "Baixo" ]
       },
@@ -147,37 +147,6 @@
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ]
       },
       "timestamp" : "2026-03-28 09:00:38"
-    },
-    "unknown - Usa-me, Renova-me com Tal Qual Estou" : {
-      "root" : "Bb",
-      "mode" : "major",
-      "grupo" : "Aliança Vocal",
-      "ranges" : {
-        "Contralto" : {
-          "min" : "A3",
-          "max" : "A4"
-        },
-        "Soprano" : {
-          "min" : "D4",
-          "max" : "D5"
-        },
-        "Baixo" : {
-          "min" : "G2",
-          "max" : "A3"
-        },
-        "Tenor" : {
-          "min" : "E3",
-          "max" : "D4"
-        }
-      },
-      "solistas" : { },
-      "voices" : {
-        "Contralto" : [ "Taty", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
-        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
-        "Baixo" : [ "Willian Modro" ],
-        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ]
-      },
-      "timestamp" : "2026-03-30 15:19:29"
     },
     "Prisma Brasil - Meu Lar" : {
       "root" : "C#",
@@ -417,10 +386,41 @@
       "voices" : {
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Contralto" : [ "Taty", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
-        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
-        "Baixo" : [ "Willian Modro" ]
+        "Tenor" : [ "Eduardo Lutzer", "Douglas Madoks" ],
+        "Baixo" : [ "Willian Modro", "Samuel Dorta" ]
       },
       "timestamp" : "2026-05-30 06:42:07"
+    },
+    "unknown - Usa-me, Renova-me com Tal Qual Estou" : {
+      "root" : "Bb",
+      "mode" : "major",
+      "grupo" : "Aliança Vocal",
+      "ranges" : {
+        "Contralto" : {
+          "min" : "A3",
+          "max" : "A4"
+        },
+        "Soprano" : {
+          "min" : "D4",
+          "max" : "D5"
+        },
+        "Baixo" : {
+          "min" : "G2",
+          "max" : "A3"
+        },
+        "Tenor" : {
+          "min" : "E3",
+          "max" : "D4"
+        }
+      },
+      "solistas" : { },
+      "voices" : {
+        "Contralto" : [ "Taty", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
+        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
+        "Baixo" : [ "Willian Modro" ],
+        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ]
+      },
+      "timestamp" : "2026-03-30 15:19:29"
     }
   }
 }
