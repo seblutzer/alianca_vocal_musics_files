@@ -390,6 +390,37 @@
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ]
       },
       "timestamp" : "2026-04-02 23:07:15"
+    },
+    "Cantata Experiência com Deus - Usa-me, Renova-me com Tal Qual Estou" : {
+      "root" : "Bb",
+      "mode" : "major",
+      "grupo" : "Aliança Vocal",
+      "ranges" : {
+        "Contralto" : {
+          "min" : "A3",
+          "max" : "A4"
+        },
+        "Soprano" : {
+          "min" : "D4",
+          "max" : "D5"
+        },
+        "Baixo" : {
+          "min" : "G2",
+          "max" : "A3"
+        },
+        "Tenor" : {
+          "min" : "E3",
+          "max" : "D4"
+        }
+      },
+      "solistas" : { },
+      "voices" : {
+        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
+        "Contralto" : [ "Taty", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
+        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
+        "Baixo" : [ "Willian Modro" ]
+      },
+      "timestamp" : "2026-05-30 06:42:07"
     }
   }
 }
