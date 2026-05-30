@@ -45,7 +45,7 @@
         "range_min" : "C3",
         "range_max" : "G4",
         "voz_calculada" : "Tenor",
-        "voz_atribuida" : "Barítono",
+        "voz_atribuida" : "Tenor",
         "vozes_recomendadas" : [ "Tenor" ],
         "vozes_possiveis" : [ "Barítono" ]
       },
