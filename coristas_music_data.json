@@ -17,13 +17,13 @@
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Tenor", "Barítono", "Baixo" ]
       },
-      "Eduardo Lutzer" : {
-        "range_min" : "F2",
-        "range_max" : "C5",
-        "voz_calculada" : "Tenor",
-        "voz_atribuida" : "Tenor",
-        "vozes_recomendadas" : [ "Tenor", "Barítono" ],
-        "vozes_possiveis" : [ "Mezzo-soprano", "Contralto", "Baixo" ]
+      "Eliseu" : {
+        "range_min" : "G2",
+        "range_max" : "G3",
+        "voz_calculada" : "Baixo",
+        "voz_atribuida" : "Baixo",
+        "vozes_recomendadas" : [ ],
+        "vozes_possiveis" : [ "Tenor", "Barítono", "Baixo" ]
       },
       "Paloma" : {
         "range_min" : "F3",
@@ -32,6 +32,38 @@
         "voz_atribuida" : "Soprano",
         "vozes_recomendadas" : [ "Mezzo-soprano", "Soprano", "Contralto" ],
         "vozes_possiveis" : [ "Tenor" ]
+      },
+      "Dalva Lutzer" : {
+        "range_min" : "F3",
+        "range_max" : "F5",
+        "voz_calculada" : "Mezzo-soprano",
+        "voz_atribuida" : "Contralto",
+        "vozes_recomendadas" : [ "Mezzo-soprano", "Contralto" ],
+        "vozes_possiveis" : [ "Soprano", "Tenor" ]
+      },
+      "João Paulo" : {
+        "range_min" : "E2",
+        "range_max" : "E4",
+        "voz_calculada" : "Barítono",
+        "voz_atribuida" : "Barítono",
+        "vozes_recomendadas" : [ "Barítono", "Baixo" ],
+        "vozes_possiveis" : [ "Tenor" ]
+      },
+      "Elisângela Modro" : {
+        "range_min" : "F3",
+        "range_max" : "D#5",
+        "voz_calculada" : "Contralto",
+        "voz_atribuida" : "Contralto",
+        "vozes_recomendadas" : [ "Contralto" ],
+        "vozes_possiveis" : [ "Mezzo-soprano", "Tenor" ]
+      },
+      "Eduardo Lutzer" : {
+        "range_min" : "F2",
+        "range_max" : "C5",
+        "voz_calculada" : "Tenor",
+        "voz_atribuida" : "Tenor",
+        "vozes_recomendadas" : [ "Tenor", "Barítono" ],
+        "vozes_possiveis" : [ "Mezzo-soprano", "Contralto", "Baixo" ]
       },
       "Taty" : {
         "range_min" : "F3",
@@ -72,30 +104,6 @@
         "voz_atribuida" : "Baixo",
         "vozes_recomendadas" : [ "Barítono", "Tenor", "Baixo" ],
         "vozes_possiveis" : [ "Contralto" ]
-      },
-      "Dalva Lutzer" : {
-        "range_min" : "F3",
-        "range_max" : "F5",
-        "voz_calculada" : "Mezzo-soprano",
-        "voz_atribuida" : "Contralto",
-        "vozes_recomendadas" : [ "Mezzo-soprano", "Contralto" ],
-        "vozes_possiveis" : [ "Soprano", "Tenor" ]
-      },
-      "João Paulo" : {
-        "range_min" : "E2",
-        "range_max" : "E4",
-        "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Barítono",
-        "vozes_recomendadas" : [ "Barítono", "Baixo" ],
-        "vozes_possiveis" : [ "Tenor" ]
-      },
-      "Elisângela Modro" : {
-        "range_min" : "F3",
-        "range_max" : "D#5",
-        "voz_calculada" : "Contralto",
-        "voz_atribuida" : "Contralto",
-        "vozes_recomendadas" : [ "Contralto" ],
-        "vozes_possiveis" : [ "Mezzo-soprano", "Tenor" ]
       }
     }
   },
@@ -128,7 +136,7 @@
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Baixo" : [ "Willian Modro" ],
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
-        "Barítono" : [ "João Paulo" ]
+        "Barítono" : [ "João Paulo", "Eliseu" ]
       },
       "timestamp" : "2026-03-30 15:18:54"
     },
@@ -162,7 +170,7 @@
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Baixo" : [ "Willian Modro" ],
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
-        "Barítono" : [ "João Paulo" ]
+        "Barítono" : [ "João Paulo", "Eliseu" ]
       },
       "timestamp" : "2026-03-28 09:00:38"
     },
@@ -194,7 +202,7 @@
         "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
         "Baixo" : [ "Willian Modro" ],
-        "Barítono" : [ "João Paulo" ]
+        "Barítono" : [ "João Paulo", "Eliseu" ]
       },
       "timestamp" : "2026-04-12 09:48:43"
     },
@@ -234,7 +242,7 @@
         "Contralto" : [ "Manu Laurindo", "Georgia" ],
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Mezzo-soprano" : [ "Taty", "Dalva Lutzer", "Elisângela Modro" ],
-        "Baixo" : [ "Samuel Dorta" ],
+        "Baixo" : [ "Samuel Dorta", "Eliseu" ],
         "Tenor" : [ "Eduardo Lutzer", "Douglas Madoks" ]
       },
       "timestamp" : "2026-03-13 05:34:39"
@@ -267,7 +275,7 @@
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Baixo" : [ "Willian Modro" ],
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
-        "Barítono" : [ "João Paulo" ]
+        "Barítono" : [ "João Paulo", "Eliseu" ]
       },
       "timestamp" : "2026-04-03 16:24:19"
     },
@@ -301,7 +309,7 @@
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Baixo" : [ "Willian Modro" ],
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
-        "Barítono" : [ "João Paulo" ]
+        "Barítono" : [ "João Paulo", "Eliseu" ]
       },
       "timestamp" : "2026-04-03 05:20:59"
     },
@@ -341,7 +349,7 @@
         "Contralto" : [ "Manu Laurindo", "Georgia", "Elisângela Modro" ],
         "Soprano" : [ "Kátia Vanessa" ],
         "Mezzo-soprano" : [ "Taty", "Paloma", "Dalva Lutzer" ],
-        "Baixo" : [ "Willian Modro" ],
+        "Baixo" : [ "Willian Modro", "Eliseu" ],
         "Tenor" : [ "Samuel Dorta", "Douglas Madoks" ]
       },
       "timestamp" : "2026-03-27 19:17:47"
@@ -378,7 +386,7 @@
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Baixo" : [ "Willian Modro" ],
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
-        "Barítono" : [ "João Paulo" ]
+        "Barítono" : [ "João Paulo", "Eliseu" ]
       },
       "timestamp" : "2026-04-02 23:07:15"
     },
@@ -410,7 +418,7 @@
         "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
         "Baixo" : [ "Willian Modro" ],
-        "Barítono" : [ "João Paulo" ]
+        "Barítono" : [ "João Paulo", "Eliseu" ]
       },
       "timestamp" : "2026-05-30 17:21:30"
     }
