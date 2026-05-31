@@ -286,15 +286,15 @@
       "ranges" : {
         "Contralto" : {
           "min" : "F3",
-          "max" : "A4"
+          "max" : "Bb4"
         },
         "Soprano" : {
           "min" : "F3",
-          "max" : "C5"
+          "max" : "D5"
         },
         "Baixo" : {
           "min" : "D3",
-          "max" : "D4"
+          "max" : "F4"
         },
         "Tenor" : {
           "min" : "D3",
@@ -305,13 +305,12 @@
         "Dalva Lutzer" : [ "F3", "C5" ]
       },
       "voices" : {
-        "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
-        "Baixo" : [ "Willian Modro" ],
-        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
-        "Barítono" : [ "João Paulo", "Eliseu" ]
+        "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
+        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Taty", "Douglas Madoks" ],
+        "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ]
       },
-      "timestamp" : "2026-04-03 05:20:59"
+      "timestamp" : "2026-05-31 13:27:04"
     },
     "Som e Louvor - O Lírio Ressurgiu" : {
       "root" : "E",
