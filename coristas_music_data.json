@@ -21,9 +21,17 @@
         "range_min" : "G2",
         "range_max" : "G3",
         "voz_calculada" : "Baixo",
-        "voz_atribuida" : "Baixo",
+        "voz_atribuida" : "Barítono",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Tenor", "Barítono", "Baixo" ]
+      },
+      "Miria" : {
+        "range_min" : "D3",
+        "range_max" : "D5",
+        "voz_calculada" : "Contralto",
+        "voz_atribuida" : "Contralto",
+        "vozes_recomendadas" : [ "Contralto" ],
+        "vozes_possiveis" : [ "Mezzo-soprano", "Tenor" ]
       },
       "Paloma" : {
         "range_min" : "F3",
@@ -45,7 +53,7 @@
         "range_min" : "E2",
         "range_max" : "E4",
         "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Baixo",
+        "voz_atribuida" : "Barítono",
         "vozes_recomendadas" : [ "Barítono", "Baixo" ],
         "vozes_possiveis" : [ "Tenor" ]
       },
@@ -72,14 +80,6 @@
         "voz_atribuida" : "Contralto",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Contralto", "Tenor", "Barítono" ]
-      },
-      "Manu Laurindo" : {
-        "range_min" : "D3",
-        "range_max" : "D5",
-        "voz_calculada" : "Contralto",
-        "voz_atribuida" : "Contralto",
-        "vozes_recomendadas" : [ "Contralto" ],
-        "vozes_possiveis" : [ "Mezzo-soprano", "Tenor" ]
       },
       "Douglas Madoks" : {
         "range_min" : "C3",
