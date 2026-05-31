@@ -45,7 +45,7 @@
         "range_min" : "E2",
         "range_max" : "E4",
         "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Barítono",
+        "voz_atribuida" : "Baixo",
         "vozes_recomendadas" : [ "Barítono", "Baixo" ],
         "vozes_possiveis" : [ "Tenor" ]
       },
