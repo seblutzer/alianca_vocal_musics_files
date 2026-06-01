@@ -420,6 +420,40 @@
         "Barítono" : [ "João Paulo", "Eliseu" ]
       },
       "timestamp" : "2026-05-30 17:21:30"
+    },
+    "Margem Norte - Além do Rio Azul" : {
+      "root" : "F",
+      "mode" : "major",
+      "grupo" : "Aliança Vocal",
+      "ranges" : {
+        "Contralto" : {
+          "min" : "D4",
+          "max" : "B4"
+        },
+        "Soprano" : {
+          "min" : "D4",
+          "max" : "D5"
+        },
+        "Baixo" : {
+          "min" : "D3",
+          "max" : "D4"
+        },
+        "Tenor" : {
+          "min" : "D3",
+          "max" : "F#4"
+        }
+      },
+      "solistas" : {
+        "Paloma" : [ "G3", "D5" ],
+        "Douglas Madoks" : [ "D3", "G4" ]
+      },
+      "voices" : {
+        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
+        "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
+        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Taty", "Douglas Madoks" ],
+        "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ]
+      },
+      "timestamp" : "2026-06-01 16:02:41"
     }
   }
 }
