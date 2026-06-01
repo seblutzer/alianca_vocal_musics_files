@@ -2365,7 +2365,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
     <lyric default-y="-80" number="part1verse1" color="#000000">
-     <syllabic>single</syllabic>
+     <syllabic>begin</syllabic>
      <text>ne</text>
     </lyric>
    </note>
@@ -2382,7 +2382,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
     <lyric default-y="-80" number="part1verse1" color="#000000">
-     <syllabic>begin</syllabic>
+     <syllabic>end</syllabic>
      <text>nhum</text>
     </lyric>
    </note>
