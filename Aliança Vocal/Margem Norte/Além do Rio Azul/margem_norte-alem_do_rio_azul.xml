@@ -751,7 +751,7 @@
     <beam number="1">begin</beam>
     <lyric color="#000000" default-y="-91" number="part1verse1">
      <syllabic>end</syllabic>
-     <text>li,</text>
+     <text>li</text>
     </lyric>
    </note>
    <note color="#000000" default-x="48" default-y="-7">
@@ -910,7 +910,7 @@
     <beam number="1">begin</beam>
     <lyric color="#000000" default-y="-91" number="part1verse1">
      <syllabic>end</syllabic>
-     <text>li,</text>
+     <text>li</text>
     </lyric>
    </note>
    <note color="#000000" default-x="111" default-y="-7">
@@ -5773,7 +5773,7 @@
      <step>G</step>
      <octave>4</octave>
     </pitch>
-    <duration>256</duration>
+    <duration>128</duration>
     <instrument id="P1-I1"/>
     <voice>1</voice>
     <type>quarter</type>
@@ -5824,7 +5824,7 @@
      <step>E</step>
      <octave>4</octave>
     </pitch>
-    <duration>128</duration>
+    <duration>256</duration>
     <tie type="stop"/>
     <instrument id="P1-I1"/>
     <voice>1</voice>
@@ -9519,7 +9519,7 @@
      <step>G</step>
      <octave>3</octave>
     </pitch>
-    <duration>256</duration>
+    <duration>128</duration>
     <instrument id="P2-I1"/>
     <voice>1</voice>
     <type>quarter</type>
@@ -9536,7 +9536,7 @@
      <step>E</step>
      <octave>3</octave>
     </pitch>
-    <duration>128</duration>
+    <duration>256</duration>
     <tie type="start"/>
     <instrument id="P2-I1"/>
     <voice>1</voice>
@@ -12219,7 +12219,7 @@
      <step>G</step>
      <octave>4</octave>
     </pitch>
-    <duration>256</duration>
+    <duration>128</duration>
     <instrument id="P3-I1"/>
     <voice>1</voice>
     <type>quarter</type>
@@ -12270,7 +12270,7 @@
      <step>E</step>
      <octave>4</octave>
     </pitch>
-    <duration>128</duration>
+    <duration>256</duration>
     <tie type="stop"/>
     <instrument id="P3-I1"/>
     <voice>1</voice>
@@ -14964,7 +14964,7 @@
      <alter>1</alter>
      <octave>4</octave>
     </pitch>
-    <duration>256</duration>
+    <duration>128</duration>
     <instrument id="P4-I1"/>
     <voice>1</voice>
     <type>quarter</type>
@@ -14981,7 +14981,7 @@
      <step>E</step>
      <octave>4</octave>
     </pitch>
-    <duration>128</duration>
+    <duration>256</duration>
     <tie type="start"/>
     <instrument id="P4-I1"/>
     <voice>1</voice>
@@ -17435,7 +17435,7 @@
      <step>D</step>
      <octave>4</octave>
     </pitch>
-    <duration>64</duration>
+    <duration>128</duration>
     <tie type="stop"/>
     <instrument id="P5-I1"/>
     <voice>1</voice>
@@ -17453,7 +17453,7 @@
      <step>B</step>
      <octave>3</octave>
     </pitch>
-    <duration>128</duration>
+    <duration>64</duration>
     <instrument id="P5-I1"/>
     <voice>1</voice>
     <type>eighth</type>
@@ -17698,7 +17698,7 @@
      <step>C</step>
      <octave>4</octave>
     </pitch>
-    <duration>256</duration>
+    <duration>128</duration>
     <instrument id="P5-I1"/>
     <voice>1</voice>
     <type>quarter</type>
@@ -17715,7 +17715,7 @@
      <step>B</step>
      <octave>3</octave>
     </pitch>
-    <duration>128</duration>
+    <duration>256</duration>
     <tie type="start"/>
     <instrument id="P5-I1"/>
     <voice>1</voice>
@@ -20433,7 +20433,7 @@
      <step>G</step>
      <octave>3</octave>
     </pitch>
-    <duration>256</duration>
+    <duration>128</duration>
     <instrument id="P6-I1"/>
     <voice>1</voice>
     <type>quarter</type>
@@ -20450,7 +20450,7 @@
      <step>E</step>
      <octave>3</octave>
     </pitch>
-    <duration>128</duration>
+    <duration>256</duration>
     <tie type="start"/>
     <instrument id="P6-I1"/>
     <voice>1</voice>
