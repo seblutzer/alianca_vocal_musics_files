@@ -13,7 +13,7 @@
         "range_min" : "G2",
         "range_max" : "C4",
         "voz_calculada" : "Baixo",
-        "voz_atribuida" : "Tenor",
+        "voz_atribuida" : "Baixo",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Tenor", "Barítono", "Baixo" ]
       },
@@ -45,7 +45,7 @@
         "range_min" : "F3",
         "range_max" : "F5",
         "voz_calculada" : "Mezzo-soprano",
-        "voz_atribuida" : "Contralto",
+        "voz_atribuida" : "Mezzo-soprano",
         "vozes_recomendadas" : [ "Mezzo-soprano", "Contralto" ],
         "vozes_possiveis" : [ "Soprano", "Tenor" ]
       },
@@ -53,7 +53,7 @@
         "range_min" : "E2",
         "range_max" : "E4",
         "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Baixo",
+        "voz_atribuida" : "Barítono",
         "vozes_recomendadas" : [ "Barítono", "Baixo" ],
         "vozes_possiveis" : [ "Tenor" ]
       },
@@ -61,7 +61,7 @@
         "range_min" : "F3",
         "range_max" : "D#5",
         "voz_calculada" : "Contralto",
-        "voz_atribuida" : "Contralto",
+        "voz_atribuida" : "Mezzo-soprano",
         "vozes_recomendadas" : [ "Contralto" ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Tenor" ]
       },
@@ -77,7 +77,7 @@
         "range_min" : "F3",
         "range_max" : "F#4",
         "voz_calculada" : "Tenor",
-        "voz_atribuida" : "Tenor",
+        "voz_atribuida" : "Mezzo-soprano",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Contralto", "Tenor", "Barítono" ]
       },
@@ -101,7 +101,7 @@
         "range_min" : "E2",
         "range_max" : "A#4",
         "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Baixo",
+        "voz_atribuida" : "Barítono",
         "vozes_recomendadas" : [ "Barítono", "Tenor", "Baixo" ],
         "vozes_possiveis" : [ "Contralto" ]
       }
@@ -207,45 +207,37 @@
       "timestamp" : "2026-04-12 09:48:43"
     },
     "Coral do UNASP - Vinde Benditos" : {
-      "root" : "E",
+      "root" : "Db",
       "mode" : "major",
       "grupo" : "Aliança Vocal",
       "ranges" : {
-        "Barítono" : {
-          "min" : "Eb3",
-          "max" : "F4"
-        },
         "Contralto" : {
-          "min" : "C4",
+          "min" : "F#3",
           "max" : "C5"
         },
         "Soprano" : {
-          "min" : "Eb4",
-          "max" : "D5"
-        },
-        "Mezzo-soprano" : {
-          "min" : "Eb4",
+          "min" : "F#3",
           "max" : "C5"
         },
         "Baixo" : {
-          "min" : "G2",
-          "max" : "D4"
+          "min" : "B2",
+          "max" : "E4"
         },
         "Tenor" : {
-          "min" : "Eb3",
+          "min" : "D#3",
           "max" : "F4"
         }
       },
-      "solistas" : { },
-      "voices" : {
-        "Barítono" : [ "Willian Modro", "João Paulo" ],
-        "Contralto" : [ "Manu Laurindo", "Georgia" ],
-        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
-        "Mezzo-soprano" : [ "Taty", "Dalva Lutzer", "Elisângela Modro" ],
-        "Baixo" : [ "Samuel Dorta", "Eliseu" ],
-        "Tenor" : [ "Eduardo Lutzer", "Douglas Madoks" ]
+      "solistas" : {
+        "Dalva Lutzer" : [ "F#3", "D5" ]
       },
-      "timestamp" : "2026-03-13 05:34:39"
+      "voices" : {
+        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
+        "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
+        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Taty", "Douglas Madoks" ],
+        "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ]
+      },
+      "timestamp" : "2026-06-02 20:07:14"
     },
     "Prisma Brasil - Agradece ao Pai" : {
       "root" : "B",
