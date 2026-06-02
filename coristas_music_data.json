@@ -21,7 +21,7 @@
         "range_min" : "G2",
         "range_max" : "G3",
         "voz_calculada" : "Baixo",
-        "voz_atribuida" : "Baixo",
+        "voz_atribuida" : "Barítono",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Tenor", "Barítono", "Baixo" ]
       },
@@ -53,7 +53,7 @@
         "range_min" : "E2",
         "range_max" : "E4",
         "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Baixo",
+        "voz_atribuida" : "Barítono",
         "vozes_recomendadas" : [ "Barítono", "Baixo" ],
         "vozes_possiveis" : [ "Tenor" ]
       },
@@ -77,12 +77,12 @@
         "range_min" : "F3",
         "range_max" : "F#4",
         "voz_calculada" : "Tenor",
-        "voz_atribuida" : "Tenor",
+        "voz_atribuida" : "Contralto",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Contralto", "Tenor", "Barítono" ]
       },
       "Douglas Madoks" : {
-        "range_min" : "C3",
+        "range_min" : "A2",
         "range_max" : "G4",
         "voz_calculada" : "Tenor",
         "voz_atribuida" : "Tenor",
