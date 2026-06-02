@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T18:48:36Z",
+  "lastUpdated": "2026-06-02T07:40:55Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -52,6 +52,23 @@
         "offsetSeconds": "0.28"
       }
     },
+    "margem_norte_alem_do_rio_azul": {
+      "author": "Margem Norte",
+      "xml": {
+        "size": 557650,
+        "hash": "09544c273f89e3cb17d9db385a40063f3f1c6fdc49429cb4d33f68235d3c7af5"
+      },
+      "audio": {
+        "size": 2034684,
+        "format": "opus",
+        "hash": "a0bb1c05c0005b3c003ab3e3946118e0f4777d71b987650d3f27529368987543"
+      },
+      "musicName": "Além do Rio Azul",
+      "properties": {
+        "realDurationMin": "3.3597",
+        "offsetSeconds": "1.57"
+      }
+    },
     "prisma_brasil_meu_lar": {
       "author": "Prisma Brasil",
       "xml": {
@@ -67,23 +84,6 @@
       "properties": {
         "realDurationMin": "4.5982",
         "offsetSeconds": "1.80"
-      }
-    },
-    "margem_norte_alem_do_rio_azul": {
-      "author": "Margem Norte",
-      "xml": {
-        "size": 557234,
-        "hash": "0c2aad3eb01cea4e8f701535efb04bfe9dc645db7482bf266706bb3ca7ed27b3"
-      },
-      "audio": {
-        "size": 2034684,
-        "format": "opus",
-        "hash": "a0bb1c05c0005b3c003ab3e3946118e0f4777d71b987650d3f27529368987543"
-      },
-      "musicName": "Além do Rio Azul",
-      "properties": {
-        "realDurationMin": "3.3619",
-        "offsetSeconds": "1.57"
       }
     },
     "vocal_livre_quem_de_nos": {
