@@ -3994,7 +3994,7 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>67.0</per-minute>
+      <per-minute>67.8</per-minute>
      </metronome>
     </direction-type>
    </direction>
@@ -4088,6 +4088,14 @@
   </measure>
   <!--============== Part: P1, Measure: 40 ==============-->
   <measure number="40" width="277">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>69.3</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note color="#000000" default-x="15" default-y="9">
     <pitch>
      <step>G</step>
@@ -4351,7 +4359,7 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>68.5</per-minute>
+      <per-minute>67.5</per-minute>
      </metronome>
     </direction-type>
    </direction>
