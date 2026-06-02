@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T16:25:52Z",
+  "lastUpdated": "2026-06-02T20:07:27Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -38,8 +38,8 @@
     "coral_do_unasp_vinde_benditos": {
       "author": "Coral do UNASP",
       "xml": {
-        "size": 624976,
-        "hash": "8c8b78247a33539aac12876e1e82d8c273d42b1a2d1a7972da7567c6a339b3bd"
+        "size": 624965,
+        "hash": "41c737d22e586184d99b4453918dbe5318ffb88baba8e53496de58e46c4ae685"
       },
       "audio": {
         "size": 2068994,
