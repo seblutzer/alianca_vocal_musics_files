@@ -69,7 +69,7 @@
         "range_min" : "F2",
         "range_max" : "C5",
         "voz_calculada" : "Tenor",
-        "voz_atribuida" : "Barítono",
+        "voz_atribuida" : "Tenor",
         "vozes_recomendadas" : [ "Tenor", "Barítono" ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Contralto", "Baixo" ]
       },
