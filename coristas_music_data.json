@@ -67,9 +67,9 @@
       },
       "Eduardo Lutzer" : {
         "range_min" : "F2",
-        "range_max" : "C5",
+        "range_max" : "D5",
         "voz_calculada" : "Tenor",
-        "voz_atribuida" : "Tenor",
+        "voz_atribuida" : "Baixo",
         "vozes_recomendadas" : [ "Tenor", "Barítono" ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Contralto", "Baixo" ]
       },
