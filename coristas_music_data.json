@@ -13,7 +13,7 @@
         "range_min" : "G2",
         "range_max" : "C4",
         "voz_calculada" : "Baixo",
-        "voz_atribuida" : "Baixo",
+        "voz_atribuida" : "Tenor",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Tenor", "Barítono", "Baixo" ]
       },
@@ -45,7 +45,7 @@
         "range_min" : "F3",
         "range_max" : "F5",
         "voz_calculada" : "Mezzo-soprano",
-        "voz_atribuida" : "Mezzo-soprano",
+        "voz_atribuida" : "Contralto",
         "vozes_recomendadas" : [ "Mezzo-soprano", "Contralto" ],
         "vozes_possiveis" : [ "Soprano", "Tenor" ]
       },
@@ -53,7 +53,7 @@
         "range_min" : "E2",
         "range_max" : "E4",
         "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Barítono",
+        "voz_atribuida" : "Baixo",
         "vozes_recomendadas" : [ "Barítono", "Baixo" ],
         "vozes_possiveis" : [ "Tenor" ]
       },
@@ -61,7 +61,7 @@
         "range_min" : "F3",
         "range_max" : "D#5",
         "voz_calculada" : "Contralto",
-        "voz_atribuida" : "Mezzo-soprano",
+        "voz_atribuida" : "Contralto",
         "vozes_recomendadas" : [ "Contralto" ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Tenor" ]
       },
@@ -77,7 +77,7 @@
         "range_min" : "F3",
         "range_max" : "F#4",
         "voz_calculada" : "Tenor",
-        "voz_atribuida" : "Mezzo-soprano",
+        "voz_atribuida" : "Tenor",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Contralto", "Tenor", "Barítono" ]
       },
@@ -101,7 +101,7 @@
         "range_min" : "E2",
         "range_max" : "A#4",
         "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Barítono",
+        "voz_atribuida" : "Baixo",
         "vozes_recomendadas" : [ "Barítono", "Tenor", "Baixo" ],
         "vozes_possiveis" : [ "Contralto" ]
       }
@@ -445,7 +445,7 @@
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Taty", "Douglas Madoks" ],
         "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ]
       },
-      "timestamp" : "2026-06-02 16:25:38"
+      "timestamp" : "2026-06-04 05:28:28"
     }
   }
 }
