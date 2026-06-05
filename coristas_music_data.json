@@ -228,7 +228,7 @@
         }
       },
       "solistas" : {
-        "Dalva Lutzer" : [ "F#3", "D5" ]
+        "Paloma" : [ "F#3", "D5" ]
       },
       "voices" : {
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
@@ -236,7 +236,7 @@
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Taty", "Douglas Madoks" ],
         "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ]
       },
-      "timestamp" : "2026-06-02 20:07:14"
+      "timestamp" : "2026-06-05 18:29:40"
     },
     "Prisma Brasil - Agradece ao Pai" : {
       "root" : "B",
