@@ -277,7 +277,7 @@
       "ranges" : {
         "Contralto" : {
           "min" : "F3",
-          "max" : "Bb4"
+          "max" : "A#4"
         },
         "Soprano" : {
           "min" : "F3",
@@ -301,7 +301,7 @@
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Taty", "Douglas Madoks" ],
         "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ]
       },
-      "timestamp" : "2026-05-31 13:27:04"
+      "timestamp" : "2026-06-06 02:40:39"
     },
     "Som e Louvor - O Lírio Ressurgiu" : {
       "root" : "E",
