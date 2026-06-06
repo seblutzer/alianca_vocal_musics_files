@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T03:01:29Z",
+  "lastUpdated": "2026-06-06T03:02:04Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -38,8 +38,8 @@
     "coral_do_unasp_vinde_benditos": {
       "author": "Coral do UNASP",
       "xml": {
-        "size": 456485,
-        "hash": "7472916faf7678b26743006919f36ea3862656dbe7feb142ef1e1cd7f065485d"
+        "size": 456492,
+        "hash": "2b4d22a76aa1eab17c9402b9ea8b2b7565a484be2cd90ed6e6f099fed35331c7"
       },
       "audio": {
         "size": 2068994,
@@ -106,8 +106,8 @@
     "cantata_experiencia_com_deus_usa-me,_renova-me_com_tal_qual_estou": {
       "author": "Cantata Experiência com Deus",
       "xml": {
-        "size": 258977,
-        "hash": "1db0e36a42ca8194140c6beec95423dbedbf2f5c364634a7a5d3dd0deedc8636"
+        "size": 324512,
+        "hash": "475e4eca469e3110fa566a48217dbab5afbb3fb2805917398b7874612b9c108c"
       },
       "audio": {
         "size": 1583921,
