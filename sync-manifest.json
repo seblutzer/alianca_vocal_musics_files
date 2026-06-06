@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T02:40:51Z",
+  "lastUpdated": "2026-06-06T02:41:38Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -123,8 +123,8 @@
     "prisma_brasil_agradece_ao_pai": {
       "author": "Prisma Brasil",
       "xml": {
-        "size": 624599,
-        "hash": "3a2bba868cf994dc6176722ce19b8494eeb4f65f756bbca7c3cd3222f6dd153b"
+        "size": 411580,
+        "hash": "6e3eb3715ac8c6777b4cc4af2d0d3644042b2b246d4f659c12eba54e826b4bc2"
       },
       "audio": {
         "size": 1822895,
@@ -140,8 +140,8 @@
     "nova_voz_digno_e_o_senhor": {
       "author": "Nova Voz",
       "xml": {
-        "size": 603631,
-        "hash": "ea45958fef281cae53272bc526f2229b53e19b2f16c4d6f5d228d583b6412843"
+        "size": 854503,
+        "hash": "9b70538600e22b5491be46ef0f90c5db1b5118fdd818f78304c897206b1a2d95"
       },
       "audio": {
         "size": 2652757,
