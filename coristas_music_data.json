@@ -21,7 +21,7 @@
         "range_min" : "G2",
         "range_max" : "G3",
         "voz_calculada" : "Baixo",
-        "voz_atribuida" : "Baixo",
+        "voz_atribuida" : "Barítono",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Tenor", "Barítono", "Baixo" ]
       },
@@ -37,7 +37,7 @@
         "range_min" : "F3",
         "range_max" : "A5",
         "voz_calculada" : "Mezzo-soprano",
-        "voz_atribuida" : "Soprano",
+        "voz_atribuida" : "Mezzo-soprano",
         "vozes_recomendadas" : [ "Mezzo-soprano", "Soprano", "Contralto" ],
         "vozes_possiveis" : [ "Tenor" ]
       },
@@ -69,15 +69,15 @@
         "range_min" : "F2",
         "range_max" : "D5",
         "voz_calculada" : "Tenor",
-        "voz_atribuida" : "Tenor",
-        "vozes_recomendadas" : [ "Tenor", "Barítono" ],
-        "vozes_possiveis" : [ "Mezzo-soprano", "Contralto", "Baixo" ]
+        "voz_atribuida" : "Barítono",
+        "vozes_recomendadas" : [ "Tenor", "Barítono", "Contralto" ],
+        "vozes_possiveis" : [ "Mezzo-soprano", "Baixo" ]
       },
       "Taty" : {
         "range_min" : "F3",
         "range_max" : "F#4",
         "voz_calculada" : "Tenor",
-        "voz_atribuida" : "Tenor",
+        "voz_atribuida" : "Mezzo-soprano",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Contralto", "Tenor", "Barítono" ]
       },
@@ -93,9 +93,9 @@
         "range_min" : "E3",
         "range_max" : "A#4",
         "voz_calculada" : "Contralto",
-        "voz_atribuida" : "Contralto",
+        "voz_atribuida" : "Tenor",
         "vozes_recomendadas" : [ ],
-        "vozes_possiveis" : [ "Tenor", "Contralto" ]
+        "vozes_possiveis" : [ "Mezzo-soprano", "Contralto", "Tenor" ]
       },
       "Willian Modro" : {
         "range_min" : "E2",
@@ -307,7 +307,7 @@
       "grupo" : "Aliança Vocal",
       "ranges" : {
         "Barítono" : {
-          "min" : "Eb3",
+          "min" : "D#3",
           "max" : "F4"
         },
         "Contralto" : {
@@ -315,11 +315,11 @@
           "max" : "C5"
         },
         "Soprano" : {
-          "min" : "Eb4",
+          "min" : "D#4",
           "max" : "D5"
         },
         "Mezzo-soprano" : {
-          "min" : "Eb4",
+          "min" : "D#4",
           "max" : "C5"
         },
         "Baixo" : {
@@ -327,20 +327,20 @@
           "max" : "D4"
         },
         "Tenor" : {
-          "min" : "Eb3",
+          "min" : "D#3",
           "max" : "F4"
         }
       },
       "solistas" : { },
       "voices" : {
-        "Barítono" : [ "Eduardo Lutzer", "João Paulo" ],
-        "Contralto" : [ "Manu Laurindo", "Georgia", "Elisângela Modro" ],
         "Soprano" : [ "Kátia Vanessa" ],
-        "Mezzo-soprano" : [ "Taty", "Paloma", "Dalva Lutzer" ],
-        "Baixo" : [ "Willian Modro", "Eliseu" ],
-        "Tenor" : [ "Samuel Dorta", "Douglas Madoks" ]
+        "Mezzo-soprano" : [ "Taty", "Paloma" ],
+        "Contralto" : [ "Miria", "Elisângela Modro", "Dalva Lutzer" ],
+        "Tenor" : [ "Samuel Dorta", "Douglas Madoks", "Georgia" ],
+        "Barítono" : [ "Eliseu", "Eduardo Lutzer" ],
+        "Baixo" : [ "João Paulo", "Willian Modro" ]
       },
-      "timestamp" : "2026-03-27 19:17:47"
+      "timestamp" : "2026-06-06 02:59:32"
     },
     "Vocal Livre - Quem de Nós" : {
       "root" : "Eb",
