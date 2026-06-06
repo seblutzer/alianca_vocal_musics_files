@@ -121,19 +121,19 @@
    </score-instrument>
   </score-part>
   <score-part id="P2">
-   <part-name>Alto</part-name>
+   <part-name>Contralto</part-name>
    <part-name-display>
-    <display-text>Alto</display-text>
+    <display-text>Contralto</display-text>
    </part-name-display>
-   <part-abbreviation>A.</part-abbreviation>
+   <part-abbreviation>C.</part-abbreviation>
    <part-abbreviation-display>
-    <display-text>A.</display-text>
+    <display-text>C.</display-text>
    </part-abbreviation-display>
    <score-instrument id="P2-I1">
-    <instrument-name>Alto</instrument-name>
+    <instrument-name>Contralto</instrument-name>
     <virtual-instrument>
      <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Alto Ensemble</virtual-name>
+     <virtual-name>Contralto Ensemble</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -147,10 +147,10 @@
     <display-text>T.</display-text>
    </part-abbreviation-display>
    <score-instrument id="P3-I1">
-    <instrument-name>Baritone</instrument-name>
+    <instrument-name>Tenor</instrument-name>
     <virtual-instrument>
      <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Bass Ensemble</virtual-name>
+     <virtual-name>Tenor Ensemble</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -164,10 +164,10 @@
     <display-text>B.</display-text>
    </part-abbreviation-display>
    <score-instrument id="P4-I1">
-    <instrument-name>Bass (2)</instrument-name>
+    <instrument-name>Baixo</instrument-name>
     <virtual-instrument>
      <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Bass Ensemble</virtual-name>
+     <virtual-name>Baixo Ensemble</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
