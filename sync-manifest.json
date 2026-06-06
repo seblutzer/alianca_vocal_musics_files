@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T03:00:50Z",
+  "lastUpdated": "2026-06-06T03:01:29Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -21,8 +21,8 @@
     "toronto_coral_presente_la_do_ceu": {
       "author": "Toronto Coral",
       "xml": {
-        "size": 401165,
-        "hash": "f0bc56298cdb995ad56c8b7317b553a4687513198007ecc6670c644b47672844"
+        "size": 491804,
+        "hash": "3739d5809bc111822629f564e165974477c4f51a7edcd7a9175450c81a7faa05"
       },
       "audio": {
         "size": 1829994,
@@ -106,8 +106,8 @@
     "cantata_experiencia_com_deus_usa-me,_renova-me_com_tal_qual_estou": {
       "author": "Cantata Experiência com Deus",
       "xml": {
-        "size": 324512,
-        "hash": "475e4eca469e3110fa566a48217dbab5afbb3fb2805917398b7874612b9c108c"
+        "size": 258977,
+        "hash": "1db0e36a42ca8194140c6beec95423dbedbf2f5c364634a7a5d3dd0deedc8636"
       },
       "audio": {
         "size": 1583921,
