@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-06T02:59:44Z",
+  "lastUpdated": "2026-06-06T03:00:50Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
       "xml": {
-        "size": 822515,
-        "hash": "db962e0c82072670272286c2a8c28f9b27d9c4222e6bebf595d7977cadfde171"
+        "size": 1175408,
+        "hash": "6572d1092fb5853639aff04c18a2e51bcf5c8939ec4a3ff29c79abd6b079805f"
       },
       "audio": {
         "size": 2375255,
@@ -21,8 +21,8 @@
     "toronto_coral_presente_la_do_ceu": {
       "author": "Toronto Coral",
       "xml": {
-        "size": 491804,
-        "hash": "3739d5809bc111822629f564e165974477c4f51a7edcd7a9175450c81a7faa05"
+        "size": 401165,
+        "hash": "f0bc56298cdb995ad56c8b7317b553a4687513198007ecc6670c644b47672844"
       },
       "audio": {
         "size": 1829994,
