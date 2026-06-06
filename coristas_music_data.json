@@ -198,12 +198,11 @@
       "solistas" : { },
       "voices" : {
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
-        "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
-        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
-        "Baixo" : [ "Willian Modro" ],
-        "Barítono" : [ "João Paulo", "Eliseu" ]
+        "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
+        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Taty", "Douglas Madoks" ],
+        "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ]
       },
-      "timestamp" : "2026-04-12 09:48:43"
+      "timestamp" : "2026-06-06 02:46:08"
     },
     "Coral do UNASP - Vinde Benditos" : {
       "root" : "Db",
