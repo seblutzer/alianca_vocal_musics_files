@@ -244,31 +244,30 @@
       "grupo" : "Aliança Vocal",
       "ranges" : {
         "Contralto" : {
-          "min" : "Bb3",
+          "min" : "A#3",
           "max" : "C5"
         },
         "Soprano" : {
-          "min" : "Bb3",
+          "min" : "A#3",
           "max" : "C5"
         },
         "Baixo" : {
-          "min" : "Bb2",
-          "max" : "Eb4"
+          "min" : "A#2",
+          "max" : "D#4"
         },
         "Tenor" : {
-          "min" : "Bb2",
-          "max" : "Eb4"
+          "min" : "A#2",
+          "max" : "D#4"
         }
       },
       "solistas" : { },
       "voices" : {
-        "Contralto" : [ "Taty", "Manu Laurindo", "Georgia", "Dalva Lutzer", "Elisângela Modro" ],
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
-        "Baixo" : [ "Willian Modro" ],
-        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
-        "Barítono" : [ "João Paulo", "Eliseu" ]
+        "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
+        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Taty", "Douglas Madoks" ],
+        "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ]
       },
-      "timestamp" : "2026-04-03 16:24:19"
+      "timestamp" : "2026-06-06 02:41:24"
     },
     "Nova Voz - Digno é o Senhor" : {
       "root" : "F#",
