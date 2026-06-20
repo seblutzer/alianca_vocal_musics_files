@@ -633,7 +633,7 @@
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
-     <syllabic>end</syllabic>
+     <syllabic>middle</syllabic>
      <text>cei</text>
     </lyric>
    </note>
@@ -660,7 +660,7 @@
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>ta_a</text>
     </lyric>
    </note>
@@ -1005,15 +1005,34 @@
      <step>A</step>
      <octave>4</octave>
     </pitch>
-    <duration>512</duration>
+    <duration>384</duration>
     <voice>1</voice>
-    <type>half</type>
+    <type>quarter</type>
+    <dot/>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
      <syllabic>begin</syllabic>
      <text>Sal</text>
     </lyric>
+   </note>
+   <note>
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <staff>1</staff>
    </note>
    <note>
     <pitch>
@@ -1120,15 +1139,34 @@
      <step>E</step>
      <octave>4</octave>
     </pitch>
-    <duration>512</duration>
+    <duration>384</duration>
     <voice>1</voice>
-    <type>half</type>
+    <type>quarter</type>
+    <dot/>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
      <syllabic>end</syllabic>
      <text>nho</text>
     </lyric>
+   </note>
+   <note>
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <staff>1</staff>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 32 ==============-->
@@ -1818,15 +1856,34 @@
      <step>B</step>
      <octave>4</octave>
     </pitch>
-    <duration>512</duration>
+    <duration>384</duration>
     <voice>1</voice>
-    <type>half</type>
+    <type>quarter</type>
+    <dot/>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
      <syllabic>middle</syllabic>
      <text>se</text>
     </lyric>
+   </note>
+   <note>
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <staff>1</staff>
    </note>
    <note>
     <pitch>
@@ -2023,15 +2080,34 @@
      <step>E</step>
      <octave>4</octave>
     </pitch>
-    <duration>512</duration>
+    <duration>384</duration>
     <voice>1</voice>
-    <type>half</type>
+    <type>quarter</type>
+    <dot/>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
      <syllabic>end</syllabic>
      <text>nho</text>
     </lyric>
+   </note>
+   <note>
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <staff>1</staff>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 50 ==============-->
@@ -3859,7 +3935,7 @@
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
-     <syllabic>end</syllabic>
+     <syllabic>middle</syllabic>
      <text>ta_a</text>
     </lyric>
    </note>
@@ -3877,7 +3953,7 @@
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>go</text>
     </lyric>
    </note>
@@ -4162,15 +4238,35 @@
      <alter>1</alter>
      <octave>4</octave>
     </pitch>
-    <duration>512</duration>
+    <duration>384</duration>
     <voice>1</voice>
-    <type>half</type>
+    <type>quarter</type>
+    <dot/>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
      <syllabic>begin</syllabic>
      <text>Sal</text>
     </lyric>
+   </note>
+   <note>
+    <pitch>
+     <step>F</step>
+     <alter>1</alter>
+     <octave>4</octave>
+    </pitch>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <staff>1</staff>
    </note>
    <note>
     <pitch>
@@ -4259,15 +4355,35 @@
      <alter>1</alter>
      <octave>4</octave>
     </pitch>
-    <duration>512</duration>
+    <duration>384</duration>
     <voice>1</voice>
-    <type>half</type>
+    <type>quarter</type>
+    <dot/>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
      <syllabic>end</syllabic>
      <text>nho</text>
     </lyric>
+   </note>
+   <note>
+    <pitch>
+     <step>C</step>
+     <alter>1</alter>
+     <octave>4</octave>
+    </pitch>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <staff>1</staff>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 32 ==============-->
@@ -4798,15 +4914,34 @@
      <step>G</step>
      <octave>4</octave>
     </pitch>
-    <duration>512</duration>
+    <duration>384</duration>
     <voice>1</voice>
-    <type>half</type>
+    <type>quarter</type>
+    <dot/>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
      <syllabic>middle</syllabic>
      <text>se</text>
     </lyric>
+   </note>
+   <note>
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <staff>1</staff>
    </note>
    <note>
     <pitch>
@@ -4974,15 +5109,35 @@
      <alter>1</alter>
      <octave>4</octave>
     </pitch>
-    <duration>512</duration>
+    <duration>384</duration>
     <voice>1</voice>
-    <type>half</type>
+    <type>quarter</type>
+    <dot/>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
      <syllabic>end</syllabic>
      <text>nho</text>
     </lyric>
+   </note>
+   <note>
+    <pitch>
+     <step>C</step>
+     <alter>1</alter>
+     <octave>4</octave>
+    </pitch>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <staff>1</staff>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 50 ==============-->
@@ -6501,7 +6656,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
-     <syllabic>end</syllabic>
+     <syllabic>middle</syllabic>
      <text>cei</text>
     </lyric>
    </note>
@@ -6527,7 +6682,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
-     <syllabic>begin</syllabic>
+     <syllabic>middle</syllabic>
      <text>ta_a</text>
     </lyric>
    </note>
@@ -6818,15 +6973,34 @@
      <step>D</step>
      <octave>4</octave>
     </pitch>
-    <duration>512</duration>
+    <duration>384</duration>
     <voice>1</voice>
-    <type>half</type>
+    <type>quarter</type>
+    <dot/>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
      <syllabic>begin</syllabic>
      <text>Sal</text>
     </lyric>
+   </note>
+   <note>
+    <pitch>
+     <step>D</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <staff>1</staff>
    </note>
    <note>
     <pitch>
@@ -6899,15 +7073,34 @@
      <step>A</step>
      <octave>3</octave>
     </pitch>
-    <duration>512</duration>
+    <duration>384</duration>
     <voice>1</voice>
-    <type>half</type>
+    <type>quarter</type>
+    <dot/>
     <stem>up</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
      <syllabic>end</syllabic>
      <text>nho</text>
     </lyric>
+   </note>
+   <note>
+    <pitch>
+     <step>A</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <stem>up</stem>
+    <staff>1</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <staff>1</staff>
    </note>
   </measure>
   <!--============== Part: P3, Measure: 32 ==============-->
@@ -7420,15 +7613,34 @@
      <step>D</step>
      <octave>4</octave>
     </pitch>
-    <duration>512</duration>
+    <duration>384</duration>
     <voice>1</voice>
-    <type>half</type>
+    <type>quarter</type>
+    <dot/>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
      <syllabic>middle</syllabic>
      <text>se</text>
     </lyric>
+   </note>
+   <note>
+    <pitch>
+     <step>D</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <staff>1</staff>
    </note>
    <note>
     <pitch>
@@ -7580,15 +7792,34 @@
      <step>A</step>
      <octave>3</octave>
     </pitch>
-    <duration>512</duration>
+    <duration>384</duration>
     <voice>1</voice>
-    <type>half</type>
+    <type>quarter</type>
+    <dot/>
     <stem>up</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
      <syllabic>end</syllabic>
      <text>nho</text>
     </lyric>
+   </note>
+   <note>
+    <pitch>
+     <step>A</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <stem>up</stem>
+    <staff>1</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <staff>1</staff>
    </note>
   </measure>
   <!--============== Part: P3, Measure: 50 ==============-->
@@ -9350,15 +9581,34 @@
      <step>D</step>
      <octave>3</octave>
     </pitch>
-    <duration>512</duration>
+    <duration>384</duration>
     <voice>1</voice>
-    <type>half</type>
+    <type>quarter</type>
+    <dot/>
     <stem>up</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
      <syllabic>begin</syllabic>
      <text>Sal</text>
     </lyric>
+   </note>
+   <note>
+    <pitch>
+     <step>D</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <stem>up</stem>
+    <staff>1</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <staff>1</staff>
    </note>
    <note>
     <pitch>
@@ -9431,15 +9681,34 @@
      <step>A</step>
      <octave>2</octave>
     </pitch>
-    <duration>512</duration>
+    <duration>384</duration>
     <voice>1</voice>
-    <type>half</type>
+    <type>quarter</type>
+    <dot/>
     <stem>up</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
      <syllabic>end</syllabic>
      <text>nho</text>
     </lyric>
+   </note>
+   <note>
+    <pitch>
+     <step>A</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <stem>up</stem>
+    <staff>1</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <staff>1</staff>
    </note>
   </measure>
   <!--============== Part: P4, Measure: 32 ==============-->
@@ -9944,15 +10213,34 @@
      <step>G</step>
      <octave>3</octave>
     </pitch>
-    <duration>512</duration>
+    <duration>384</duration>
     <voice>1</voice>
-    <type>half</type>
+    <type>quarter</type>
+    <dot/>
     <stem>up</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
      <syllabic>middle</syllabic>
      <text>se</text>
     </lyric>
+   </note>
+   <note>
+    <pitch>
+     <step>G</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <stem>up</stem>
+    <staff>1</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <staff>1</staff>
    </note>
    <note>
     <pitch>
@@ -10091,15 +10379,34 @@
      <step>A</step>
      <octave>2</octave>
     </pitch>
-    <duration>512</duration>
+    <duration>384</duration>
     <voice>1</voice>
-    <type>half</type>
+    <type>quarter</type>
+    <dot/>
     <stem>up</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
      <syllabic>end</syllabic>
      <text>nho</text>
     </lyric>
+   </note>
+   <note>
+    <pitch>
+     <step>A</step>
+     <octave>2</octave>
+    </pitch>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <stem>up</stem>
+    <staff>1</staff>
+   </note>
+   <note>
+    <rest/>
+    <duration>64</duration>
+    <voice>1</voice>
+    <type>16th</type>
+    <staff>1</staff>
    </note>
   </measure>
   <!--============== Part: P4, Measure: 50 ==============-->
