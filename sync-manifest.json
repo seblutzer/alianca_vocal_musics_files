@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T03:02:04Z",
+  "lastUpdated": "2026-06-20T09:58:01Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -106,8 +106,8 @@
     "cantata_experiencia_com_deus_usa-me,_renova-me_com_tal_qual_estou": {
       "author": "Cantata Experiência com Deus",
       "xml": {
-        "size": 324512,
-        "hash": "475e4eca469e3110fa566a48217dbab5afbb3fb2805917398b7874612b9c108c"
+        "size": 264838,
+        "hash": "9703f3d0b5cb833484b0c8eec6846fbe971ae41ce765e89b6551125746d94843"
       },
       "audio": {
         "size": 1583921,
