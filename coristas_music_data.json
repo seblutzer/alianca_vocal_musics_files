@@ -41,6 +41,14 @@
         "vozes_recomendadas" : [ "Mezzo-soprano", "Soprano", "Contralto" ],
         "vozes_possiveis" : [ "Tenor" ]
       },
+      "Clara" : {
+        "range_min" : "G3",
+        "range_max" : "A4",
+        "voz_calculada" : "Contralto",
+        "voz_atribuida" : "Contralto",
+        "vozes_recomendadas" : [ ],
+        "vozes_possiveis" : [ "Soprano", "Mezzo-soprano", "Contralto", "Tenor", "Barítono" ]
+      },
       "Jeremias" : {
         "range_min" : "G2",
         "range_max" : "E4",
@@ -144,7 +152,8 @@
         "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Taty", "Douglas Madoks" ],
         "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ],
-        "Barítono" : [ "Jeremias" ]
+        "Barítono" : [ "Jeremias" ],
+        "Mezzo-soprano" : [ "Clara" ]
       },
       "timestamp" : "2026-06-06 02:45:27"
     },
@@ -178,7 +187,8 @@
         "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
         "Tenor" : [ "Samuel Dorta", "Taty", "Douglas Madoks", "Eduardo Lutzer" ],
         "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ],
-        "Barítono" : [ "Jeremias" ]
+        "Barítono" : [ "Jeremias" ],
+        "Mezzo-soprano" : [ "Clara" ]
       },
       "timestamp" : "2026-06-06 03:00:38"
     },
@@ -210,7 +220,8 @@
         "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Taty", "Douglas Madoks" ],
         "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ],
-        "Barítono" : [ "Jeremias" ]
+        "Barítono" : [ "Jeremias" ],
+        "Mezzo-soprano" : [ "Clara" ]
       },
       "timestamp" : "2026-06-06 02:46:08"
     },
@@ -244,7 +255,8 @@
         "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
         "Tenor" : [ "Samuel Dorta", "Taty", "Douglas Madoks", "Eduardo Lutzer" ],
         "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ],
-        "Barítono" : [ "Jeremias" ]
+        "Barítono" : [ "Jeremias" ],
+        "Mezzo-soprano" : [ "Clara" ]
       },
       "timestamp" : "2026-06-06 03:01:52"
     },
@@ -276,7 +288,8 @@
         "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Taty", "Douglas Madoks" ],
         "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ],
-        "Barítono" : [ "Jeremias" ]
+        "Barítono" : [ "Jeremias" ],
+        "Mezzo-soprano" : [ "Clara" ]
       },
       "timestamp" : "2026-06-06 02:41:24"
     },
@@ -310,7 +323,8 @@
         "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Taty", "Douglas Madoks" ],
         "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ],
-        "Barítono" : [ "Jeremias" ]
+        "Barítono" : [ "Jeremias" ],
+        "Mezzo-soprano" : [ "Clara" ]
       },
       "timestamp" : "2026-06-06 02:40:39"
     },
@@ -346,7 +360,7 @@
       },
       "solistas" : { },
       "voices" : {
-        "Soprano" : [ "Kátia Vanessa" ],
+        "Soprano" : [ "Kátia Vanessa", "Clara" ],
         "Mezzo-soprano" : [ "Taty", "Paloma" ],
         "Contralto" : [ "Miria", "Elisângela Modro", "Dalva Lutzer" ],
         "Tenor" : [ "Samuel Dorta", "Douglas Madoks", "Georgia" ],
@@ -387,7 +401,8 @@
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Baixo" : [ "Willian Modro" ],
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Douglas Madoks" ],
-        "Barítono" : [ "João Paulo", "Eliseu", "Jeremias" ]
+        "Barítono" : [ "João Paulo", "Eliseu", "Jeremias" ],
+        "Mezzo-soprano" : [ "Clara" ]
       },
       "timestamp" : "2026-04-02 23:07:15"
     },
@@ -419,7 +434,8 @@
         "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
         "Tenor" : [ "Samuel Dorta", "Taty", "Douglas Madoks", "Eduardo Lutzer" ],
         "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ],
-        "Barítono" : [ "Jeremias" ]
+        "Barítono" : [ "Jeremias" ],
+        "Mezzo-soprano" : [ "Clara" ]
       },
       "timestamp" : "2026-06-20 09:57:48"
     },
@@ -454,7 +470,8 @@
         "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
         "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Taty", "Douglas Madoks" ],
         "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ],
-        "Barítono" : [ "Jeremias" ]
+        "Barítono" : [ "Jeremias" ],
+        "Mezzo-soprano" : [ "Clara" ]
       },
       "timestamp" : "2026-06-04 05:28:28"
     }
