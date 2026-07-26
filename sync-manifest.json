@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T05:05:58Z",
+  "lastUpdated": "2026-07-26T06:31:18Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -72,8 +72,8 @@
     "prisma_brasil_meu_lar": {
       "author": "Prisma Brasil",
       "xml": {
-        "size": 632252,
-        "hash": "eb683da6fbaa560072bd70e25cd71d76d7207aaa58ced267d7c9e7749abfe9e1"
+        "size": 632145,
+        "hash": "af2b4d242e2347c45404d150dc8217041f7047e02861f284c2161a7ab22d431b"
       },
       "audio": {
         "size": 2332508,
