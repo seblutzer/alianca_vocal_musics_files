@@ -15208,9 +15208,6 @@
   </measure>
   <!--============== Part: P3, Measure: 16 ==============-->
   <measure number="16" width="229">
-   <backup>
-    <duration>1024</duration>
-   </backup>
    <note>
     <pitch>
      <step>C</step>
@@ -21558,7 +21555,6 @@
      <octave>3</octave>
     </pitch>
     <duration>128</duration>
-    <tie type="start"/>
     <voice>1</voice>
     <type>eighth</type>
     <stem>up</stem>
@@ -21583,7 +21579,6 @@
      <octave>3</octave>
     </pitch>
     <duration>384</duration>
-    <tie type="stop"/>
     <voice>1</voice>
     <type>quarter</type>
     <dot/>
