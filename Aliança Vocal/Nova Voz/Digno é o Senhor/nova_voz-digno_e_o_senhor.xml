@@ -5779,6 +5779,14 @@
   </measure>
   <!--============== Part: P1, Measure: 102 ==============-->
   <measure number="102" width="111">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>59.0</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note>
     <rest/>
     <duration>1024</duration>
@@ -5789,6 +5797,14 @@
   </measure>
   <!--============== Part: P1, Measure: 103 ==============-->
   <measure number="103" width="111">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>60.0</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note>
     <rest/>
     <duration>1024</duration>
