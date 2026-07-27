@@ -45,7 +45,7 @@
         "range_min" : "G3",
         "range_max" : "A4",
         "voz_calculada" : "Contralto",
-        "voz_atribuida" : "Mezzo-soprano",
+        "voz_atribuida" : "Soprano",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Soprano", "Mezzo-soprano", "Contralto", "Tenor", "Barítono" ]
       },
@@ -53,7 +53,7 @@
         "range_min" : "G2",
         "range_max" : "E4",
         "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Barítono",
+        "voz_atribuida" : "Baixo",
         "vozes_recomendadas" : [ "Barítono" ],
         "vozes_possiveis" : [ "Tenor", "Baixo" ]
       },
@@ -282,14 +282,12 @@
       },
       "solistas" : { },
       "voices" : {
-        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
+        "Soprano" : [ "Clara", "Kátia Vanessa", "Paloma" ],
         "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
-        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Taty", "Douglas Madoks" ],
-        "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ],
-        "Barítono" : [ "Jeremias" ],
-        "Mezzo-soprano" : [ "Clara" ]
+        "Tenor" : [ "Samuel Dorta", "Taty", "Douglas Madoks", "Eduardo Lutzer" ],
+        "Baixo" : [ "Eliseu", "Jeremias", "João Paulo", "Willian Modro" ]
       },
-      "timestamp" : "2026-06-06 02:41:24"
+      "timestamp" : "2026-07-27 08:39:50"
     },
     "Nova Voz - Digno é o Senhor" : {
       "root" : "F#",
