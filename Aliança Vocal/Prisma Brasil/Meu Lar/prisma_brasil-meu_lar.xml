@@ -7293,6 +7293,14 @@
    <barline>
     <bar-style>light-heavy</bar-style>
    </barline>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>61.7</per-minute>
+     </metronome>
+    </direction-type>
+   </direction>
    <note>
     <rest/>
     <duration>1024</duration>
