@@ -45,7 +45,7 @@
         "range_min" : "G3",
         "range_max" : "A4",
         "voz_calculada" : "Contralto",
-        "voz_atribuida" : "Mezzo-soprano",
+        "voz_atribuida" : "Soprano",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Soprano", "Mezzo-soprano", "Contralto", "Tenor", "Barítono" ]
       },
@@ -53,7 +53,7 @@
         "range_min" : "G2",
         "range_max" : "E4",
         "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Barítono",
+        "voz_atribuida" : "Baixo",
         "vozes_recomendadas" : [ "Barítono" ],
         "vozes_possiveis" : [ "Tenor", "Baixo" ]
       },
@@ -221,7 +221,7 @@
         "Tenor" : [ "Samuel Dorta", "Taty", "Douglas Madoks", "Eduardo Lutzer" ],
         "Baixo" : [ "Eliseu", "Jeremias", "João Paulo", "Willian Modro" ]
       },
-      "timestamp" : "2026-07-27 08:35:04"
+      "timestamp" : "2026-07-27 16:10:28"
     },
     "Coral do UNASP - Vinde Benditos" : {
       "root" : "Db",
