@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-27T16:26:17Z",
+  "lastUpdated": "2026-07-27T16:27:23Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
       "xml": {
-        "size": 833404,
-        "hash": "aab8a44c1fb44fa2a4c1890ff2dd5f36de35707344462a218c7f81317fed8dfe"
+        "size": 1175408,
+        "hash": "6572d1092fb5853639aff04c18a2e51bcf5c8939ec4a3ff29c79abd6b079805f"
       },
       "audio": {
         "size": 2375255,
@@ -21,8 +21,8 @@
     "toronto_coral_presente_la_do_ceu": {
       "author": "Toronto Coral",
       "xml": {
-        "size": 491804,
-        "hash": "3739d5809bc111822629f564e165974477c4f51a7edcd7a9175450c81a7faa05"
+        "size": 401373,
+        "hash": "4411771b55fbcb2afcd972a04ccfdb86bdef3213ebbd0e1cc9fdf56151aaec12"
       },
       "audio": {
         "size": 1829994,
@@ -31,7 +31,7 @@
       },
       "musicName": "Presente Lá do Céu",
       "properties": {
-        "realDurationMin": "3.4080",
+        "realDurationMin": "3.4090",
         "offsetSeconds": "0.30"
       }
     },
