@@ -45,7 +45,7 @@
         "range_min" : "G3",
         "range_max" : "A4",
         "voz_calculada" : "Contralto",
-        "voz_atribuida" : "Mezzo-soprano",
+        "voz_atribuida" : "Soprano",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Soprano", "Mezzo-soprano", "Contralto", "Tenor", "Barítono" ]
       },
@@ -53,7 +53,7 @@
         "range_min" : "G2",
         "range_max" : "E4",
         "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Barítono",
+        "voz_atribuida" : "Baixo",
         "vozes_recomendadas" : [ "Barítono" ],
         "vozes_possiveis" : [ "Tenor", "Baixo" ]
       },
@@ -318,7 +318,7 @@
         "Tenor" : [ "Samuel Dorta", "Taty", "Douglas Madoks", "Eduardo Lutzer" ],
         "Baixo" : [ "Eliseu", "Jeremias", "João Paulo", "Willian Modro" ]
       },
-      "timestamp" : "2026-07-27 16:09:48"
+      "timestamp" : "2026-07-27 16:51:19"
     },
     "Som e Louvor - O Lírio Ressurgiu" : {
       "root" : "E",
