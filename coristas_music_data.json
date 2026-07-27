@@ -148,14 +148,12 @@
       },
       "solistas" : { },
       "voices" : {
-        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
+        "Soprano" : [ "Clara", "Kátia Vanessa", "Paloma" ],
         "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
-        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Taty", "Douglas Madoks" ],
-        "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ],
-        "Barítono" : [ "Jeremias" ],
-        "Mezzo-soprano" : [ "Clara" ]
+        "Tenor" : [ "Samuel Dorta", "Taty", "Douglas Madoks", "Eduardo Lutzer" ],
+        "Baixo" : [ "Eliseu", "Jeremias", "João Paulo", "Willian Modro" ]
       },
-      "timestamp" : "2026-06-06 02:45:27"
+      "timestamp" : "2026-07-27 15:49:49"
     },
     "Toronto Coral - Presente Lá do Céu" : {
       "root" : "D",
@@ -462,12 +460,14 @@
         "Douglas Madoks" : [ "D3", "G4" ]
       },
       "voices" : {
-        "Soprano" : [ "Clara", "Kátia Vanessa", "Paloma" ],
+        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
-        "Tenor" : [ "Samuel Dorta", "Taty", "Douglas Madoks", "Eduardo Lutzer" ],
-        "Baixo" : [ "Eliseu", "Jeremias", "João Paulo", "Willian Modro" ]
+        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Taty", "Douglas Madoks" ],
+        "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ],
+        "Barítono" : [ "Jeremias" ],
+        "Mezzo-soprano" : [ "Clara" ]
       },
-      "timestamp" : "2026-07-27 15:42:07"
+      "timestamp" : "2026-06-04 05:28:28"
     }
   }
 }
