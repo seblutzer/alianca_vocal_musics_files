@@ -21,7 +21,7 @@
         "range_min" : "G2",
         "range_max" : "G3",
         "voz_calculada" : "Baixo",
-        "voz_atribuida" : "Baixo",
+        "voz_atribuida" : "Barítono",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Tenor", "Barítono", "Baixo" ]
       },
@@ -37,7 +37,7 @@
         "range_min" : "F3",
         "range_max" : "A5",
         "voz_calculada" : "Mezzo-soprano",
-        "voz_atribuida" : "Soprano",
+        "voz_atribuida" : "Contralto",
         "vozes_recomendadas" : [ "Mezzo-soprano", "Soprano", "Contralto" ],
         "vozes_possiveis" : [ "Tenor" ]
       },
@@ -53,7 +53,7 @@
         "range_min" : "G2",
         "range_max" : "E4",
         "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Baixo",
+        "voz_atribuida" : "Barítono",
         "vozes_recomendadas" : [ "Barítono" ],
         "vozes_possiveis" : [ "Tenor", "Baixo" ]
       },
@@ -61,7 +61,7 @@
         "range_min" : "F3",
         "range_max" : "F5",
         "voz_calculada" : "Mezzo-soprano",
-        "voz_atribuida" : "Contralto",
+        "voz_atribuida" : "Mezzo-soprano",
         "vozes_recomendadas" : [ "Mezzo-soprano", "Contralto" ],
         "vozes_possiveis" : [ "Soprano", "Tenor" ]
       },
@@ -85,7 +85,7 @@
         "range_min" : "F2",
         "range_max" : "D5",
         "voz_calculada" : "Tenor",
-        "voz_atribuida" : "Tenor",
+        "voz_atribuida" : "Barítono",
         "vozes_recomendadas" : [ "Tenor", "Barítono", "Contralto" ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Baixo" ]
       },
@@ -93,7 +93,7 @@
         "range_min" : "F3",
         "range_max" : "F#4",
         "voz_calculada" : "Tenor",
-        "voz_atribuida" : "Tenor",
+        "voz_atribuida" : "Mezzo-soprano",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Contralto", "Tenor", "Barítono" ]
       },
@@ -109,7 +109,7 @@
         "range_min" : "E3",
         "range_max" : "A#4",
         "voz_calculada" : "Contralto",
-        "voz_atribuida" : "Contralto",
+        "voz_atribuida" : "Mezzo-soprano",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Contralto", "Tenor" ]
       },
@@ -354,14 +354,14 @@
       },
       "solistas" : { },
       "voices" : {
-        "Soprano" : [ "Kátia Vanessa", "Clara" ],
-        "Mezzo-soprano" : [ "Taty", "Paloma" ],
-        "Contralto" : [ "Miria", "Elisângela Modro", "Dalva Lutzer" ],
-        "Tenor" : [ "Samuel Dorta", "Douglas Madoks", "Georgia" ],
-        "Barítono" : [ "Eliseu", "Eduardo Lutzer", "Jeremias" ],
+        "Soprano" : [ "Clara", "Kátia Vanessa" ],
+        "Mezzo-soprano" : [ "Taty", "Georgia", "Dalva Lutzer" ],
+        "Contralto" : [ "Miria", "Elisângela Modro", "Paloma" ],
+        "Tenor" : [ "Samuel Dorta", "Douglas Madoks" ],
+        "Barítono" : [ "Eliseu", "Jeremias", "Eduardo Lutzer" ],
         "Baixo" : [ "João Paulo", "Willian Modro" ]
       },
-      "timestamp" : "2026-06-06 02:59:32"
+      "timestamp" : "2026-07-27 16:25:49"
     },
     "Vocal Livre - Quem de Nós" : {
       "root" : "Eb",
