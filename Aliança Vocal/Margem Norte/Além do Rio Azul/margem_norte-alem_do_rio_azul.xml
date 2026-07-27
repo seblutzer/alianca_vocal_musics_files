@@ -103,15 +103,15 @@
    <part-name-display>
     <display-text>Solo Feminino</display-text>
    </part-name-display>
-   <part-abbreviation>Solo F.</part-abbreviation>
+   <part-abbreviation>S.</part-abbreviation>
    <part-abbreviation-display>
-    <display-text>Solo F.</display-text>
+    <display-text>S.</display-text>
    </part-abbreviation-display>
    <score-instrument id="P1-I1">
-    <instrument-name>Solo Treble</instrument-name>
+    <instrument-name>Solo Feminino</instrument-name>
     <virtual-instrument>
      <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Solo Treble</virtual-name>
+     <virtual-name>Solo Feminino Ensemble</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -120,15 +120,15 @@
    <part-name-display>
     <display-text>Solo Masculino</display-text>
    </part-name-display>
-   <part-abbreviation>Solo M.</part-abbreviation>
+   <part-abbreviation>S.</part-abbreviation>
    <part-abbreviation-display>
-    <display-text>Solo M.</display-text>
+    <display-text>S.</display-text>
    </part-abbreviation-display>
    <score-instrument id="P2-I1">
-    <instrument-name>Solo Baritone</instrument-name>
+    <instrument-name>Solo Masculino</instrument-name>
     <virtual-instrument>
      <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Solo Baritone</virtual-name>
+     <virtual-name>Solo Masculino Ensemble</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -142,10 +142,10 @@
     <display-text>S.</display-text>
    </part-abbreviation-display>
    <score-instrument id="P3-I1">
-    <instrument-name>Treble</instrument-name>
+    <instrument-name>Soprano</instrument-name>
     <virtual-instrument>
      <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Treble Ensemble</virtual-name>
+     <virtual-name>Soprano Ensemble</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -159,10 +159,10 @@
     <display-text>C.</display-text>
    </part-abbreviation-display>
    <score-instrument id="P4-I1">
-    <instrument-name>Alto</instrument-name>
+    <instrument-name>Contralto</instrument-name>
     <virtual-instrument>
      <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Alto Ensemble</virtual-name>
+     <virtual-name>Contralto Ensemble</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -176,10 +176,10 @@
     <display-text>T.</display-text>
    </part-abbreviation-display>
    <score-instrument id="P5-I1">
-    <instrument-name>Baritone</instrument-name>
+    <instrument-name>Tenor</instrument-name>
     <virtual-instrument>
      <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Bass Ensemble</virtual-name>
+     <virtual-name>Tenor Ensemble</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -193,10 +193,10 @@
     <display-text>B.</display-text>
    </part-abbreviation-display>
    <score-instrument id="P6-I1">
-    <instrument-name>Bass (2)</instrument-name>
+    <instrument-name>Baixo</instrument-name>
     <virtual-instrument>
      <virtual-library>General MIDI</virtual-library>
-     <virtual-name>Bass Ensemble</virtual-name>
+     <virtual-name>Baixo Ensemble</virtual-name>
     </virtual-instrument>
    </score-instrument>
   </score-part>
@@ -5133,7 +5133,7 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>64.0</per-minute>
+      <per-minute>64.3</per-minute>
      </metronome>
     </direction-type>
    </direction>
