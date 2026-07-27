@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T15:50:03Z",
+  "lastUpdated": "2026-07-27T16:10:02Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -140,8 +140,8 @@
     "nova_voz_digno_e_o_senhor": {
       "author": "Nova Voz",
       "xml": {
-        "size": 854503,
-        "hash": "9b70538600e22b5491be46ef0f90c5db1b5118fdd818f78304c897206b1a2d95"
+        "size": 604047,
+        "hash": "990d3dd25bc205a5a88546c9ff4b199752c45e2ef5409f62f575495456e69105"
       },
       "audio": {
         "size": 2652757,
@@ -150,7 +150,7 @@
       },
       "musicName": "Digno é o Senhor",
       "properties": {
-        "realDurationMin": "5.0620",
+        "realDurationMin": "5.0628",
         "offsetSeconds": "2.05"
       }
     },
