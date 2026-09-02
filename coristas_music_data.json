@@ -477,6 +477,37 @@
         "Mezzo-soprano" : [ "Jéssica de Lima" ]
       },
       "timestamp" : "2026-07-27 15:42:07"
+    },
+    "Nova Voz - Enquanto Eu Viver" : {
+      "root" : "D",
+      "mode" : "major",
+      "grupo" : "Aliança Vocal",
+      "ranges" : {
+        "Contralto" : {
+          "min" : "G3",
+          "max" : "C#5"
+        },
+        "Soprano" : {
+          "min" : "B3",
+          "max" : "D#5"
+        },
+        "Baixo" : {
+          "min" : "C3",
+          "max" : "A#4"
+        },
+        "Tenor" : {
+          "min" : "C3",
+          "max" : "A#4"
+        }
+      },
+      "solistas" : { },
+      "voices" : {
+        "Soprano" : [ "Clara", "Kátia Vanessa", "Paloma" ],
+        "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia", "Eduardo Lutzer" ],
+        "Tenor" : [ "Samuel Dorta", "Jéssica de Lima", "Taty", "Douglas Madoks" ],
+        "Baixo" : [ "Eliseu", "Jeremias", "João Paulo", "Willian Modro" ]
+      },
+      "timestamp" : "2026-09-02 13:08:20"
     }
   }
 }
