@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T13:42:36Z",
+  "lastUpdated": "2026-09-02T14:45:18Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -33,6 +33,23 @@
       "properties": {
         "realDurationMin": "3.4090",
         "offsetSeconds": "0.30"
+      }
+    },
+    "michael_smith_agnus_dei": {
+      "author": "Michael Smith",
+      "xml": {
+        "size": 502903,
+        "hash": "d6797896705691cc162ebcb391c753740b774a63ae59bc5f8fb7b7fc78862119"
+      },
+      "audio": {
+        "size": 2640763,
+        "format": "opus",
+        "hash": "e5ad1b9494d3d83205a24080c37e1d9906aee1925e2296636f0f0c71b8064d02"
+      },
+      "musicName": "Agnus Dei",
+      "properties": {
+        "realDurationMin": "0.0000",
+        "offsetSeconds": "4.00"
       }
     },
     "coral_do_unasp_vinde_benditos": {
