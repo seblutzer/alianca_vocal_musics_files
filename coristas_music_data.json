@@ -45,7 +45,7 @@
         "range_min" : "G3",
         "range_max" : "A4",
         "voz_calculada" : "Contralto",
-        "voz_atribuida" : "Soprano",
+        "voz_atribuida" : "Mezzo-soprano",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Soprano", "Mezzo-soprano", "Contralto", "Tenor", "Barítono" ]
       },
@@ -53,7 +53,7 @@
         "range_min" : "G2",
         "range_max" : "E4",
         "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Baixo",
+        "voz_atribuida" : "Barítono",
         "vozes_recomendadas" : [ "Barítono" ],
         "vozes_possiveis" : [ "Tenor", "Baixo" ]
       },
@@ -85,7 +85,7 @@
         "range_min" : "E3",
         "range_max" : "A4",
         "voz_calculada" : "Contralto",
-        "voz_atribuida" : "Tenor",
+        "voz_atribuida" : "Mezzo-soprano",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Contralto", "Tenor", "Barítono" ]
       },
@@ -93,7 +93,7 @@
         "range_min" : "F2",
         "range_max" : "D5",
         "voz_calculada" : "Tenor",
-        "voz_atribuida" : "Contralto",
+        "voz_atribuida" : "Tenor",
         "vozes_recomendadas" : [ "Tenor", "Barítono", "Contralto" ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Baixo" ]
       },
@@ -191,13 +191,14 @@
         "Paloma" : [ "F#3", "G#4" ]
       },
       "voices" : {
-        "Soprano" : [ "Clara", "Kátia Vanessa", "Paloma" ],
+        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
         "Tenor" : [ "Samuel Dorta", "Taty", "Douglas Madoks", "Eduardo Lutzer" ],
-        "Baixo" : [ "Eliseu", "Jeremias", "João Paulo", "Willian Modro" ],
-        "Mezzo-soprano" : [ "Jéssica de Lima" ]
+        "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ],
+        "Barítono" : [ "Jeremias" ],
+        "Mezzo-soprano" : [ "Clara", "Jéssica de Lima" ]
       },
-      "timestamp" : "2026-07-27 16:27:10"
+      "timestamp" : "2026-06-06 03:00:38"
     },
     "Prisma Brasil - Meu Lar" : {
       "root" : "C#",
@@ -223,13 +224,14 @@
       },
       "solistas" : { },
       "voices" : {
-        "Soprano" : [ "Clara", "Kátia Vanessa", "Paloma" ],
+        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
-        "Tenor" : [ "Samuel Dorta", "Taty", "Douglas Madoks", "Eduardo Lutzer" ],
-        "Baixo" : [ "Eliseu", "Jeremias", "João Paulo", "Willian Modro" ],
-        "Mezzo-soprano" : [ "Jéssica de Lima" ]
+        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Taty", "Douglas Madoks" ],
+        "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ],
+        "Barítono" : [ "Jeremias" ],
+        "Mezzo-soprano" : [ "Clara", "Jéssica de Lima" ]
       },
-      "timestamp" : "2026-07-27 16:10:28"
+      "timestamp" : "2026-06-06 02:46:08"
     },
     "Coral do UNASP - Vinde Benditos" : {
       "root" : "Db",
@@ -290,13 +292,14 @@
       },
       "solistas" : { },
       "voices" : {
-        "Soprano" : [ "Clara", "Kátia Vanessa", "Paloma" ],
+        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
-        "Tenor" : [ "Samuel Dorta", "Taty", "Douglas Madoks", "Eduardo Lutzer" ],
-        "Baixo" : [ "Eliseu", "Jeremias", "João Paulo", "Willian Modro" ],
-        "Mezzo-soprano" : [ "Jéssica de Lima" ]
+        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Taty", "Douglas Madoks" ],
+        "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ],
+        "Barítono" : [ "Jeremias" ],
+        "Mezzo-soprano" : [ "Clara", "Jéssica de Lima" ]
       },
-      "timestamp" : "2026-07-27 08:39:50"
+      "timestamp" : "2026-06-06 02:41:24"
     },
     "Nova Voz - Digno é o Senhor" : {
       "root" : "F#",
@@ -324,13 +327,14 @@
         "Dalva Lutzer" : [ "F3", "C5" ]
       },
       "voices" : {
-        "Soprano" : [ "Clara", "Kátia Vanessa", "Paloma" ],
+        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
-        "Tenor" : [ "Samuel Dorta", "Taty", "Douglas Madoks", "Eduardo Lutzer" ],
-        "Baixo" : [ "Eliseu", "Jeremias", "João Paulo", "Willian Modro" ],
-        "Mezzo-soprano" : [ "Jéssica de Lima" ]
+        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Taty", "Douglas Madoks" ],
+        "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ],
+        "Barítono" : [ "Jeremias" ],
+        "Mezzo-soprano" : [ "Clara", "Jéssica de Lima" ]
       },
-      "timestamp" : "2026-07-27 16:51:19"
+      "timestamp" : "2026-06-06 02:40:39"
     },
     "Som e Louvor - O Lírio Ressurgiu" : {
       "root" : "E",
@@ -364,14 +368,14 @@
       },
       "solistas" : { },
       "voices" : {
-        "Soprano" : [ "Clara", "Kátia Vanessa" ],
-        "Mezzo-soprano" : [ "Taty", "Georgia", "Dalva Lutzer" ],
-        "Contralto" : [ "Miria", "Elisângela Modro", "Paloma" ],
-        "Tenor" : [ "Samuel Dorta", "Douglas Madoks", "Jéssica de Lima" ],
-        "Barítono" : [ "Eliseu", "Jeremias", "Eduardo Lutzer" ],
+        "Soprano" : [ "Kátia Vanessa", "Clara" ],
+        "Mezzo-soprano" : [ "Taty", "Paloma", "Jéssica de Lima" ],
+        "Contralto" : [ "Miria", "Elisângela Modro", "Dalva Lutzer" ],
+        "Tenor" : [ "Samuel Dorta", "Douglas Madoks", "Georgia" ],
+        "Barítono" : [ "Eliseu", "Eduardo Lutzer", "Jeremias" ],
         "Baixo" : [ "João Paulo", "Willian Modro" ]
       },
-      "timestamp" : "2026-07-27 16:25:49"
+      "timestamp" : "2026-06-06 02:59:32"
     },
     "Vocal Livre - Quem de Nós" : {
       "root" : "Eb",
@@ -470,13 +474,14 @@
         "Douglas Madoks" : [ "D3", "G4" ]
       },
       "voices" : {
-        "Soprano" : [ "Clara", "Kátia Vanessa", "Paloma" ],
+        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
-        "Tenor" : [ "Samuel Dorta", "Taty", "Douglas Madoks", "Eduardo Lutzer" ],
-        "Baixo" : [ "Eliseu", "Jeremias", "João Paulo", "Willian Modro" ],
-        "Mezzo-soprano" : [ "Jéssica de Lima" ]
+        "Tenor" : [ "Samuel Dorta", "Eduardo Lutzer", "Taty", "Douglas Madoks" ],
+        "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ],
+        "Barítono" : [ "Jeremias" ],
+        "Mezzo-soprano" : [ "Clara", "Jéssica de Lima" ]
       },
-      "timestamp" : "2026-07-27 15:42:07"
+      "timestamp" : "2026-06-04 05:28:28"
     },
     "Nova Voz - Enquanto Eu Viver" : {
       "root" : "D",
@@ -507,7 +512,38 @@
         "Tenor" : [ "Samuel Dorta", "Jéssica de Lima", "Taty", "Douglas Madoks" ],
         "Baixo" : [ "Eliseu", "Jeremias", "João Paulo", "Willian Modro" ]
       },
-      "timestamp" : "2026-09-02 13:42:21"
+      "timestamp" : "2026-09-02 14:34:58"
+    },
+    "Michael Smith - Agnus Dei" : {
+      "root" : "B",
+      "mode" : "major",
+      "grupo" : "Aliança Vocal",
+      "ranges" : {
+        "Contralto" : {
+          "min" : "G3",
+          "max" : "B4"
+        },
+        "Soprano" : {
+          "min" : "B3",
+          "max" : "C5"
+        },
+        "Baixo" : {
+          "min" : "C3",
+          "max" : "C4"
+        },
+        "Tenor" : {
+          "min" : "C3",
+          "max" : "C4"
+        }
+      },
+      "solistas" : { },
+      "voices" : {
+        "Soprano" : [ "Clara", "Kátia Vanessa", "Paloma" ],
+        "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia", "Eduardo Lutzer" ],
+        "Tenor" : [ "Samuel Dorta", "Jéssica de Lima", "Taty", "Douglas Madoks" ],
+        "Baixo" : [ "Eliseu", "Jeremias", "João Paulo", "Willian Modro" ]
+      },
+      "timestamp" : "2026-09-02 14:45:06"
     }
   }
 }
