@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T13:08:38Z",
+  "lastUpdated": "2026-09-02T13:42:36Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -157,8 +157,8 @@
     "nova_voz_enquanto_eu_viver": {
       "author": "Nova Voz",
       "xml": {
-        "size": 618735,
-        "hash": "f89e52858997660a239ea57054e5c63b44fd002fc3603641299ba6c6f73ba4c1"
+        "size": 623825,
+        "hash": "e4d9fa3f9f2ba77ce6d56268688c3b47a423eb20d22c2e3b48d6d1845546d730"
       },
       "audio": {
         "size": 2645469,
@@ -167,8 +167,8 @@
       },
       "musicName": "Enquanto Eu Viver",
       "properties": {
-        "realDurationMin": "4.7849",
-        "offsetSeconds": "3.05"
+        "realDurationMin": "4.7852",
+        "offsetSeconds": "3.16"
       }
     },
     "adoradores_4_levanto_a_cruz": {
