@@ -85,7 +85,7 @@
         "range_min" : "E3",
         "range_max" : "A4",
         "voz_calculada" : "Contralto",
-        "voz_atribuida" : "Contralto",
+        "voz_atribuida" : "Tenor",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Contralto", "Tenor", "Barítono" ]
       },
@@ -93,7 +93,7 @@
         "range_min" : "F2",
         "range_max" : "D5",
         "voz_calculada" : "Tenor",
-        "voz_atribuida" : "Tenor",
+        "voz_atribuida" : "Contralto",
         "vozes_recomendadas" : [ "Tenor", "Barítono", "Contralto" ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Baixo" ]
       },
@@ -507,7 +507,7 @@
         "Tenor" : [ "Samuel Dorta", "Jéssica de Lima", "Taty", "Douglas Madoks" ],
         "Baixo" : [ "Eliseu", "Jeremias", "João Paulo", "Willian Modro" ]
       },
-      "timestamp" : "2026-09-02 13:08:20"
+      "timestamp" : "2026-09-02 13:42:21"
     }
   }
 }
