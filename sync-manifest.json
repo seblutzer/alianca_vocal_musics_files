@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T19:32:06Z",
+  "lastUpdated": "2026-09-03T18:40:05Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -38,8 +38,8 @@
     "michael_smith_agnus_dei": {
       "author": "Michael Smith",
       "xml": {
-        "size": 369665,
-        "hash": "06c61c1ef1d0cd1e14ef2b96ef05fc550189f04676541eb293f1f1857f8cea84"
+        "size": 376072,
+        "hash": "0c8eb4b4aa325714bbfb20d360532913c9ccddf19f5c110f8f8a658c90d71fe2"
       },
       "audio": {
         "size": 1913680,
