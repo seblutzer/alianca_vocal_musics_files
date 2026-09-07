@@ -544,6 +544,37 @@
         "Baixo" : [ "Eliseu", "Jeremias", "João Paulo", "Willian Modro" ]
       },
       "timestamp" : "2026-09-07 06:49:26"
+    },
+    "Steve Green - Abraça a Cruz" : {
+      "root" : "Bb",
+      "mode" : "major",
+      "grupo" : "Aliança Vocal",
+      "ranges" : {
+        "Contralto" : {
+          "min" : "D4",
+          "max" : "A5"
+        },
+        "Soprano" : {
+          "min" : "D4",
+          "max" : "A5"
+        },
+        "Baixo" : {
+          "min" : "F#2",
+          "max" : "F#4"
+        },
+        "Tenor" : {
+          "min" : "F#2",
+          "max" : "F#4"
+        }
+      },
+      "solistas" : { },
+      "voices" : {
+        "Soprano" : [ "Clara", "Kátia Vanessa", "Paloma" ],
+        "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia", "Eduardo Lutzer" ],
+        "Tenor" : [ "Samuel Dorta", "Jéssica de Lima", "Taty", "Douglas Madoks" ],
+        "Baixo" : [ "Eliseu", "Jeremias", "João Paulo", "Willian Modro" ]
+      },
+      "timestamp" : "2026-09-07 09:00:32"
     }
   }
 }
