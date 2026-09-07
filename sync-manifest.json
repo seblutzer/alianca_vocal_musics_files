@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T06:49:39Z",
+  "lastUpdated": "2026-09-07T09:00:50Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -33,40 +33,6 @@
       "properties": {
         "realDurationMin": "3.4090",
         "offsetSeconds": "0.30"
-      }
-    },
-    "michael_smith_agnus_dei": {
-      "author": "Michael Smith",
-      "xml": {
-        "size": 370295,
-        "hash": "e2930e64e4cfcfd2d9a9394a85df9b28671002313ece886d928c608b208f045c"
-      },
-      "audio": {
-        "size": 1913680,
-        "format": "opus",
-        "hash": "1dfdbc22e4bf47c975fa919c2817b92d2ee11c3c765d010c765720cb3206a560"
-      },
-      "musicName": "Agnus Dei",
-      "properties": {
-        "realDurationMin": "3.7061",
-        "offsetSeconds": "0.75"
-      }
-    },
-    "coral_do_unasp_vinde_benditos": {
-      "author": "Coral do UNASP",
-      "xml": {
-        "size": 436114,
-        "hash": "da578e4c90ea039939d56fb5320dcb6cb477d603ae5c3e85029fe1f6df3b8430"
-      },
-      "audio": {
-        "size": 2068994,
-        "format": "opus",
-        "hash": "f9097d6c17efb3202a74e374034d3c9ff4b196627f04342b579a5bcf42d85f93"
-      },
-      "musicName": "Vinde Benditos",
-      "properties": {
-        "realDurationMin": "4.0098",
-        "offsetSeconds": "0.28"
       }
     },
     "margem_norte_alem_do_rio_azul": {
@@ -120,6 +86,74 @@
         "offsetSeconds": "3.20"
       }
     },
+    "nova_voz_enquanto_eu_viver": {
+      "author": "Nova Voz",
+      "xml": {
+        "size": 623825,
+        "hash": "e4d9fa3f9f2ba77ce6d56268688c3b47a423eb20d22c2e3b48d6d1845546d730"
+      },
+      "audio": {
+        "size": 2645469,
+        "format": "opus",
+        "hash": "1750f3f5b09977a36fdd673ca7ad80916908588b09cbcb6607b638b2e05e3505"
+      },
+      "musicName": "Enquanto Eu Viver",
+      "properties": {
+        "realDurationMin": "4.7852",
+        "offsetSeconds": "3.16"
+      }
+    },
+    "steve_green_abraca_a_cruz": {
+      "author": "Steve Green",
+      "xml": {
+        "size": 193410,
+        "hash": "c91bfac2380b0023d0c7f3c9b032cd4bc1e5628573b5318b20451e3d62d65747"
+      },
+      "audio": {
+        "size": 1612645,
+        "format": "opus",
+        "hash": "b1a58ec1efa26adf222751240aa5a1397d8e24ab99b8b00bb27921849c74d187"
+      },
+      "musicName": "Abraça a Cruz",
+      "properties": {
+        "realDurationMin": "0.0000",
+        "offsetSeconds": "0.00"
+      }
+    },
+    "michael_smith_agnus_dei": {
+      "author": "Michael Smith",
+      "xml": {
+        "size": 370295,
+        "hash": "e2930e64e4cfcfd2d9a9394a85df9b28671002313ece886d928c608b208f045c"
+      },
+      "audio": {
+        "size": 1913680,
+        "format": "opus",
+        "hash": "1dfdbc22e4bf47c975fa919c2817b92d2ee11c3c765d010c765720cb3206a560"
+      },
+      "musicName": "Agnus Dei",
+      "properties": {
+        "realDurationMin": "3.7061",
+        "offsetSeconds": "0.75"
+      }
+    },
+    "coral_do_unasp_vinde_benditos": {
+      "author": "Coral do UNASP",
+      "xml": {
+        "size": 436114,
+        "hash": "da578e4c90ea039939d56fb5320dcb6cb477d603ae5c3e85029fe1f6df3b8430"
+      },
+      "audio": {
+        "size": 2068994,
+        "format": "opus",
+        "hash": "f9097d6c17efb3202a74e374034d3c9ff4b196627f04342b579a5bcf42d85f93"
+      },
+      "musicName": "Vinde Benditos",
+      "properties": {
+        "realDurationMin": "4.0098",
+        "offsetSeconds": "0.28"
+      }
+    },
     "cantata_experiencia_com_deus_usa-me,_renova-me_com_tal_qual_estou": {
       "author": "Cantata Experiência com Deus",
       "xml": {
@@ -169,23 +203,6 @@
       "properties": {
         "realDurationMin": "5.0602",
         "offsetSeconds": "2.05"
-      }
-    },
-    "nova_voz_enquanto_eu_viver": {
-      "author": "Nova Voz",
-      "xml": {
-        "size": 623825,
-        "hash": "e4d9fa3f9f2ba77ce6d56268688c3b47a423eb20d22c2e3b48d6d1845546d730"
-      },
-      "audio": {
-        "size": 2645469,
-        "format": "opus",
-        "hash": "1750f3f5b09977a36fdd673ca7ad80916908588b09cbcb6607b638b2e05e3505"
-      },
-      "musicName": "Enquanto Eu Viver",
-      "properties": {
-        "realDurationMin": "4.7852",
-        "offsetSeconds": "3.16"
       }
     },
     "adoradores_4_levanto_a_cruz": {
