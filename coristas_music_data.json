@@ -551,19 +551,19 @@
       "grupo" : "Aliança Vocal",
       "ranges" : {
         "Contralto" : {
-          "min" : "D4",
-          "max" : "A5"
+          "min" : "C4",
+          "max" : "D5"
         },
         "Soprano" : {
           "min" : "D4",
-          "max" : "A5"
+          "max" : "F#5"
         },
         "Baixo" : {
-          "min" : "F#2",
+          "min" : "A2",
           "max" : "F#4"
         },
         "Tenor" : {
-          "min" : "F#2",
+          "min" : "D3",
           "max" : "F#4"
         }
       },
@@ -574,7 +574,7 @@
         "Tenor" : [ "Samuel Dorta", "Jéssica de Lima", "Taty", "Douglas Madoks" ],
         "Baixo" : [ "Eliseu", "Jeremias", "João Paulo", "Willian Modro" ]
       },
-      "timestamp" : "2026-09-07 09:00:32"
+      "timestamp" : "2026-09-07 14:11:48"
     }
   }
 }
