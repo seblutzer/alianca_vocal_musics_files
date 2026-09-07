@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T09:00:50Z",
+  "lastUpdated": "2026-09-07T14:12:03Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -106,8 +106,8 @@
     "steve_green_abraca_a_cruz": {
       "author": "Steve Green",
       "xml": {
-        "size": 193410,
-        "hash": "c91bfac2380b0023d0c7f3c9b032cd4bc1e5628573b5318b20451e3d62d65747"
+        "size": 257670,
+        "hash": "86466a2d810ce9bfa7cd126eb7e9746801b865418b1f0e4c86ece4d39a266e12"
       },
       "audio": {
         "size": 1612645,
@@ -116,8 +116,8 @@
       },
       "musicName": "Abraça a Cruz",
       "properties": {
-        "realDurationMin": "0.0000",
-        "offsetSeconds": "0.00"
+        "realDurationMin": "2.8380",
+        "offsetSeconds": "0.45"
       }
     },
     "michael_smith_agnus_dei": {
