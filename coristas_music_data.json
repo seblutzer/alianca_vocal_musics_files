@@ -545,7 +545,7 @@
       },
       "timestamp" : "2026-09-07 06:49:26"
     },
-    "Steve Green - Abraça a Cruz - Adaptado" : {
+    "Steve Green - Abraça a Cruz" : {
       "root" : "Bb",
       "mode" : "major",
       "grupo" : "Aliança Vocal",
@@ -560,7 +560,7 @@
         },
         "Baixo" : {
           "min" : "A2",
-          "max" : "B3"
+          "max" : "F#4"
         },
         "Tenor" : {
           "min" : "D3",
@@ -574,7 +574,7 @@
         "Tenor" : [ "Samuel Dorta", "Jéssica de Lima", "Taty", "Douglas Madoks" ],
         "Baixo" : [ "Eliseu", "Jeremias", "João Paulo", "Willian Modro" ]
       },
-      "timestamp" : "2026-09-08 05:23:30"
+      "timestamp" : "2026-09-07 14:11:48"
     },
     "Steve Green - Abraça a Cruz Adaptado" : {
       "root" : "Bb",
