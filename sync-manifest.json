@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T05:24:30Z",
+  "lastUpdated": "2026-09-08T05:27:04Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -86,23 +86,6 @@
         "offsetSeconds": "3.20"
       }
     },
-    "steve_green_abraca_a_cruz_adaptado": {
-      "author": "Steve Green",
-      "xml": {
-        "size": 257730,
-        "hash": "01b8ea9112a1a50572aef5d1bcff936b6a5d361ee21c779a4fea57d5eca99ee1"
-      },
-      "audio": {
-        "size": 1612645,
-        "format": "opus",
-        "hash": "b1a58ec1efa26adf222751240aa5a1397d8e24ab99b8b00bb27921849c74d187"
-      },
-      "musicName": "Abraça a Cruz Adaptado",
-      "properties": {
-        "realDurationMin": "2.8380",
-        "offsetSeconds": "0.45"
-      }
-    },
     "nova_voz_enquanto_eu_viver": {
       "author": "Nova Voz",
       "xml": {
@@ -118,23 +101,6 @@
       "properties": {
         "realDurationMin": "4.7852",
         "offsetSeconds": "3.16"
-      }
-    },
-    "steve_green_abraca_a_cruz": {
-      "author": "Steve Green",
-      "xml": {
-        "size": 257670,
-        "hash": "86466a2d810ce9bfa7cd126eb7e9746801b865418b1f0e4c86ece4d39a266e12"
-      },
-      "audio": {
-        "size": 1612645,
-        "format": "opus",
-        "hash": "b1a58ec1efa26adf222751240aa5a1397d8e24ab99b8b00bb27921849c74d187"
-      },
-      "musicName": "Abraça a Cruz",
-      "properties": {
-        "realDurationMin": "2.8380",
-        "offsetSeconds": "0.45"
       }
     },
     "michael_smith_agnus_dei": {
