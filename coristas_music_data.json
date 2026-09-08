@@ -93,7 +93,7 @@
         "range_min" : "F2",
         "range_max" : "D5",
         "voz_calculada" : "Tenor",
-        "voz_atribuida" : "Contralto",
+        "voz_atribuida" : "Tenor",
         "vozes_recomendadas" : [ "Tenor", "Barítono", "Contralto" ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Baixo" ]
       },
@@ -601,8 +601,8 @@
       "solistas" : { },
       "voices" : {
         "Soprano" : [ "Clara", "Kátia Vanessa", "Paloma" ],
-        "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia", "Eduardo Lutzer" ],
-        "Tenor" : [ "Samuel Dorta", "Jéssica de Lima", "Taty", "Douglas Madoks" ],
+        "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
+        "Tenor" : [ "Samuel Dorta", "Jéssica de Lima", "Taty", "Douglas Madoks", "Eduardo Lutzer" ],
         "Baixo" : [ "Eliseu", "Jeremias", "João Paulo", "Willian Modro" ]
       },
       "timestamp" : "2026-09-08 05:24:13"
