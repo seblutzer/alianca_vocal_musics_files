@@ -101,7 +101,7 @@
         "range_min" : "E2",
         "range_max" : "A#4",
         "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Baixo",
+        "voz_atribuida" : "Tenor",
         "vozes_recomendadas" : [ "Barítono", "Tenor", "Baixo" ],
         "vozes_possiveis" : [ "Contralto" ]
       },
@@ -567,8 +567,8 @@
       "voices" : {
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
         "Contralto" : [ "Miria", "Andréia", "Dalva Lutzer", "Elisângela Modro", "Suelene" ],
-        "Tenor" : [ "Eliseu", "Douglas Madoks", "Georgia", "Eduardo Lutzer" ],
-        "Baixo" : [ "Jeremias", "João Paulo", "Alerson", "Willian Modro" ]
+        "Tenor" : [ "Eliseu", "Douglas Madoks", "Georgia", "Eduardo Lutzer", "Willian Modro" ],
+        "Baixo" : [ "Jeremias", "João Paulo", "Alerson" ]
       },
       "timestamp" : "2026-09-10 07:47:31"
     },
