@@ -101,7 +101,7 @@
         "range_min" : "E2",
         "range_max" : "A#4",
         "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Tenor",
+        "voz_atribuida" : "Baixo",
         "vozes_recomendadas" : [ "Barítono", "Tenor", "Baixo" ],
         "vozes_possiveis" : [ "Contralto" ]
       },
@@ -533,13 +533,11 @@
       "solistas" : { },
       "voices" : {
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
-        "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia", "Eduardo Lutzer" ],
-        "Tenor" : [ "Douglas Madoks" ],
-        "Baixo" : [ "Eliseu", "Jeremias", "João Paulo", "Willian Modro" ],
-        "Barítono" : [ "Alerson" ],
-        "Mezzo-soprano" : [ "Andréia" ]
+        "Contralto" : [ "Miria", "Andréia", "Dalva Lutzer", "Elisângela Modro", "Suelene" ],
+        "Tenor" : [ "Eliseu", "Douglas Madoks", "Georgia", "Eduardo Lutzer" ],
+        "Baixo" : [ "Jeremias", "João Paulo", "Alerson", "Willian Modro" ]
       },
-      "timestamp" : "2026-09-07 06:49:26"
+      "timestamp" : "2026-11-07 02:36:19"
     },
     "Steve Green - Abraça a Cruz" : {
       "root" : "Bb",
