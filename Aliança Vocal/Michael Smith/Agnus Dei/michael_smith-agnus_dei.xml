@@ -4384,7 +4384,7 @@
     <staff>1</staff>
     <lyric number="part1verse1">
      <syllabic>begin</syllabic>
-     <text>Sen</text>
+     <text>Se</text>
     </lyric>
    </note>
   </measure>
@@ -9413,7 +9413,7 @@
     <staff>1</staff>
     <lyric number="part1verse1">
      <syllabic>begin</syllabic>
-     <text>Sen</text>
+     <text>Se</text>
     </lyric>
    </note>
   </measure>
@@ -10588,9 +10588,36 @@
   <measure number="14" width="168">
    <note>
     <rest/>
-    <duration>1024</duration>
+    <duration>512</duration>
     <voice>1</voice>
     <type>half</type>
+    <staff>1</staff>
+   </note>
+   <note>
+    <pitch>
+     <step>E</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>256</duration>
+    <voice>3</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <lyric number="part1verse1">
+     <syllabic>begin</syllabic>
+     <text>San</text>
+    </lyric>
+   </note>
+   <note>
+    <pitch>
+     <step>F</step>
+     <alter>1</alter>
+     <octave>3</octave>
+    </pitch>
+    <duration>256</duration>
+    <voice>3</voice>
+    <type>quarter</type>
+    <stem>up</stem>
     <staff>1</staff>
    </note>
   </measure>
@@ -10607,7 +10634,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
-     <syllabic>single</syllabic>
+     <syllabic>end</syllabic>
      <text>to!</text>
     </lyric>
    </note>
@@ -13108,7 +13135,7 @@
     <staff>1</staff>
     <lyric number="part1verse1">
      <syllabic>begin</syllabic>
-     <text>Sen</text>
+     <text>Se</text>
     </lyric>
    </note>
   </measure>
@@ -14257,9 +14284,36 @@
   <measure number="14" width="168">
    <note>
     <rest/>
-    <duration>1024</duration>
+    <duration>512</duration>
     <voice>1</voice>
     <type>half</type>
+    <staff>1</staff>
+   </note>
+   <note>
+    <pitch>
+     <step>E</step>
+     <octave>3</octave>
+    </pitch>
+    <duration>256</duration>
+    <voice>4</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <lyric number="part1verse1">
+     <syllabic>begin</syllabic>
+     <text>San</text>
+    </lyric>
+   </note>
+   <note>
+    <pitch>
+     <step>F</step>
+     <alter>1</alter>
+     <octave>3</octave>
+    </pitch>
+    <duration>256</duration>
+    <voice>4</voice>
+    <type>quarter</type>
+    <stem>up</stem>
     <staff>1</staff>
    </note>
   </measure>
@@ -14276,7 +14330,7 @@
     <stem>up</stem>
     <staff>1</staff>
     <lyric number="part1verse1">
-     <syllabic>single</syllabic>
+     <syllabic>end</syllabic>
      <text>to!</text>
     </lyric>
    </note>
@@ -16777,7 +16831,7 @@
     <staff>1</staff>
     <lyric number="part1verse1">
      <syllabic>begin</syllabic>
-     <text>Sen</text>
+     <text>Se</text>
     </lyric>
    </note>
   </measure>
