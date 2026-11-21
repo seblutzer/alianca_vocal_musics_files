@@ -184,13 +184,11 @@
       },
       "voices" : {
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
-        "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
-        "Tenor" : [ "Douglas Madoks", "Eduardo Lutzer" ],
-        "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ],
-        "Barítono" : [ "Jeremias", "Alerson" ],
-        "Mezzo-soprano" : [ "Andréia" ]
+        "Contralto" : [ "Miria", "Andréia", "Dalva Lutzer", "Elisângela Modro", "Suelene" ],
+        "Tenor" : [ "Eliseu", "Douglas Madoks", "Georgia", "Eduardo Lutzer" ],
+        "Baixo" : [ "Jeremias", "João Paulo", "Alerson", "Willian Modro" ]
       },
-      "timestamp" : "2026-06-06 03:00:38"
+      "timestamp" : "2026-11-21 09:13:35"
     },
     "Prisma Brasil - Meu Lar" : {
       "root" : "C#",
