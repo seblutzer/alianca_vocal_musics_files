@@ -3047,10 +3047,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>67.0</per-minute>
+      <per-minute>65.9</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="67.0"/>
+    <sound tempo="65.9"/>
    </direction>
    <note>
     <rest/>
@@ -6433,24 +6433,9 @@
      <step>D</step>
      <octave>5</octave>
     </pitch>
-    <duration>128</duration>
+    <duration>256</duration>
     <voice>1</voice>
-    <type>eighth</type>
-    <stem>down</stem>
-    <staff>1</staff>
-    <lyric number="1">
-     <syllabic>single</syllabic>
-     <text>vou</text>
-    </lyric>
-   </note>
-   <note>
-    <pitch>
-     <step>D</step>
-     <octave>5</octave>
-    </pitch>
-    <duration>128</duration>
-    <voice>1</voice>
-    <type>eighth</type>
+    <type>quarter</type>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="1">
@@ -7828,6 +7813,45 @@
   </measure>
   <!--============== Part: P1, Measure: 79 ==============-->
   <measure number="79" width="149">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>60.0</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="60.0"/>
+   </direction>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>60.0</per-minute>
+     </metronome>
+    </direction-type>
+    <offset>256</offset>
+    <sound tempo="60.0"/>
+   </direction>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>60.0</per-minute>
+     </metronome>
+    </direction-type>
+    <offset>512</offset>
+    <sound tempo="60.0"/>
+   </direction>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>61.7</per-minute>
+     </metronome>
+    </direction-type>
+    <offset>768</offset>
+    <sound tempo="61.7"/>
+   </direction>
    <note>
     <rest/>
     <duration>1024</duration>
@@ -7838,15 +7862,6 @@
    <barline>
     <bar-style>light-heavy</bar-style>
    </barline>
-   <direction placement="above">
-    <direction-type>
-     <metronome>
-      <beat-unit>quarter</beat-unit>
-      <per-minute>61.7</per-minute>
-     </metronome>
-    </direction-type>
-    <sound tempo="61.7"/>
-   </direction>
   </measure>
  </part>
  <part id="P2">
@@ -10748,10 +10763,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>67.0</per-minute>
+      <per-minute>65.9</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="67.0"/>
+    <sound tempo="65.9"/>
    </direction>
    <note>
     <rest/>
@@ -14156,25 +14171,9 @@
      <alter>1</alter>
      <octave>4</octave>
     </pitch>
-    <duration>128</duration>
+    <duration>256</duration>
     <voice>1</voice>
-    <type>eighth</type>
-    <stem>down</stem>
-    <staff>1</staff>
-    <lyric number="1">
-     <syllabic>single</syllabic>
-     <text>vou</text>
-    </lyric>
-   </note>
-   <note>
-    <pitch>
-     <step>F</step>
-     <alter>1</alter>
-     <octave>4</octave>
-    </pitch>
-    <duration>128</duration>
-    <voice>1</voice>
-    <type>eighth</type>
+    <type>quarter</type>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="1">
@@ -15551,6 +15550,45 @@
   </measure>
   <!--============== Part: P2, Measure: 79 ==============-->
   <measure number="79" width="149">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>60.0</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="60.0"/>
+   </direction>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>60.0</per-minute>
+     </metronome>
+    </direction-type>
+    <offset>256</offset>
+    <sound tempo="60.0"/>
+   </direction>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>60.0</per-minute>
+     </metronome>
+    </direction-type>
+    <offset>512</offset>
+    <sound tempo="60.0"/>
+   </direction>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>61.7</per-minute>
+     </metronome>
+    </direction-type>
+    <offset>768</offset>
+    <sound tempo="61.7"/>
+   </direction>
    <note>
     <rest/>
     <duration>1024</duration>
@@ -15561,15 +15599,6 @@
    <barline>
     <bar-style>light-heavy</bar-style>
    </barline>
-   <direction placement="above">
-    <direction-type>
-     <metronome>
-      <beat-unit>quarter</beat-unit>
-      <per-minute>61.7</per-minute>
-     </metronome>
-    </direction-type>
-    <sound tempo="61.7"/>
-   </direction>
   </measure>
  </part>
  <part id="P3">
@@ -18513,10 +18542,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>67.0</per-minute>
+      <per-minute>65.9</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="67.0"/>
+    <sound tempo="65.9"/>
    </direction>
    <note>
     <rest/>
@@ -22294,24 +22323,9 @@
      <step>D</step>
      <octave>4</octave>
     </pitch>
-    <duration>128</duration>
+    <duration>256</duration>
     <voice>1</voice>
-    <type>eighth</type>
-    <stem>down</stem>
-    <staff>1</staff>
-    <lyric number="1">
-     <syllabic>single</syllabic>
-     <text>vou</text>
-    </lyric>
-   </note>
-   <note>
-    <pitch>
-     <step>D</step>
-     <octave>4</octave>
-    </pitch>
-    <duration>128</duration>
-    <voice>1</voice>
-    <type>eighth</type>
+    <type>quarter</type>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="1">
@@ -23523,6 +23537,45 @@
   </measure>
   <!--============== Part: P3, Measure: 79 ==============-->
   <measure number="79" width="149">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>60.0</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="60.0"/>
+   </direction>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>60.0</per-minute>
+     </metronome>
+    </direction-type>
+    <offset>256</offset>
+    <sound tempo="60.0"/>
+   </direction>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>60.0</per-minute>
+     </metronome>
+    </direction-type>
+    <offset>512</offset>
+    <sound tempo="60.0"/>
+   </direction>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>61.7</per-minute>
+     </metronome>
+    </direction-type>
+    <offset>768</offset>
+    <sound tempo="61.7"/>
+   </direction>
    <note>
     <rest/>
     <duration>1024</duration>
@@ -23533,15 +23586,6 @@
    <barline>
     <bar-style>light-heavy</bar-style>
    </barline>
-   <direction placement="above">
-    <direction-type>
-     <metronome>
-      <beat-unit>quarter</beat-unit>
-      <per-minute>61.7</per-minute>
-     </metronome>
-    </direction-type>
-    <sound tempo="61.7"/>
-   </direction>
   </measure>
  </part>
  <part id="P4">
@@ -26465,10 +26509,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>67.0</per-minute>
+      <per-minute>65.9</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="67.0"/>
+    <sound tempo="65.9"/>
    </direction>
    <note>
     <rest/>
@@ -30230,24 +30274,9 @@
      <step>D</step>
      <octave>3</octave>
     </pitch>
-    <duration>128</duration>
+    <duration>256</duration>
     <voice>1</voice>
-    <type>eighth</type>
-    <stem>up</stem>
-    <staff>1</staff>
-    <lyric number="1">
-     <syllabic>single</syllabic>
-     <text>vou</text>
-    </lyric>
-   </note>
-   <note>
-    <pitch>
-     <step>D</step>
-     <octave>3</octave>
-    </pitch>
-    <duration>128</duration>
-    <voice>1</voice>
-    <type>eighth</type>
+    <type>quarter</type>
     <stem>up</stem>
     <staff>1</staff>
     <lyric number="1">
@@ -31457,6 +31486,45 @@
   </measure>
   <!--============== Part: P4, Measure: 79 ==============-->
   <measure number="79" width="149">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>60.0</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="60.0"/>
+   </direction>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>60.0</per-minute>
+     </metronome>
+    </direction-type>
+    <offset>256</offset>
+    <sound tempo="60.0"/>
+   </direction>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>60.0</per-minute>
+     </metronome>
+    </direction-type>
+    <offset>512</offset>
+    <sound tempo="60.0"/>
+   </direction>
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>61.7</per-minute>
+     </metronome>
+    </direction-type>
+    <offset>768</offset>
+    <sound tempo="61.7"/>
+   </direction>
    <note>
     <rest/>
     <duration>1024</duration>
@@ -31467,15 +31535,6 @@
    <barline>
     <bar-style>light-heavy</bar-style>
    </barline>
-   <direction placement="above">
-    <direction-type>
-     <metronome>
-      <beat-unit>quarter</beat-unit>
-      <per-minute>61.7</per-minute>
-     </metronome>
-    </direction-type>
-    <sound tempo="61.7"/>
-   </direction>
   </measure>
  </part>
 </score-partwise>
