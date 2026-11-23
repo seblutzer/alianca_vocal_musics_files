@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T15:16:45Z",
+  "lastUpdated": "2026-11-23T19:25:03Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -89,8 +89,8 @@
     "nova_voz_enquanto_eu_viver": {
       "author": "Nova Voz",
       "xml": {
-        "size": 623825,
-        "hash": "e4d9fa3f9f2ba77ce6d56268688c3b47a423eb20d22c2e3b48d6d1845546d730"
+        "size": 715117,
+        "hash": "4422c2f5b6866d151fc95f9fc67d698c2fb571d0f22991a88b3d1bda728501ab"
       },
       "audio": {
         "size": 2645469,
