@@ -3680,7 +3680,7 @@
     <staff>1</staff>
     <lyric number="1">
      <syllabic>single</syllabic>
-     <text>paz_e</text>
+     <text>paz</text>
     </lyric>
    </note>
    <note>
@@ -3695,7 +3695,7 @@
     <staff>1</staff>
     <lyric number="1">
      <syllabic>begin</syllabic>
-     <text>a_har</text>
+     <text>e_a_har</text>
     </lyric>
    </note>
    <note>
@@ -7159,43 +7159,16 @@
      <alter>1</alter>
      <octave>4</octave>
     </pitch>
-    <duration>128</duration>
-    <voice>1</voice>
-    <type>eighth</type>
-    <stem>down</stem>
-    <staff>1</staff>
-    <lyric number="1">
-     <syllabic>single</syllabic>
-     <text>lar</text>
-    </lyric>
-   </note>
-   <note>
-    <pitch>
-     <step>F</step>
-     <alter>1</alter>
-     <octave>4</octave>
-    </pitch>
-    <duration>512</duration>
+    <duration>768</duration>
     <voice>1</voice>
     <type>half</type>
+    <dot/>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="1">
      <syllabic>single</syllabic>
      <text>lar</text>
     </lyric>
-   </note>
-   <note>
-    <pitch>
-     <step>F</step>
-     <alter>1</alter>
-     <octave>4</octave>
-    </pitch>
-    <duration>128</duration>
-    <voice>1</voice>
-    <type>eighth</type>
-    <stem>down</stem>
-    <staff>1</staff>
    </note>
    <note>
     <rest/>
@@ -11398,7 +11371,7 @@
     <staff>1</staff>
     <lyric number="1">
      <syllabic>single</syllabic>
-     <text>paz_e</text>
+     <text>paz</text>
     </lyric>
    </note>
    <note>
@@ -11413,7 +11386,7 @@
     <staff>1</staff>
     <lyric number="1">
      <syllabic>begin</syllabic>
-     <text>a_har</text>
+     <text>e_a_har</text>
     </lyric>
    </note>
    <note>
@@ -14896,41 +14869,16 @@
      <step>D</step>
      <octave>4</octave>
     </pitch>
-    <duration>128</duration>
-    <voice>1</voice>
-    <type>eighth</type>
-    <stem>down</stem>
-    <staff>1</staff>
-    <lyric number="1">
-     <syllabic>single</syllabic>
-     <text>lar</text>
-    </lyric>
-   </note>
-   <note>
-    <pitch>
-     <step>D</step>
-     <octave>4</octave>
-    </pitch>
-    <duration>512</duration>
+    <duration>768</duration>
     <voice>1</voice>
     <type>half</type>
+    <dot/>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="1">
      <syllabic>single</syllabic>
      <text>lar</text>
     </lyric>
-   </note>
-   <note>
-    <pitch>
-     <step>D</step>
-     <octave>4</octave>
-    </pitch>
-    <duration>128</duration>
-    <voice>1</voice>
-    <type>eighth</type>
-    <stem>down</stem>
-    <staff>1</staff>
    </note>
    <note>
     <rest/>
@@ -19177,7 +19125,7 @@
     <staff>1</staff>
     <lyric number="1">
      <syllabic>single</syllabic>
-     <text>paz_e</text>
+     <text>paz</text>
     </lyric>
    </note>
    <note>
@@ -19192,7 +19140,7 @@
     <staff>1</staff>
     <lyric number="1">
      <syllabic>begin</syllabic>
-     <text>a_har</text>
+     <text>e_a_har</text>
     </lyric>
    </note>
    <note>
@@ -23061,42 +23009,15 @@
      <step>A</step>
      <octave>3</octave>
     </pitch>
-    <duration>128</duration>
+    <duration>1024</duration>
     <voice>1</voice>
-    <type>eighth</type>
+    <type>quarter</type>
     <stem>up</stem>
     <staff>1</staff>
     <lyric number="1">
      <syllabic>single</syllabic>
      <text>lar</text>
     </lyric>
-   </note>
-   <note>
-    <pitch>
-     <step>A</step>
-     <octave>3</octave>
-    </pitch>
-    <duration>768</duration>
-    <voice>1</voice>
-    <type>half</type>
-    <dot/>
-    <stem>up</stem>
-    <staff>1</staff>
-    <lyric number="1">
-     <syllabic>single</syllabic>
-     <text>lar</text>
-    </lyric>
-   </note>
-   <note>
-    <pitch>
-     <step>A</step>
-     <octave>3</octave>
-    </pitch>
-    <duration>128</duration>
-    <voice>1</voice>
-    <type>eighth</type>
-    <stem>up</stem>
-    <staff>1</staff>
    </note>
   </measure>
   <!--============== Part: P3, Measure: 73 ==============-->
@@ -27144,7 +27065,7 @@
     <staff>1</staff>
     <lyric number="1">
      <syllabic>single</syllabic>
-     <text>paz_e</text>
+     <text>paz</text>
     </lyric>
    </note>
    <note>
@@ -27159,7 +27080,7 @@
     <staff>1</staff>
     <lyric number="1">
      <syllabic>begin</syllabic>
-     <text>a_har</text>
+     <text>e_a_har</text>
     </lyric>
    </note>
    <note>
@@ -31011,42 +30932,15 @@
      <step>D</step>
      <octave>3</octave>
     </pitch>
-    <duration>128</duration>
+    <duration>1024</duration>
     <voice>1</voice>
-    <type>eighth</type>
+    <type>quarter</type>
     <stem>up</stem>
     <staff>1</staff>
     <lyric number="1">
      <syllabic>single</syllabic>
      <text>lar</text>
     </lyric>
-   </note>
-   <note>
-    <pitch>
-     <step>D</step>
-     <octave>3</octave>
-    </pitch>
-    <duration>768</duration>
-    <voice>1</voice>
-    <type>half</type>
-    <dot/>
-    <stem>up</stem>
-    <staff>1</staff>
-    <lyric number="1">
-     <syllabic>single</syllabic>
-     <text>lar</text>
-    </lyric>
-   </note>
-   <note>
-    <pitch>
-     <step>D</step>
-     <octave>3</octave>
-    </pitch>
-    <duration>128</duration>
-    <voice>1</voice>
-    <type>eighth</type>
-    <stem>up</stem>
-    <staff>1</staff>
    </note>
   </measure>
   <!--============== Part: P4, Measure: 73 ==============-->
