@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22T09:33:56Z",
+  "lastUpdated": "2026-11-23T03:40:21Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -55,8 +55,8 @@
     "prisma_brasil_meu_lar": {
       "author": "Prisma Brasil",
       "xml": {
-        "size": 654654,
-        "hash": "77544e6bcd73ed34692a5384f4ea07772f528334df104ab79c21da49ca0f5994"
+        "size": 656458,
+        "hash": "c8d4486b353a29cd2bb6efe0f60b0f460dc7f11a0083f569fc49b6d72cde9ee5"
       },
       "audio": {
         "size": 2332508,
@@ -65,7 +65,7 @@
       },
       "musicName": "Meu Lar",
       "properties": {
-        "realDurationMin": "4.5964",
+        "realDurationMin": "4.5984",
         "offsetSeconds": "1.80"
       }
     },
