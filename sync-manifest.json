@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T06:07:30Z",
+  "lastUpdated": "2026-11-24T08:18:55Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -38,8 +38,8 @@
     "margem_norte_alem_do_rio_azul": {
       "author": "Margem Norte",
       "xml": {
-        "size": 371939,
-        "hash": "ecb27897c6fbf1923aa42136795ce12c66a16549b761af2c4e31fbef7cd7a486"
+        "size": 432846,
+        "hash": "2af8034711a3fcde75f85f7881b9d700363eb61150415db5b9ab6388f4758848"
       },
       "audio": {
         "size": 2034684,
@@ -48,7 +48,7 @@
       },
       "musicName": "Além do Rio Azul",
       "properties": {
-        "realDurationMin": "3.3598",
+        "realDurationMin": "3.3605",
         "offsetSeconds": "1.57"
       }
     },
