@@ -13,7 +13,7 @@
         "range_min" : "G2",
         "range_max" : "G3",
         "voz_calculada" : "Baixo",
-        "voz_atribuida" : "Tenor",
+        "voz_atribuida" : "Baixo",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Tenor", "Barítono", "Baixo" ]
       },
@@ -29,7 +29,7 @@
         "range_min" : "F3",
         "range_max" : "F5",
         "voz_calculada" : "Mezzo-soprano",
-        "voz_atribuida" : "Contralto",
+        "voz_atribuida" : "Mezzo-soprano",
         "vozes_recomendadas" : [ "Mezzo-soprano", "Contralto" ],
         "vozes_possiveis" : [ "Soprano", "Tenor" ]
       },
@@ -45,7 +45,7 @@
         "range_min" : "G2",
         "range_max" : "E4",
         "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Baixo",
+        "voz_atribuida" : "Barítono",
         "vozes_recomendadas" : [ "Barítono" ],
         "vozes_possiveis" : [ "Tenor", "Baixo" ]
       },
@@ -93,7 +93,7 @@
         "range_min" : "E3",
         "range_max" : "A#4",
         "voz_calculada" : "Contralto",
-        "voz_atribuida" : "Tenor",
+        "voz_atribuida" : "Contralto",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Contralto", "Tenor" ]
       },
@@ -117,7 +117,7 @@
         "range_min" : "E2",
         "range_max" : "E4",
         "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Baixo",
+        "voz_atribuida" : "Barítono",
         "vozes_recomendadas" : [ "Barítono", "Baixo" ],
         "vozes_possiveis" : [ "Tenor" ]
       }
@@ -246,13 +246,11 @@
       },
       "voices" : {
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
-        "Contralto" : [ "Miria", "Dalva Lutzer", "Elisângela Modro", "Georgia" ],
-        "Tenor" : [ "Douglas Madoks", "Eduardo Lutzer" ],
-        "Baixo" : [ "Eliseu", "João Paulo", "Willian Modro" ],
-        "Barítono" : [ "Jeremias", "Alerson" ],
-        "Mezzo-soprano" : [ "Andréia" ]
+        "Contralto" : [ "Miria", "Andréia", "Dalva Lutzer", "Elisângela Modro", "Suelene" ],
+        "Tenor" : [ "Eliseu", "Douglas Madoks", "Georgia", "Eduardo Lutzer" ],
+        "Baixo" : [ "Jeremias", "João Paulo", "Alerson", "Willian Modro" ]
       },
-      "timestamp" : "2026-06-06 03:01:52"
+      "timestamp" : "2026-11-24 16:20:30"
     },
     "Prisma Brasil - Agradece ao Pai" : {
       "root" : "B",
