@@ -5842,10 +5842,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>72.1</per-minute>
+      <per-minute>68.6</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="72.1"/>
+    <sound tempo="68.6"/>
    </direction>
    <note>
     <pitch>
@@ -6039,10 +6039,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>70.0</per-minute>
+      <per-minute>69.5</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="70.0"/>
+    <sound tempo="69.5"/>
    </direction>
    <note>
     <pitch>
@@ -12604,10 +12604,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>72.1</per-minute>
+      <per-minute>68.6</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="72.1"/>
+    <sound tempo="68.6"/>
    </direction>
    <note>
     <pitch>
@@ -12801,10 +12801,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>70.0</per-minute>
+      <per-minute>69.5</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="70.0"/>
+    <sound tempo="69.5"/>
    </direction>
    <note>
     <pitch>
@@ -19546,10 +19546,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>72.1</per-minute>
+      <per-minute>68.6</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="72.1"/>
+    <sound tempo="68.6"/>
    </direction>
    <note>
     <pitch>
@@ -19743,10 +19743,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>70.0</per-minute>
+      <per-minute>69.5</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="70.0"/>
+    <sound tempo="69.5"/>
    </direction>
    <note>
     <pitch>
@@ -26208,10 +26208,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>72.1</per-minute>
+      <per-minute>68.6</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="72.1"/>
+    <sound tempo="68.6"/>
    </direction>
    <note>
     <pitch>
@@ -26405,10 +26405,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>70.0</per-minute>
+      <per-minute>69.5</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="70.0"/>
+    <sound tempo="69.5"/>
    </direction>
    <note>
     <pitch>
