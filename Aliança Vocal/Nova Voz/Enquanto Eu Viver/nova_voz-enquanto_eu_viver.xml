@@ -7601,10 +7601,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>79.1</per-minute>
+      <per-minute>80.5</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="79.1"/>
+    <sound tempo="80.5"/>
    </direction>
    <note>
     <pitch>
@@ -7612,27 +7612,15 @@
      <alter>1</alter>
      <octave>4</octave>
     </pitch>
-    <duration>512</duration>
+    <duration>640</duration>
     <voice>1</voice>
-    <type>half</type>
+    <type>quarter</type>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="1">
      <syllabic>end</syllabic>
      <text>mor</text>
     </lyric>
-   </note>
-   <note>
-    <pitch>
-     <step>A</step>
-     <alter>1</alter>
-     <octave>4</octave>
-    </pitch>
-    <duration>128</duration>
-    <voice>1</voice>
-    <type>eighth</type>
-    <stem>down</stem>
-    <staff>1</staff>
    </note>
    <note>
     <rest/>
@@ -7664,10 +7652,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>90.0</per-minute>
+      <per-minute>91.8</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="90.0"/>
+    <sound tempo="91.8"/>
    </direction>
    <note>
     <pitch>
@@ -16047,36 +16035,25 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>79.1</per-minute>
+      <per-minute>80.5</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="79.1"/>
+    <sound tempo="80.5"/>
    </direction>
    <note>
     <pitch>
      <step>G</step>
      <octave>4</octave>
     </pitch>
-    <duration>512</duration>
+    <duration>640</duration>
     <voice>1</voice>
-    <type>half</type>
+    <type>quarter</type>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="1">
      <syllabic>end</syllabic>
      <text>mor</text>
     </lyric>
-   </note>
-   <note>
-    <pitch>
-     <step>G</step>
-     <octave>4</octave>
-    </pitch>
-    <duration>128</duration>
-    <voice>1</voice>
-    <type>eighth</type>
-    <stem>down</stem>
-    <staff>1</staff>
    </note>
    <note>
     <rest/>
@@ -16107,10 +16084,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>90.0</per-minute>
+      <per-minute>91.8</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="90.0"/>
+    <sound tempo="91.8"/>
    </direction>
    <note>
     <pitch>
@@ -24204,22 +24181,16 @@
      <alter>1</alter>
      <octave>3</octave>
     </pitch>
-    <duration>128</duration>
+    <duration>192</duration>
     <voice>1</voice>
     <type>eighth</type>
+    <dot/>
     <stem>up</stem>
     <staff>1</staff>
     <lyric number="1">
      <syllabic>single</syllabic>
      <text>com</text>
     </lyric>
-   </note>
-   <note>
-    <rest/>
-    <duration>64</duration>
-    <voice>1</voice>
-    <type>16th</type>
-    <staff>1</staff>
    </note>
    <note>
     <pitch>
@@ -24274,10 +24245,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>79.1</per-minute>
+      <per-minute>80.5</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="79.1"/>
+    <sound tempo="80.5"/>
    </direction>
    <note>
     <pitch>
@@ -24285,27 +24256,15 @@
      <alter>1</alter>
      <octave>4</octave>
     </pitch>
-    <duration>512</duration>
+    <duration>640</duration>
     <voice>1</voice>
-    <type>half</type>
+    <type>quarter</type>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="1">
      <syllabic>end</syllabic>
      <text>mor</text>
     </lyric>
-   </note>
-   <note>
-    <pitch>
-     <step>D</step>
-     <alter>1</alter>
-     <octave>4</octave>
-    </pitch>
-    <duration>128</duration>
-    <voice>1</voice>
-    <type>eighth</type>
-    <stem>down</stem>
-    <staff>1</staff>
    </note>
    <note>
     <rest/>
@@ -24337,10 +24296,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>90.0</per-minute>
+      <per-minute>91.8</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="90.0"/>
+    <sound tempo="91.8"/>
    </direction>
    <note>
     <pitch>
@@ -32513,10 +32472,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>79.1</per-minute>
+      <per-minute>80.5</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="79.1"/>
+    <sound tempo="80.5"/>
    </direction>
    <note>
     <pitch>
@@ -32524,27 +32483,15 @@
      <alter>1</alter>
      <octave>4</octave>
     </pitch>
-    <duration>512</duration>
+    <duration>640</duration>
     <voice>1</voice>
-    <type>half</type>
+    <type>quarter</type>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="1">
      <syllabic>end</syllabic>
      <text>mor</text>
     </lyric>
-   </note>
-   <note>
-    <pitch>
-     <step>D</step>
-     <alter>1</alter>
-     <octave>4</octave>
-    </pitch>
-    <duration>128</duration>
-    <voice>1</voice>
-    <type>eighth</type>
-    <stem>down</stem>
-    <staff>1</staff>
    </note>
    <note>
     <rest/>
@@ -32576,10 +32523,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>90.0</per-minute>
+      <per-minute>91.8</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="90.0"/>
+    <sound tempo="91.8"/>
    </direction>
    <note>
     <pitch>
