@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T14:45:37Z",
+  "lastUpdated": "2026-11-24T14:47:35Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -174,8 +174,8 @@
     "prisma_brasil_agradece_ao_pai": {
       "author": "Prisma Brasil",
       "xml": {
-        "size": 425562,
-        "hash": "14ab53000ab9f778ab15b8d44e8baf215189b177e473f874d6050f37d7750e0b"
+        "size": 392868,
+        "hash": "08bffba9742a9fdfea80de27cda9dbce8dad650b38f5d3a6a65b582ca7dca4eb"
       },
       "audio": {
         "size": 1822895,
@@ -208,8 +208,8 @@
     "adoradores_4_levanto_a_cruz": {
       "author": "Adoradores 4",
       "xml": {
-        "size": 503254,
-        "hash": "3aac0a7f70b1031b0ce6af45981c08a1177f381806d7e3b83e1dc425b4fce360"
+        "size": 569014,
+        "hash": "c7d245135aaa64ec18c86a79cdd1b76a1981d791f1e34c2442609bd945a31337"
       },
       "audio": {
         "size": 2748926,
@@ -218,7 +218,7 @@
       },
       "musicName": "Levanto a Cruz",
       "properties": {
-        "realDurationMin": "5.0638",
+        "realDurationMin": "5.0660",
         "offsetSeconds": "1.33"
       }
     }
