@@ -343,11 +343,11 @@
       "solistas" : { },
       "voices" : {
         "Soprano" : [ "Kátia Vanessa", "Paloma" ],
+        "Contralto" : [ "Miria", "Andréia", "Dalva Lutzer", "Elisângela Modro", "Suelene" ],
         "Tenor" : [ "Eliseu", "Douglas Madoks", "Georgia", "Eduardo Lutzer" ],
-        "Baixo" : [ "Jeremias", "João Paulo", "Alerson", "Willian Modro" ],
-        "Contralto" : [ "Miria", "Andréia", "Dalva Lutzer", "Elisângela Modro", "Suelene" ]
+        "Baixo" : [ "Jeremias", "João Paulo", "Alerson", "Willian Modro" ]
       },
-      "timestamp" : "2026-11-25 04:40:40"
+      "timestamp" : "2026-11-25 08:09:04"
     },
     "Vocal Livre - Quem de Nós" : {
       "root" : "Eb",
