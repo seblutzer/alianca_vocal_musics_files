@@ -2382,10 +2382,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>84.6</per-minute>
+      <per-minute>81.7</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="84.6"/>
+    <sound tempo="81.7"/>
    </direction>
    <note>
     <pitch>
@@ -3775,6 +3775,15 @@
   </measure>
   <!--============== Part: P1, Measure: 85 ==============-->
   <measure number="85" width="109">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>87.0</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="87.0"/>
+   </direction>
    <note>
     <rest/>
     <duration>768</duration>
@@ -3785,15 +3794,6 @@
    <barline>
     <bar-style>light-heavy</bar-style>
    </barline>
-   <direction placement="above">
-    <direction-type>
-     <metronome>
-      <beat-unit>quarter</beat-unit>
-      <per-minute>87.0</per-minute>
-     </metronome>
-    </direction-type>
-    <sound tempo="87.0"/>
-   </direction>
   </measure>
  </part>
  <part id="P2">
@@ -5958,10 +5958,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>84.6</per-minute>
+      <per-minute>81.7</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="84.6"/>
+    <sound tempo="81.7"/>
    </direction>
    <note>
     <pitch>
@@ -7286,6 +7286,15 @@
   </measure>
   <!--============== Part: P2, Measure: 85 ==============-->
   <measure number="85" width="109">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>87.0</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="87.0"/>
+   </direction>
    <note>
     <rest/>
     <duration>768</duration>
@@ -7296,15 +7305,6 @@
    <barline>
     <bar-style>light-heavy</bar-style>
    </barline>
-   <direction placement="above">
-    <direction-type>
-     <metronome>
-      <beat-unit>quarter</beat-unit>
-      <per-minute>87.0</per-minute>
-     </metronome>
-    </direction-type>
-    <sound tempo="87.0"/>
-   </direction>
   </measure>
  </part>
  <part id="P3">
@@ -9398,10 +9398,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>84.6</per-minute>
+      <per-minute>81.7</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="84.6"/>
+    <sound tempo="81.7"/>
    </direction>
    <note>
     <pitch>
@@ -10678,6 +10678,15 @@
   </measure>
   <!--============== Part: P3, Measure: 85 ==============-->
   <measure number="85" width="109">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>87.0</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="87.0"/>
+   </direction>
    <note>
     <rest/>
     <duration>768</duration>
@@ -10688,15 +10697,6 @@
    <barline>
     <bar-style>light-heavy</bar-style>
    </barline>
-   <direction placement="above">
-    <direction-type>
-     <metronome>
-      <beat-unit>quarter</beat-unit>
-      <per-minute>87.0</per-minute>
-     </metronome>
-    </direction-type>
-    <sound tempo="87.0"/>
-   </direction>
   </measure>
  </part>
  <part id="P4">
@@ -12724,10 +12724,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>84.6</per-minute>
+      <per-minute>81.7</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="84.6"/>
+    <sound tempo="81.7"/>
    </direction>
    <note>
     <pitch>
@@ -14012,6 +14012,15 @@
   </measure>
   <!--============== Part: P4, Measure: 85 ==============-->
   <measure number="85" width="109">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>87.0</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="87.0"/>
+   </direction>
    <note>
     <rest/>
     <duration>768</duration>
@@ -14022,15 +14031,6 @@
    <barline>
     <bar-style>light-heavy</bar-style>
    </barline>
-   <direction placement="above">
-    <direction-type>
-     <metronome>
-      <beat-unit>quarter</beat-unit>
-      <per-minute>87.0</per-minute>
-     </metronome>
-    </direction-type>
-    <sound tempo="87.0"/>
-   </direction>
   </measure>
  </part>
 </score-partwise>
