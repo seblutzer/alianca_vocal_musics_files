@@ -29,7 +29,7 @@
         "range_min" : "F3",
         "range_max" : "F5",
         "voz_calculada" : "Mezzo-soprano",
-        "voz_atribuida" : "Contralto",
+        "voz_atribuida" : "Mezzo-soprano",
         "vozes_recomendadas" : [ "Mezzo-soprano", "Contralto" ],
         "vozes_possiveis" : [ "Soprano", "Tenor" ]
       },
@@ -37,7 +37,7 @@
         "range_min" : "F3",
         "range_max" : "A5",
         "voz_calculada" : "Mezzo-soprano",
-        "voz_atribuida" : "Soprano",
+        "voz_atribuida" : "Mezzo-soprano",
         "vozes_recomendadas" : [ "Mezzo-soprano", "Soprano", "Contralto" ],
         "vozes_possiveis" : [ "Tenor" ]
       },
@@ -45,7 +45,7 @@
         "range_min" : "G2",
         "range_max" : "E4",
         "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Baixo",
+        "voz_atribuida" : "Barítono",
         "vozes_recomendadas" : [ "Barítono" ],
         "vozes_possiveis" : [ "Tenor", "Baixo" ]
       },
@@ -77,7 +77,7 @@
         "range_min" : "F2",
         "range_max" : "D5",
         "voz_calculada" : "Tenor",
-        "voz_atribuida" : "Tenor",
+        "voz_atribuida" : "Barítono",
         "vozes_recomendadas" : [ "Tenor", "Barítono", "Contralto" ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Baixo" ]
       },
@@ -93,7 +93,7 @@
         "range_min" : "E3",
         "range_max" : "A#4",
         "voz_calculada" : "Contralto",
-        "voz_atribuida" : "Tenor",
+        "voz_atribuida" : "Mezzo-soprano",
         "vozes_recomendadas" : [ ],
         "vozes_possiveis" : [ "Mezzo-soprano", "Contralto", "Tenor" ]
       },
@@ -351,13 +351,13 @@
       "solistas" : { },
       "voices" : {
         "Soprano" : [ "Kátia Vanessa" ],
-        "Mezzo-soprano" : [ "Paloma", "Andréia" ],
-        "Contralto" : [ "Miria", "Elisângela Modro", "Dalva Lutzer" ],
-        "Tenor" : [ "Douglas Madoks", "Georgia" ],
-        "Barítono" : [ "Eliseu", "Eduardo Lutzer", "Jeremias" ],
-        "Baixo" : [ "João Paulo", "Willian Modro", "Alerson" ]
+        "Mezzo-soprano" : [ "Georgia", "Paloma", "Andréia" ],
+        "Contralto" : [ "Miria", "Elisângela Modro", "Suelene", "Dalva Lutzer" ],
+        "Tenor" : [ "Eliseu", "Douglas Madoks" ],
+        "Barítono" : [ "Jeremias", "Eduardo Lutzer" ],
+        "Baixo" : [ "João Paulo", "Alerson", "Willian Modro" ]
       },
-      "timestamp" : "2026-06-06 02:59:32"
+      "timestamp" : "2026-11-25 03:12:26"
     },
     "Vocal Livre - Quem de Nós" : {
       "root" : "Eb",
