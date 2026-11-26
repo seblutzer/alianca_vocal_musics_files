@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T12:34:10Z",
+  "lastUpdated": "2026-11-26T15:27:58Z",
   "musics": {
     "som_e_louvor_o_lirio_ressurgiu": {
       "author": "Som e Louvor",
@@ -175,7 +175,7 @@
       "author": "Prisma Brasil",
       "xml": {
         "size": 428659,
-        "hash": "2423fa779772100d2c1b98883930ae8a1f96bf0fd5d1d7d6ec0bd9684a8ed013"
+        "hash": "2d831c8912d09c751c0ddf81c46cefd6f75f6e196bc584da797257cce458176e"
       },
       "audio": {
         "size": 1822895,
@@ -184,7 +184,7 @@
       },
       "musicName": "Agradece ao Pai",
       "properties": {
-        "realDurationMin": "3.0578",
+        "realDurationMin": "3.0579",
         "offsetSeconds": "13.00"
       }
     },
