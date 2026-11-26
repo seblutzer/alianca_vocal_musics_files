@@ -543,37 +543,6 @@
         "Baixo" : [ "Jeremias", "João Paulo", "Alerson" ]
       },
       "timestamp" : "2026-09-10 07:47:31"
-    },
-    "Steve Green - Abraça a Cruz Adaptado" : {
-      "root" : "Bb",
-      "mode" : "major",
-      "grupo" : "Aliança Vocal",
-      "ranges" : {
-        "Contralto" : {
-          "min" : "C4",
-          "max" : "D5"
-        },
-        "Soprano" : {
-          "min" : "D4",
-          "max" : "F#5"
-        },
-        "Baixo" : {
-          "min" : "A2",
-          "max" : "B3"
-        },
-        "Tenor" : {
-          "min" : "D3",
-          "max" : "F#4"
-        }
-      },
-      "solistas" : { },
-      "voices" : {
-        "Soprano" : [ "Kátia Vanessa", "Paloma", "Dalva Lutzer", "Andréia" ],
-        "Contralto" : [ "Miria", "Elisângela Modro", "Georgia", "Suelene" ],
-        "Tenor" : [ "Douglas Madoks", "Eduardo Lutzer", "Willian Modro" ],
-        "Baixo" : [ "Eliseu", "Jeremias", "João Paulo", "Alerson" ]
-      },
-      "timestamp" : "2026-09-08 05:24:13"
     }
   }
 }
