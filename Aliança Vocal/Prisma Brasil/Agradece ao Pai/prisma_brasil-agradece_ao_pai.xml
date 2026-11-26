@@ -2628,10 +2628,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>66.2</per-minute>
+      <per-minute>64.5</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="66.2"/>
+    <sound tempo="64.5"/>
    </direction>
    <note>
     <pitch>
@@ -3424,10 +3424,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>60.7</per-minute>
+      <per-minute>61.3</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="60.7"/>
+    <sound tempo="61.3"/>
    </direction>
    <note>
     <pitch>
@@ -4847,10 +4847,6 @@
     <type>half</type>
     <stem>down</stem>
     <staff>1</staff>
-    <lyric number="1">
-     <syllabic>single</syllabic>
-     <text>Ah</text>
-    </lyric>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 51 ==============-->
@@ -7547,10 +7543,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>66.2</per-minute>
+      <per-minute>64.5</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="66.2"/>
+    <sound tempo="64.5"/>
    </direction>
    <note>
     <pitch>
@@ -8349,10 +8345,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>60.7</per-minute>
+      <per-minute>61.3</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="60.7"/>
+    <sound tempo="61.3"/>
    </direction>
    <note>
     <pitch>
@@ -12651,10 +12647,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>66.2</per-minute>
+      <per-minute>64.5</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="66.2"/>
+    <sound tempo="64.5"/>
    </direction>
    <note>
     <pitch>
@@ -13496,10 +13492,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>60.7</per-minute>
+      <per-minute>61.3</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="60.7"/>
+    <sound tempo="61.3"/>
    </direction>
    <note>
     <pitch>
@@ -17809,10 +17805,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>66.2</per-minute>
+      <per-minute>64.5</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="66.2"/>
+    <sound tempo="64.5"/>
    </direction>
    <note>
     <pitch>
@@ -18654,10 +18650,10 @@
     <direction-type>
      <metronome>
       <beat-unit>quarter</beat-unit>
-      <per-minute>60.7</per-minute>
+      <per-minute>61.3</per-minute>
      </metronome>
     </direction-type>
-    <sound tempo="60.7"/>
+    <sound tempo="61.3"/>
    </direction>
    <note>
     <pitch>
