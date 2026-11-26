@@ -761,9 +761,9 @@
      <step>G</step>
      <octave>4</octave>
     </pitch>
-    <duration>128</duration>
+    <duration>64</duration>
     <voice>1</voice>
-    <type>eighth</type>
+    <type>16th</type>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="1">
@@ -776,7 +776,7 @@
      <step>G</step>
      <octave>4</octave>
     </pitch>
-    <duration>256</duration>
+    <duration>320</duration>
     <voice>1</voice>
     <type>quarter</type>
     <stem>down</stem>
@@ -824,7 +824,7 @@
     <staff>1</staff>
     <lyric number="1">
      <syllabic>single</syllabic>
-     <text>E</text>
+     <text>E_as</text>
     </lyric>
    </note>
    <note>
@@ -835,21 +835,6 @@
     <duration>64</duration>
     <voice>1</voice>
     <type>16th</type>
-    <stem>down</stem>
-    <staff>1</staff>
-    <lyric number="1">
-     <syllabic>single</syllabic>
-     <text>as</text>
-    </lyric>
-   </note>
-   <note>
-    <pitch>
-     <step>F</step>
-     <octave>4</octave>
-    </pitch>
-    <duration>128</duration>
-    <voice>1</voice>
-    <type>eighth</type>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="1">
@@ -862,9 +847,9 @@
      <step>F</step>
      <octave>4</octave>
     </pitch>
-    <duration>64</duration>
+    <duration>128</duration>
     <voice>1</voice>
-    <type>16th</type>
+    <type>eighth</type>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="1">
@@ -907,9 +892,10 @@
      <step>F</step>
      <octave>4</octave>
     </pitch>
-    <duration>128</duration>
+    <duration>192</duration>
     <voice>1</voice>
     <type>eighth</type>
+    <dot/>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="1">
@@ -5049,6 +5035,15 @@
   </measure>
   <!--============== Part: P1, Measure: 54 ==============-->
   <measure number="54" width="100">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>65.0</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="65.0"/>
+   </direction>
    <note>
     <rest/>
     <duration>1024</duration>
@@ -5059,15 +5054,6 @@
    <barline>
     <bar-style>light-heavy</bar-style>
    </barline>
-   <direction placement="above">
-    <direction-type>
-     <metronome>
-      <beat-unit>quarter</beat-unit>
-      <per-minute>65.0</per-minute>
-     </metronome>
-    </direction-type>
-    <sound tempo="65.0"/>
-   </direction>
   </measure>
  </part>
  <part id="P2">
@@ -5671,9 +5657,9 @@
      <step>G</step>
      <octave>4</octave>
     </pitch>
-    <duration>128</duration>
+    <duration>64</duration>
     <voice>1</voice>
-    <type>eighth</type>
+    <type>16th</type>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="1">
@@ -5686,7 +5672,7 @@
      <step>G</step>
      <octave>4</octave>
     </pitch>
-    <duration>256</duration>
+    <duration>320</duration>
     <voice>1</voice>
     <type>quarter</type>
     <stem>down</stem>
@@ -5734,7 +5720,7 @@
     <staff>1</staff>
     <lyric number="1">
      <syllabic>single</syllabic>
-     <text>E</text>
+     <text>E_as</text>
     </lyric>
    </note>
    <note>
@@ -5745,21 +5731,6 @@
     <duration>64</duration>
     <voice>1</voice>
     <type>16th</type>
-    <stem>down</stem>
-    <staff>1</staff>
-    <lyric number="1">
-     <syllabic>single</syllabic>
-     <text>as</text>
-    </lyric>
-   </note>
-   <note>
-    <pitch>
-     <step>F</step>
-     <octave>4</octave>
-    </pitch>
-    <duration>128</duration>
-    <voice>1</voice>
-    <type>eighth</type>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="1">
@@ -5772,9 +5743,9 @@
      <step>F</step>
      <octave>4</octave>
     </pitch>
-    <duration>64</duration>
+    <duration>128</duration>
     <voice>1</voice>
-    <type>16th</type>
+    <type>eighth</type>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="1">
@@ -5817,9 +5788,10 @@
      <step>F</step>
      <octave>4</octave>
     </pitch>
-    <duration>128</duration>
+    <duration>192</duration>
     <voice>1</voice>
     <type>eighth</type>
+    <dot/>
     <stem>down</stem>
     <staff>1</staff>
     <lyric number="1">
@@ -9968,6 +9940,15 @@
   </measure>
   <!--============== Part: P2, Measure: 54 ==============-->
   <measure number="54" width="100">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>65.0</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="65.0"/>
+   </direction>
    <note>
     <rest/>
     <duration>1024</duration>
@@ -9978,15 +9959,6 @@
    <barline>
     <bar-style>light-heavy</bar-style>
    </barline>
-   <direction placement="above">
-    <direction-type>
-     <metronome>
-      <beat-unit>quarter</beat-unit>
-      <per-minute>65.0</per-minute>
-     </metronome>
-    </direction-type>
-    <sound tempo="65.0"/>
-   </direction>
   </measure>
  </part>
  <part id="P3">
@@ -10644,9 +10616,9 @@
      <step>G</step>
      <octave>3</octave>
     </pitch>
-    <duration>128</duration>
+    <duration>64</duration>
     <voice>1</voice>
-    <type>eighth</type>
+    <type>16th</type>
     <stem>up</stem>
     <staff>1</staff>
     <lyric number="1">
@@ -10659,7 +10631,7 @@
      <step>G</step>
      <octave>3</octave>
     </pitch>
-    <duration>256</duration>
+    <duration>320</duration>
     <voice>1</voice>
     <type>quarter</type>
     <stem>up</stem>
@@ -10707,7 +10679,7 @@
     <staff>1</staff>
     <lyric number="1">
      <syllabic>single</syllabic>
-     <text>E</text>
+     <text>E_as</text>
     </lyric>
    </note>
    <note>
@@ -10718,21 +10690,6 @@
     <duration>64</duration>
     <voice>1</voice>
     <type>16th</type>
-    <stem>up</stem>
-    <staff>1</staff>
-    <lyric number="1">
-     <syllabic>single</syllabic>
-     <text>as</text>
-    </lyric>
-   </note>
-   <note>
-    <pitch>
-     <step>F</step>
-     <octave>3</octave>
-    </pitch>
-    <duration>128</duration>
-    <voice>1</voice>
-    <type>eighth</type>
     <stem>up</stem>
     <staff>1</staff>
     <lyric number="1">
@@ -10745,9 +10702,9 @@
      <step>F</step>
      <octave>3</octave>
     </pitch>
-    <duration>64</duration>
+    <duration>128</duration>
     <voice>1</voice>
-    <type>16th</type>
+    <type>eighth</type>
     <stem>up</stem>
     <staff>1</staff>
     <lyric number="1">
@@ -10790,9 +10747,10 @@
      <step>F</step>
      <octave>3</octave>
     </pitch>
-    <duration>128</duration>
+    <duration>192</duration>
     <voice>1</voice>
     <type>eighth</type>
+    <dot/>
     <stem>up</stem>
     <staff>1</staff>
     <lyric number="1">
@@ -15132,6 +15090,15 @@
   </measure>
   <!--============== Part: P3, Measure: 54 ==============-->
   <measure number="54" width="100">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>65.0</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="65.0"/>
+   </direction>
    <note>
     <rest/>
     <duration>1024</duration>
@@ -15142,15 +15109,6 @@
    <barline>
     <bar-style>light-heavy</bar-style>
    </barline>
-   <direction placement="above">
-    <direction-type>
-     <metronome>
-      <beat-unit>quarter</beat-unit>
-      <per-minute>65.0</per-minute>
-     </metronome>
-    </direction-type>
-    <sound tempo="65.0"/>
-   </direction>
   </measure>
  </part>
  <part id="P4">
@@ -15808,9 +15766,9 @@
      <step>G</step>
      <octave>3</octave>
     </pitch>
-    <duration>128</duration>
+    <duration>64</duration>
     <voice>1</voice>
-    <type>eighth</type>
+    <type>16th</type>
     <stem>up</stem>
     <staff>1</staff>
     <lyric number="1">
@@ -15823,7 +15781,7 @@
      <step>G</step>
      <octave>3</octave>
     </pitch>
-    <duration>256</duration>
+    <duration>320</duration>
     <voice>1</voice>
     <type>quarter</type>
     <stem>up</stem>
@@ -15871,7 +15829,7 @@
     <staff>1</staff>
     <lyric number="1">
      <syllabic>single</syllabic>
-     <text>E</text>
+     <text>E_as</text>
     </lyric>
    </note>
    <note>
@@ -15882,21 +15840,6 @@
     <duration>64</duration>
     <voice>1</voice>
     <type>16th</type>
-    <stem>up</stem>
-    <staff>1</staff>
-    <lyric number="1">
-     <syllabic>single</syllabic>
-     <text>as</text>
-    </lyric>
-   </note>
-   <note>
-    <pitch>
-     <step>F</step>
-     <octave>3</octave>
-    </pitch>
-    <duration>128</duration>
-    <voice>1</voice>
-    <type>eighth</type>
     <stem>up</stem>
     <staff>1</staff>
     <lyric number="1">
@@ -15909,9 +15852,9 @@
      <step>F</step>
      <octave>3</octave>
     </pitch>
-    <duration>64</duration>
+    <duration>128</duration>
     <voice>1</voice>
-    <type>16th</type>
+    <type>eighth</type>
     <stem>up</stem>
     <staff>1</staff>
     <lyric number="1">
@@ -15954,9 +15897,10 @@
      <step>F</step>
      <octave>3</octave>
     </pitch>
-    <duration>128</duration>
+    <duration>192</duration>
     <voice>1</voice>
     <type>eighth</type>
+    <dot/>
     <stem>up</stem>
     <staff>1</staff>
     <lyric number="1">
@@ -20296,6 +20240,15 @@
   </measure>
   <!--============== Part: P4, Measure: 54 ==============-->
   <measure number="54" width="100">
+   <direction placement="above">
+    <direction-type>
+     <metronome>
+      <beat-unit>quarter</beat-unit>
+      <per-minute>65.0</per-minute>
+     </metronome>
+    </direction-type>
+    <sound tempo="65.0"/>
+   </direction>
    <note>
     <rest/>
     <duration>1024</duration>
@@ -20306,15 +20259,6 @@
    <barline>
     <bar-style>light-heavy</bar-style>
    </barline>
-   <direction placement="above">
-    <direction-type>
-     <metronome>
-      <beat-unit>quarter</beat-unit>
-      <per-minute>65.0</per-minute>
-     </metronome>
-    </direction-type>
-    <sound tempo="65.0"/>
-   </direction>
   </measure>
  </part>
 </score-partwise>
