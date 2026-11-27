@@ -281,7 +281,7 @@
         "Tenor" : [ "Eliseu", "Douglas Madoks", "Georgia", "Eduardo Lutzer" ],
         "Baixo" : [ "Jeremias", "João Paulo", "Alerson", "Willian Modro" ]
       },
-      "timestamp" : "2026-11-26 16:18:38"
+      "timestamp" : "2026-11-26 21:05:10"
     },
     "Nova Voz - Digno é o Senhor" : {
       "root" : "F#",
@@ -543,6 +543,15 @@
         "Baixo" : [ "Jeremias", "João Paulo", "Alerson" ]
       },
       "timestamp" : "2026-09-10 07:47:31"
+    },
+    "Steve Green - Abraça a Cruz Adaptado" : {
+      "root" : null,
+      "mode" : null,
+      "grupo" : "Aliança Vocal",
+      "ranges" : null,
+      "solistas" : null,
+      "voices" : null,
+      "timestamp" : "2026-11-26 20:15:51"
     }
   }
 }
