@@ -491,11 +491,10 @@
       },
       "solistas" : { },
       "voices" : {
-        "Soprano" : [ "Kátia Vanessa", "Paloma" ],
+        "Soprano" : [ "Kátia Vanessa", "Paloma", "Juci" ],
         "Contralto" : [ "Miria", "Andréia", "Dalva Lutzer", "Elisângela Modro", "Suelene" ],
         "Tenor" : [ "Eliseu", "Douglas Madoks", "Georgia", "Eduardo Lutzer" ],
-        "Baixo" : [ "Jeremias", "João Paulo", "Alerson", "Willian Modro" ],
-        "Mezzo-soprano" : [ "Juci" ]
+        "Baixo" : [ "Jeremias", "João Paulo", "Alerson", "Willian Modro" ]
       },
       "timestamp" : "2026-11-24 06:07:14"
     },
