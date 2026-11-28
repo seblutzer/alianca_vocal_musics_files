@@ -77,7 +77,7 @@
         "range_min" : "A3",
         "range_max" : "A5",
         "voz_calculada" : "Soprano",
-        "voz_atribuida" : "Soprano",
+        "voz_atribuida" : "Mezzo-soprano",
         "vozes_recomendadas" : [ "Soprano", "Mezzo-soprano" ],
         "vozes_possiveis" : [ "Contralto" ]
       },
@@ -109,7 +109,7 @@
         "range_min" : "E2",
         "range_max" : "A#4",
         "voz_calculada" : "Barítono",
-        "voz_atribuida" : "Baixo",
+        "voz_atribuida" : "Tenor",
         "vozes_recomendadas" : [ "Barítono", "Tenor", "Baixo" ],
         "vozes_possiveis" : [ "Contralto" ]
       },
